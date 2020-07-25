@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>                        
+		<key>1</key>
+		<array>	
+			<string>{ 8.96000,-27.93500 }</string>	
+			<string>{ 16.96000,-30.93500 }</string>	
+			<string>{ 15.96000,-38.93500 }</string>	
+			<string>{ -2.04000,-43.93500 }</string>	
+			<string>{ -9.04000,-35.93500 }</string>
+		</array>
+		<key>2</key>
+		<array>	
+			<string>{ 4.96000,18.06500 }</string>	
+			<string>{ 6.96000,28.06500 }</string>	
+			<string>{ 10.96000,42.06500 }</string>	
+			<string>{ 16.96000,31.06500 }</string>
+		</array>
+		<key>3</key>
+		<array>	
+			<string>{ 49.96000,-20.93500 }</string>	
+			<string>{ 34.96000,-22.93500 }</string>	
+			<string>{ 14.96000,-4.93500 }</string>	
+			<string>{ 14.96000,7.06500 }</string>	
+			<string>{ 31.96000,23.06500 }</string>	
+			<string>{ 51.96000,22.06500 }</string>	
+			<string>{ 63.96000,3.06500 }</string>
+		</array>
+		<key>4</key>
+		<array>	
+			<string>{ -36.04000,44.06500 }</string>	
+			<string>{ -29.04000,34.06500 }</string>	
+			<string>{ -34.04000,31.06500 }</string>	
+			<string>{ -56.04000,38.06500 }</string>	
+			<string>{ -53.04000,47.06500 }</string>
+		</array>
+		<key>5</key>
+		<array>	
+			<string>{ -46.04000,24.06500 }</string>	
+			<string>{ -34.04000,31.06500 }</string>	
+			<string>{ -15.04000,31.06500 }</string>	
+			<string>{ 1.96000,23.06500 }</string>	
+			<string>{ -28.04000,-29.93500 }</string>	
+			<string>{ -34.04000,-30.93500 }</string>	
+			<string>{ -46.04000,-22.93500 }</string>	
+			<string>{ -58.04000,1.06500 }</string>
+		</array>
+		<key>6</key>
+		<array>	
+			<string>{ -54.04000,-38.93500 }</string>	
+			<string>{ -34.04000,-30.93500 }</string>	
+			<string>{ -28.04000,-29.93500 }</string>	
+			<string>{ -35.04000,-44.93500 }</string>	
+			<string>{ -54.04000,-47.93500 }</string>
+		</array>
+		<key>7</key>
+		<array>	
+			<string>{ 8.96000,-27.93500 }</string>	
+			<string>{ 1.96000,-20.93500 }</string>	
+			<string>{ 6.96000,-16.93500 }</string>	
+			<string>{ 16.96000,-30.93500 }</string>
+		</array>
+		<key>8</key>
+		<array>	
+			<string>{ -7.04000,44.06500 }</string>	
+			<string>{ 10.96000,42.06500 }</string>	
+			<string>{ 6.96000,28.06500 }</string>	
+			<string>{ -10.04000,37.06500 }</string>
+		</array>
+		<key>9</key>
+		<array>	
+			<string>{ 14.96000,-4.93500 }</string>	
+			<string>{ 6.96000,-16.93500 }</string>	
+			<string>{ 1.96000,-20.93500 }</string>	
+			<string>{ -17.04000,-29.93500 }</string>	
+			<string>{ -28.04000,-29.93500 }</string>	
+			<string>{ 4.96000,18.06500 }</string>	
+			<string>{ 14.96000,7.06500 }</string>
+		</array>
+		<key>10</key>
+		<array>	
+			<string>{ -15.04000,31.06500 }</string>	
+			<string>{ -34.04000,31.06500 }</string>	
+			<string>{ -29.04000,34.06500 }</string>
+		</array>
+		<key>11</key>
+		<array>	
+			<string>{ 1.96000,23.06500 }</string>	
+			<string>{ 6.96000,28.06500 }</string>	
+			<string>{ 4.96000,18.06500 }</string>	
+			<string>{ -28.04000,-29.93500 }</string>
+		</array>
+	</dict>
+</plist>
+
+
+
+

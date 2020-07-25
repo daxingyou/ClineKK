@@ -1,0 +1,118 @@
+
+zhadan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daodan (14)
+  rotate: false
+  xy: 1011, 304
+  size: 128, 80
+  orig: 196, 122
+  offset: 31, 20
+  index: -1
+zhadan__00000
+  rotate: false
+  xy: 263, 291
+  size: 81, 52
+  orig: 420, 360
+  offset: 173, 29
+  index: -1
+zhadan__00001
+  rotate: false
+  xy: 1011, 386
+  size: 132, 92
+  orig: 420, 360
+  offset: 150, 29
+  index: -1
+zhadan__00002
+  rotate: false
+  xy: 460, 338
+  size: 309, 147
+  orig: 420, 360
+  offset: 111, 29
+  index: -1
+zhadan__00003
+  rotate: true
+  xy: 1894, 709
+  size: 292, 152
+  orig: 420, 360
+  offset: 74, 29
+  index: -1
+zhadan__00004
+  rotate: true
+  xy: 263, 345
+  size: 374, 195
+  orig: 420, 360
+  offset: 29, 29
+  index: -1
+zhadan__00005
+  rotate: true
+  xy: 2, 300
+  size: 419, 259
+  orig: 420, 360
+  offset: 1, 29
+  index: -1
+zhadan__00006
+  rotate: false
+  xy: 406, 748
+  size: 413, 253
+  orig: 420, 360
+  offset: 7, 29
+  index: -1
+zhadan__00007
+  rotate: false
+  xy: 771, 273
+  size: 238, 205
+  orig: 420, 360
+  offset: 98, 29
+  index: -1
+zhadan__00008
+  rotate: true
+  xy: 2, 2
+  size: 296, 240
+  orig: 420, 360
+  offset: 60, 29
+  index: -1
+zhadan__00009
+  rotate: false
+  xy: 2, 721
+  size: 402, 280
+  orig: 420, 360
+  offset: 9, 29
+  index: -1
+zhadan__00010
+  rotate: false
+  xy: 1551, 714
+  size: 341, 287
+  orig: 420, 360
+  offset: 38, 29
+  index: -1
+zhadan__00011
+  rotate: false
+  xy: 821, 706
+  size: 363, 295
+  orig: 420, 360
+  offset: 37, 29
+  index: -1
+zhadan__00012
+  rotate: false
+  xy: 1186, 714
+  size: 363, 287
+  orig: 420, 360
+  offset: 37, 29
+  index: -1
+zhadan__00013
+  rotate: false
+  xy: 460, 487
+  size: 344, 259
+  orig: 420, 360
+  offset: 39, 62
+  index: -1
+zhadan__00014
+  rotate: false
+  xy: 806, 480
+  size: 342, 224
+  orig: 420, 360
+  offset: 49, 97
+  index: -1

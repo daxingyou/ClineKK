@@ -1,0 +1,174 @@
+
+xuanzhong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lianhuantx_01
+  rotate: false
+  xy: 2, 5
+  size: 90, 93
+  orig: 143, 143
+  offset: 26, 24
+  index: -1
+lianhuantx_02
+  rotate: false
+  xy: 271, 266
+  size: 108, 110
+  orig: 143, 143
+  offset: 19, 14
+  index: -1
+lianhuantx_03
+  rotate: false
+  xy: 271, 154
+  size: 108, 110
+  orig: 143, 143
+  offset: 19, 14
+  index: -1
+lianhuantx_04
+  rotate: true
+  xy: 381, 141
+  size: 108, 110
+  orig: 143, 143
+  offset: 19, 14
+  index: -1
+lianhuantx_05
+  rotate: true
+  xy: 136, 7
+  size: 113, 119
+  orig: 143, 143
+  offset: 14, 10
+  index: -1
+lianhuantx_06
+  rotate: false
+  xy: 516, 2
+  size: 119, 121
+  orig: 143, 143
+  offset: 13, 9
+  index: -1
+lianhuantx_07
+  rotate: false
+  xy: 394, 2
+  size: 120, 121
+  orig: 143, 143
+  offset: 13, 9
+  index: -1
+lianhuantx_08
+  rotate: false
+  xy: 269, 2
+  size: 123, 121
+  orig: 143, 143
+  offset: 10, 9
+  index: -1
+lianhuantx_09
+  rotate: true
+  xy: 139, 252
+  size: 124, 130
+  orig: 143, 143
+  offset: 9, 4
+  index: -1
+lianhuantx_10
+  rotate: true
+  xy: 536, 382
+  size: 128, 131
+  orig: 143, 143
+  offset: 9, 4
+  index: -1
+lianhuantx_11
+  rotate: true
+  xy: 669, 382
+  size: 128, 131
+  orig: 143, 143
+  offset: 9, 4
+  index: -1
+lianhuantx_12
+  rotate: false
+  xy: 273, 379
+  size: 129, 131
+  orig: 143, 143
+  offset: 8, 4
+  index: -1
+lianhuantx_13
+  rotate: false
+  xy: 2, 233
+  size: 133, 138
+  orig: 143, 143
+  offset: 4, 0
+  index: -1
+lianhuantx_14
+  rotate: false
+  xy: 2, 373
+  size: 135, 137
+  orig: 143, 143
+  offset: 5, 0
+  index: -1
+lianhuantx_15
+  rotate: true
+  xy: 802, 382
+  size: 128, 130
+  orig: 143, 143
+  offset: 9, 4
+  index: -1
+lianhuantx_16
+  rotate: true
+  xy: 137, 122
+  size: 128, 130
+  orig: 143, 143
+  offset: 9, 4
+  index: -1
+lianhuantx_17
+  rotate: true
+  xy: 536, 251
+  size: 129, 130
+  orig: 143, 143
+  offset: 8, 4
+  index: -1
+lianhuantx_18
+  rotate: false
+  xy: 2, 100
+  size: 132, 131
+  orig: 143, 143
+  offset: 5, 3
+  index: -1
+lianhuantx_19
+  rotate: false
+  xy: 139, 378
+  size: 132, 132
+  orig: 143, 143
+  offset: 6, 2
+  index: -1
+lianhuantx_20
+  rotate: true
+  xy: 404, 251
+  size: 127, 130
+  orig: 143, 143
+  offset: 9, 4
+  index: -1
+lianhuantx_21
+  rotate: true
+  xy: 800, 253
+  size: 127, 130
+  orig: 143, 143
+  offset: 10, 4
+  index: -1
+lianhuantx_22
+  rotate: true
+  xy: 800, 125
+  size: 126, 130
+  orig: 143, 143
+  offset: 10, 4
+  index: -1
+lianhuantx_23
+  rotate: false
+  xy: 404, 380
+  size: 130, 130
+  orig: 143, 143
+  offset: 6, 4
+  index: -1
+lianhuantx_24
+  rotate: false
+  xy: 668, 251
+  size: 130, 129
+  orig: 143, 143
+  offset: 7, 4
+  index: -1

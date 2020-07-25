@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>1</key>
+			<array>	
+				<string>{ 4.00000,43.00000 }</string>	
+				<string>{ 30.00000,14.00000 }</string>	
+				<string>{ 28.00000,-13.00000 }</string>	
+				<string>{ -2.00000,7.00000 }</string>	
+				<string>{ -29.00000,38.00000 }</string>	
+				<string>{ -16.00000,53.00000 }</string>
+			</array>
+		<key>2</key>
+			<array>	
+				<string>{ -6.00000,-46.00000 }</string>	
+				<string>{ -7.00000,-10.00000 }</string>	
+				<string>{ -2.00000,7.00000 }</string>	
+				<string>{ 28.00000,-13.00000 }</string>	
+				<string>{ 51.00000,-50.00000 }</string>	
+				<string>{ 31.00000,-75.00000 }</string>
+			</array>
+		<key>3</key>
+			<array>	
+				<string>{ -7.00000,-10.00000 }</string>	
+				<string>{ -6.00000,-46.00000 }</string>	
+				<string>{ -19.00000,-52.00000 }</string>	
+				<string>{ -32.00000,-31.00000 }</string>
+			</array>
+		<key>4</key>
+			<array>	
+				<string>{ 73.00000,-8.00000 }</string>	
+				<string>{ 28.00000,-13.00000 }</string>	
+				<string>{ 30.00000,14.00000 }</string>	
+				<string>{ 54.00000,13.00000 }</string>	
+				<string>{ 74.00000,8.00000 }</string>
+			</array>
+		<key>5</key>
+			<array>	
+				<string>{ 47.00000,67.00000 }</string>	
+				<string>{ 53.00000,42.00000 }</string>	
+				<string>{ 30.00000,14.00000 }</string>	
+				<string>{ 4.00000,43.00000 }</string>	
+				<string>{ 21.00000,74.00000 }</string>
+			</array>
+		<key>6</key>
+			<array>	
+				<string>{ -2.00000,7.00000 }</string>	
+				<string>{ -7.00000,-10.00000 }</string>	
+				<string>{ -65.00000,1.00000 }</string>
+			</array>
+	</dict>
+</plist>
+
+
+
+

@@ -1,0 +1,285 @@
+
+longhudoudaiji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S
+  rotate: true
+  xy: 361, 330
+  size: 134, 144
+  orig: 136, 146
+  offset: 1, 1
+  index: -1
+V
+  rotate: false
+  xy: 507, 412
+  size: 134, 137
+  orig: 136, 139
+  offset: 1, 1
+  index: -1
+bao_00001
+  rotate: false
+  xy: 104, 464
+  size: 55, 53
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bao_00003
+  rotate: true
+  xy: 761, 5
+  size: 75, 76
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bao_00005
+  rotate: true
+  xy: 600, 321
+  size: 89, 92
+  orig: 100, 100
+  offset: 3, 1
+  index: -1
+bao_00006
+  rotate: false
+  xy: 231, 4
+  size: 94, 92
+  orig: 100, 100
+  offset: 6, 7
+  index: -1
+bao_00007
+  rotate: false
+  xy: 507, 320
+  size: 91, 90
+  orig: 100, 100
+  offset: 9, 10
+  index: -1
+bao_00008
+  rotate: true
+  xy: 643, 460
+  size: 89, 86
+  orig: 100, 100
+  offset: 11, 14
+  index: -1
+bao_00010
+  rotate: false
+  xy: 590, 2
+  size: 86, 78
+  orig: 100, 100
+  offset: 14, 22
+  index: -1
+bao_00011
+  rotate: false
+  xy: 678, 4
+  size: 81, 76
+  orig: 100, 100
+  offset: 19, 24
+  index: -1
+bao_00013
+  rotate: false
+  xy: 161, 464
+  size: 54, 53
+  orig: 100, 100
+  offset: 46, 42
+  index: -1
+bao_00014
+  rotate: false
+  xy: 217, 487
+  size: 30, 30
+  orig: 100, 100
+  offset: 68, 53
+  index: -1
+baodian_00001
+  rotate: false
+  xy: 231, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bipaidi
+  rotate: false
+  xy: 327, 36
+  size: 156, 26
+  orig: 156, 26
+  offset: 0, 0
+  index: -1
+hongdi
+  rotate: true
+  xy: 752, 286
+  size: 736, 269
+  orig: 736, 269
+  offset: 0, 0
+  index: -1
+hutou
+  rotate: true
+  xy: 361, 64
+  size: 220, 227
+  orig: 220, 227
+  offset: 0, 0
+  index: -1
+hutou_00000
+  rotate: true
+  xy: 2, 6
+  size: 220, 227
+  orig: 220, 227
+  offset: 0, 0
+  index: -1
+landi
+  rotate: false
+  xy: 2, 755
+  size: 748, 267
+  orig: 748, 267
+  offset: 0, 0
+  index: -1
+landi_00000
+  rotate: true
+  xy: 880, 9
+  size: 275, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00003
+  rotate: false
+  xy: 590, 82
+  size: 287, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00004
+  rotate: true
+  xy: 2, 464
+  size: 289, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00005
+  rotate: true
+  xy: 259, 229
+  size: 288, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00006
+  rotate: false
+  xy: 590, 184
+  size: 288, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00007
+  rotate: true
+  xy: 361, 466
+  size: 287, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00008
+  rotate: false
+  xy: 463, 551
+  size: 287, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00014
+  rotate: false
+  xy: 463, 653
+  size: 275, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+longtou
+  rotate: false
+  xy: 2, 228
+  size: 255, 234
+  orig: 255, 234
+  offset: 0, 0
+  index: -1
+longtou_00000
+  rotate: false
+  xy: 104, 519
+  size: 255, 234
+  orig: 255, 234
+  offset: 0, 0
+  index: -1
+
+longhudoudaiji2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_00002
+  rotate: false
+  xy: 376, 78
+  size: 63, 64
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bao_00004
+  rotate: false
+  xy: 289, 58
+  size: 85, 84
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bao_00009
+  rotate: false
+  xy: 290, 144
+  size: 87, 79
+  orig: 100, 100
+  offset: 13, 21
+  index: -1
+bao_00012
+  rotate: true
+  xy: 379, 147
+  size: 76, 73
+  orig: 100, 100
+  offset: 24, 27
+  index: -1
+landi_00001
+  rotate: true
+  xy: 392, 236
+  size: 274, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00002
+  rotate: false
+  xy: 2, 2
+  size: 284, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00009
+  rotate: true
+  xy: 290, 225
+  size: 285, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00010
+  rotate: false
+  xy: 2, 410
+  size: 286, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00011
+  rotate: false
+  xy: 2, 308
+  size: 286, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00012
+  rotate: false
+  xy: 2, 206
+  size: 286, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1
+landi_00013
+  rotate: false
+  xy: 2, 104
+  size: 285, 100
+  orig: 300, 100
+  offset: 5, 0
+  index: -1

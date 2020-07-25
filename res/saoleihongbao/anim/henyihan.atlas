@@ -1,0 +1,195 @@
+
+henyihan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 976, 960
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 431, 48
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+boom
+  rotate: true
+  xy: 212, 31
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1
+boom_00
+  rotate: false
+  xy: 2, 436
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_01
+  rotate: false
+  xy: 544, 663
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_02
+  rotate: false
+  xy: 2, 284
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_03
+  rotate: false
+  xy: 154, 436
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_04
+  rotate: false
+  xy: 696, 663
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_05
+  rotate: false
+  xy: 2, 132
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_06
+  rotate: false
+  xy: 154, 284
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_07
+  rotate: false
+  xy: 306, 436
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_08
+  rotate: false
+  xy: 154, 132
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_09
+  rotate: false
+  xy: 306, 284
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_10
+  rotate: false
+  xy: 306, 132
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_11
+  rotate: false
+  xy: 848, 663
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_12
+  rotate: false
+  xy: 458, 436
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_13
+  rotate: false
+  xy: 458, 284
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+boom_14
+  rotate: false
+  xy: 458, 132
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 2, 588
+  size: 540, 225
+  orig: 540, 225
+  offset: 0, 0
+  index: -1
+han
+  rotate: false
+  xy: 2, 21
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+hao1
+  rotate: true
+  xy: 2, 2
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+hen
+  rotate: false
+  xy: 107, 21
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+le
+  rotate: false
+  xy: 431, 78
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+lei
+  rotate: false
+  xy: 544, 609
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: false
+  xy: 2, 815
+  size: 972, 188
+  orig: 972, 188
+  offset: 0, 0
+  index: -1
+yi
+  rotate: true
+  xy: 326, 32
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+zhong
+  rotate: false
+  xy: 596, 609
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1

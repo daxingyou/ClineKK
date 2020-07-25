@@ -1,0 +1,118 @@
+
+shuibobeijing_0.25.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+water_00000
+  rotate: false
+  xy: 2, 828
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00001
+  rotate: false
+  xy: 324, 828
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00002
+  rotate: false
+  xy: 646, 828
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00003
+  rotate: true
+  xy: 2, 506
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00004
+  rotate: true
+  xy: 2, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00005
+  rotate: false
+  xy: 2, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00006
+  rotate: true
+  xy: 184, 506
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00007
+  rotate: true
+  xy: 184, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00008
+  rotate: false
+  xy: 324, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00009
+  rotate: false
+  xy: 646, 646
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00010
+  rotate: true
+  xy: 366, 506
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00011
+  rotate: true
+  xy: 366, 184
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00012
+  rotate: true
+  xy: 548, 324
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00013
+  rotate: true
+  xy: 646, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00014
+  rotate: true
+  xy: 730, 324
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+water_00015
+  rotate: true
+  xy: 828, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+tianwangping.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12222_00000
+  rotate: false
+  xy: 2, 18
+  size: 184, 104
+  orig: 184, 104
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 951, 67
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 374, 26
+  size: 170, 96
+  orig: 170, 96
+  offset: 0, 0
+  index: -1
+ping_2
+  rotate: false
+  xy: 877, 43
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+ping_2_00000
+  rotate: false
+  xy: 681, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: true
+  xy: 546, 2
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1
+tianwang
+  rotate: false
+  xy: 188, 18
+  size: 184, 104
+  orig: 184, 104
+  offset: 0, 0
+  index: -1
+tianwangdi
+  rotate: true
+  xy: 803, 6
+  size: 116, 72
+  orig: 116, 72
+  offset: 0, 0
+  index: -1

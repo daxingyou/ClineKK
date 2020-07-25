@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>1</key>
+			<array>	
+				<string>{ -14.00000,28.00000 }</string>	
+				<string>{ -20.00000,-14.00000 }</string>	
+				<string>{ -32.00000,24.00000 }</string>	
+				<string>{ -31.00000,43.00000 }</string>
+			</array>
+		<key>2</key>
+			<array>	
+				<string>{ 118.00000,-15.00000 }</string>	
+				<string>{ 144.00000,9.00000 }</string>	
+				<string>{ 141.00000,-40.00000 }</string>	
+				<string>{ 114.00000,-50.00000 }</string>
+			</array>
+		<key>3</key>
+			<array>	
+				<string>{ 64.00000,50.00000 }</string>	
+				<string>{ 63.00000,37.00000 }</string>	
+				<string>{ 48.00000,45.00000 }</string>	
+				<string>{ 45.00000,63.00000 }</string>
+			</array>
+		<key>4</key>
+			<array>	
+				<string>{ 135.00000,52.00000 }</string>	
+				<string>{ 144.00000,9.00000 }</string>	
+				<string>{ 120.00000,20.00000 }</string>	
+				<string>{ 112.00000,49.00000 }</string>
+			</array>
+		<key>5</key>
+			<array>	
+				<string>{ -36.00000,-9.00000 }</string>	
+				<string>{ -32.00000,24.00000 }</string>	
+				<string>{ -20.00000,-14.00000 }</string>	
+				<string>{ -35.00000,-35.00000 }</string>
+			</array>
+		<key>6</key>
+			<array>	
+				<string>{ 118.00000,-15.00000 }</string>	
+				<string>{ 67.00000,-30.00000 }</string>	
+				<string>{ 46.00000,-28.00000 }</string>	
+				<string>{ -20.00000,-14.00000 }</string>	
+				<string>{ 63.00000,37.00000 }</string>	
+				<string>{ 120.00000,20.00000 }</string>	
+				<string>{ 144.00000,9.00000 }</string>
+			</array>
+		<key>7</key>
+			<array>	
+				<string>{ 46.00000,-28.00000 }</string>	
+				<string>{ 67.00000,-30.00000 }</string>	
+				<string>{ 60.00000,-60.00000 }</string>	
+				<string>{ 38.00000,-64.00000 }</string>
+			</array>
+		<key>8</key>
+			<array>	
+				<string>{ -141.00000,18.00000 }</string>	
+				<string>{ -32.00000,24.00000 }</string>	
+				<string>{ -80.00000,9.00000 }</string>	
+				<string>{ -111.00000,1.00000 }</string>
+			</array>
+		<key>9</key>
+			<array>	
+				<string>{ -32.00000,24.00000 }</string>	
+				<string>{ -36.00000,-9.00000 }</string>	
+				<string>{ -80.00000,9.00000 }</string>
+			</array>
+		<key>10</key>
+			<array>	
+				<string>{ 48.00000,45.00000 }</string>	
+				<string>{ 63.00000,37.00000 }</string>	
+				<string>{ -20.00000,-14.00000 }</string>	
+				<string>{ -14.00000,28.00000 }</string>
+			</array>                        
+	</dict>
+</plist>
+
+
+
+

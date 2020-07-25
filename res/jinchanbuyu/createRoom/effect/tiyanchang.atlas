@@ -1,0 +1,237 @@
+
+tiyanchang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lqi
+  rotate: false
+  xy: 178, 265
+  size: 72, 55
+  orig: 74, 57
+  offset: 1, 1
+  index: -1
+Rqi
+  rotate: true
+  xy: 252, 279
+  size: 41, 42
+  orig: 43, 44
+  offset: 1, 1
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 581
+  size: 308, 399
+  orig: 310, 401
+  offset: 1, 1
+  index: -1
+eyer
+  rotate: false
+  xy: 178, 245
+  size: 14, 18
+  orig: 16, 20
+  offset: 1, 1
+  index: -1
+haidaomaozi
+  rotate: false
+  xy: 2, 75
+  size: 170, 93
+  orig: 170, 93
+  offset: 0, 0
+  index: -1
+jinbia
+  rotate: false
+  xy: 312, 583
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+jinbib
+  rotate: false
+  xy: 2, 15
+  size: 60, 58
+  orig: 62, 60
+  offset: 1, 1
+  index: -1
+kuangxhtx_01
+  rotate: true
+  xy: 296, 308
+  size: 271, 72
+  orig: 300, 100
+  offset: 15, 16
+  index: -1
+kuangxhtx_03
+  rotate: false
+  xy: 312, 697
+  size: 271, 72
+  orig: 300, 100
+  offset: 15, 16
+  index: -1
+kuangxhtx_05
+  rotate: false
+  xy: 312, 623
+  size: 271, 72
+  orig: 300, 100
+  offset: 15, 16
+  index: -1
+kuangxhtx_07
+  rotate: true
+  xy: 370, 350
+  size: 271, 72
+  orig: 300, 100
+  offset: 15, 16
+  index: -1
+kuangxhtx_09
+  rotate: false
+  xy: 714, 908
+  size: 272, 72
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_11
+  rotate: false
+  xy: 714, 834
+  size: 272, 72
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_13
+  rotate: false
+  xy: 685, 760
+  size: 272, 72
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_15
+  rotate: true
+  xy: 444, 350
+  size: 271, 72
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_17
+  rotate: true
+  xy: 518, 350
+  size: 271, 72
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_19
+  rotate: false
+  xy: 370, 276
+  size: 271, 72
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_21
+  rotate: true
+  xy: 813, 353
+  size: 271, 71
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_23
+  rotate: false
+  xy: 585, 687
+  size: 272, 71
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_25
+  rotate: true
+  xy: 592, 352
+  size: 272, 71
+  orig: 300, 100
+  offset: 14, 16
+  index: -1
+kuangxhtx_27
+  rotate: true
+  xy: 665, 353
+  size: 271, 72
+  orig: 300, 100
+  offset: 15, 16
+  index: -1
+kuangxhtx_29
+  rotate: true
+  xy: 739, 353
+  size: 271, 72
+  orig: 300, 100
+  offset: 15, 16
+  index: -1
+qipaoa
+  rotate: false
+  xy: 2, 2
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+qipaob
+  rotate: false
+  xy: 828, 667
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+qipaoc
+  rotate: false
+  xy: 988, 952
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+qipaod
+  rotate: false
+  xy: 959, 809
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+qipaoe
+  rotate: false
+  xy: 859, 735
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+shuicaoc
+  rotate: false
+  xy: 178, 322
+  size: 116, 257
+  orig: 116, 257
+  offset: 0, 0
+  index: -1
+tiyanchang
+  rotate: false
+  xy: 585, 626
+  size: 241, 59
+  orig: 243, 61
+  offset: 1, 1
+  index: -1
+youyongquan
+  rotate: false
+  xy: 489, 843
+  size: 223, 137
+  orig: 223, 137
+  offset: 0, 0
+  index: -1
+yudi
+  rotate: false
+  xy: 489, 783
+  size: 194, 58
+  orig: 196, 60
+  offset: 1, 1
+  index: -1
+yuti
+  rotate: false
+  xy: 312, 771
+  size: 175, 209
+  orig: 177, 211
+  offset: 1, 1
+  index: -1
+zidi
+  rotate: true
+  xy: 2, 170
+  size: 409, 174
+  orig: 411, 176
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,132 @@
+
+shu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choudai2
+  rotate: false
+  xy: 203, 175
+  size: 233, 77
+  orig: 233, 77
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 65
+  size: 199, 187
+  orig: 199, 187
+  offset: 0, 0
+  index: -1
+liewen_00001
+  rotate: false
+  xy: 2, 3
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00002
+  rotate: false
+  xy: 614, 192
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00003
+  rotate: false
+  xy: 766, 192
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00004
+  rotate: false
+  xy: 614, 130
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00005
+  rotate: false
+  xy: 766, 130
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00006
+  rotate: true
+  xy: 918, 102
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00007
+  rotate: false
+  xy: 154, 2
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00008
+  rotate: false
+  xy: 382, 100
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00009
+  rotate: false
+  xy: 382, 38
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00010
+  rotate: true
+  xy: 534, 10
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00011
+  rotate: false
+  xy: 596, 68
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00012
+  rotate: false
+  xy: 748, 68
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00013
+  rotate: false
+  xy: 596, 6
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+liewen_00014
+  rotate: false
+  xy: 748, 6
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+woshule
+  rotate: false
+  xy: 438, 162
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 203, 64
+  size: 177, 109
+  orig: 177, 109
+  offset: 0, 0
+  index: -1

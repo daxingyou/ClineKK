@@ -1,0 +1,223 @@
+
+woshihehuoren.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 148
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: true
+  xy: 208, 227
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+guang2_00
+  rotate: false
+  xy: 2, 339
+  size: 270, 153
+  orig: 280, 157
+  offset: 5, 2
+  index: -1
+jiangbei
+  rotate: false
+  xy: 2, 4
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+jiangbeitx_04
+  rotate: false
+  xy: 354, 240
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_05
+  rotate: false
+  xy: 442, 240
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_06
+  rotate: true
+  xy: 272, 152
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_07
+  rotate: true
+  xy: 365, 152
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_08
+  rotate: true
+  xy: 717, 399
+  size: 93, 97
+  orig: 300, 300
+  offset: 110, 124
+  index: -1
+jiangbeitx_09
+  rotate: true
+  xy: 617, 397
+  size: 95, 98
+  orig: 300, 300
+  offset: 110, 123
+  index: -1
+jiangbeitx_10
+  rotate: false
+  xy: 126, 45
+  size: 93, 101
+  orig: 300, 300
+  offset: 110, 124
+  index: -1
+jiangbeitx_11
+  rotate: true
+  xy: 515, 404
+  size: 88, 100
+  orig: 300, 300
+  offset: 110, 128
+  index: -1
+jiangbeitx_12
+  rotate: true
+  xy: 274, 333
+  size: 86, 104
+  orig: 300, 300
+  offset: 110, 125
+  index: -1
+jiangbeitx_13
+  rotate: true
+  xy: 380, 333
+  size: 86, 102
+  orig: 300, 300
+  offset: 110, 125
+  index: -1
+jiangbeitx_14
+  rotate: true
+  xy: 816, 400
+  size: 92, 96
+  orig: 300, 300
+  offset: 104, 127
+  index: -1
+jiangbeitx_15
+  rotate: false
+  xy: 914, 401
+  size: 93, 91
+  orig: 300, 300
+  offset: 103, 130
+  index: -1
+jiangbeitx_16
+  rotate: false
+  xy: 260, 240
+  size: 92, 91
+  orig: 300, 300
+  offset: 104, 130
+  index: -1
+jiangbeitx_17
+  rotate: false
+  xy: 458, 147
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_18
+  rotate: false
+  xy: 221, 59
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_19
+  rotate: false
+  xy: 309, 59
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_20
+  rotate: true
+  xy: 397, 59
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_21
+  rotate: false
+  xy: 490, 54
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_22
+  rotate: true
+  xy: 717, 311
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jiangbeitx_23
+  rotate: true
+  xy: 816, 312
+  size: 86, 91
+  orig: 300, 300
+  offset: 110, 130
+  index: -1
+jinbi
+  rotate: false
+  xy: 169, 13
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 484, 357
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 208, 162
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 206, 15
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 126, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: true
+  xy: 484, 389
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 274, 421
+  size: 239, 71
+  orig: 239, 71
+  offset: 0, 0
+  index: -1

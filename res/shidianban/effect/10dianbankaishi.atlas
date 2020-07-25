@@ -1,0 +1,90 @@
+
+10dianbankaishi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 445, 290
+  size: 160, 173
+  orig: 160, 173
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 620, 290
+  size: 160, 173
+  orig: 160, 173
+  offset: 0, 0
+  index: -1
+dai
+  rotate: false
+  xy: 2, 306
+  size: 441, 144
+  orig: 441, 144
+  offset: 0, 0
+  index: -1
+guang_00000
+  rotate: false
+  xy: 2, 2
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+guang_00000_00000
+  rotate: false
+  xy: 2, 154
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+kai
+  rotate: true
+  xy: 434, 157
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 795, 337
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+laba2
+  rotate: false
+  xy: 899, 337
+  size: 102, 113
+  orig: 102, 113
+  offset: 0, 0
+  index: -1
+shi
+  rotate: false
+  xy: 577, 225
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+xi
+  rotate: false
+  xy: 434, 222
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 254, 157
+  size: 178, 147
+  orig: 178, 147
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 506, 224
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1

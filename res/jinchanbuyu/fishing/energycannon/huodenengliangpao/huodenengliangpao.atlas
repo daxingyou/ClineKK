@@ -1,0 +1,13 @@
+
+huodenengliangpao.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huodenengliangpao
+  rotate: false
+  xy: 2, 2
+  size: 242, 51
+  orig: 242, 51
+  offset: 0, 0
+  index: -1

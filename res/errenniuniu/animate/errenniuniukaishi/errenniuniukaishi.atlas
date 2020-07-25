@@ -1,0 +1,258 @@
+
+errenniuniukaishi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 216
+  size: 214, 142
+  orig: 214, 142
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 965, 812
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 965, 760
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 704, 117
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1
+hand11
+  rotate: true
+  xy: 800, 98
+  size: 93, 71
+  orig: 93, 71
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 869, 204
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+hand22
+  rotate: true
+  xy: 873, 114
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 751
+  size: 310, 267
+  orig: 310, 267
+  offset: 0, 0
+  index: -1
+kai
+  rotate: true
+  xy: 956, 942
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 704, 190
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 790, 193
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+lihua_00001
+  rotate: false
+  xy: 314, 838
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00002
+  rotate: false
+  xy: 528, 838
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00003
+  rotate: false
+  xy: 742, 838
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00004
+  rotate: true
+  xy: 141, 537
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00005
+  rotate: true
+  xy: 2, 2
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00006
+  rotate: false
+  xy: 323, 656
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00007
+  rotate: false
+  xy: 537, 656
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00008
+  rotate: false
+  xy: 751, 656
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00009
+  rotate: false
+  xy: 323, 474
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00010
+  rotate: false
+  xy: 537, 474
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00011
+  rotate: false
+  xy: 751, 474
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00012
+  rotate: true
+  xy: 146, 223
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00013
+  rotate: false
+  xy: 328, 292
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00014
+  rotate: false
+  xy: 542, 292
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00015
+  rotate: false
+  xy: 756, 292
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00016
+  rotate: true
+  xy: 184, 9
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+lihua_00017
+  rotate: false
+  xy: 366, 110
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+scroll_1
+  rotate: true
+  xy: 2, 432
+  size: 317, 137
+  orig: 317, 137
+  offset: 0, 0
+  index: -1
+scroll_2
+  rotate: false
+  xy: 580, 142
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+scroll_3
+  rotate: true
+  xy: 141, 437
+  size: 98, 162
+  orig: 98, 162
+  offset: 0, 0
+  index: -1
+shi
+  rotate: false
+  xy: 616, 11
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+smile_eyes
+  rotate: false
+  xy: 366, 38
+  size: 168, 70
+  orig: 168, 70
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 536, 38
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+xi
+  rotate: false
+  xy: 956, 870
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 616, 73
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1

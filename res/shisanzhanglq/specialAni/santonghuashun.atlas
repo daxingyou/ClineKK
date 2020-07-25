@@ -1,0 +1,290 @@
+
+santonghuashun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die0132
+  rotate: false
+  xy: 964, 775
+  size: 51, 60
+  orig: 506, 379
+  offset: 296, 177
+  index: -1
+die0133
+  rotate: true
+  xy: 964, 934
+  size: 39, 56
+  orig: 506, 379
+  offset: 308, 181
+  index: -1
+die0134
+  rotate: true
+  xy: 964, 900
+  size: 32, 56
+  orig: 506, 379
+  offset: 314, 183
+  index: -1
+die0135
+  rotate: true
+  xy: 964, 975
+  size: 39, 57
+  orig: 506, 379
+  offset: 307, 185
+  index: -1
+die0136
+  rotate: false
+  xy: 964, 837
+  size: 51, 61
+  orig: 506, 379
+  offset: 294, 186
+  index: -1
+hua (16)
+  rotate: false
+  xy: 839, 15
+  size: 160, 100
+  orig: 506, 379
+  offset: 82, 106
+  index: -1
+hua (17)
+  rotate: false
+  xy: 619, 2
+  size: 218, 113
+  orig: 506, 379
+  offset: 74, 105
+  index: -1
+hua (18)
+  rotate: true
+  xy: 2, 36
+  size: 256, 135
+  orig: 506, 379
+  offset: 67, 95
+  index: -1
+hua (20)
+  rotate: false
+  xy: 619, 117
+  size: 372, 175
+  orig: 506, 379
+  offset: 28, 73
+  index: -1
+hua0078
+  rotate: true
+  xy: 243, 294
+  size: 479, 238
+  orig: 506, 379
+  offset: 24, 25
+  index: -1
+hua0080
+  rotate: true
+  xy: 483, 294
+  size: 479, 238
+  orig: 506, 379
+  offset: 24, 25
+  index: -1
+hua0082
+  rotate: false
+  xy: 2, 775
+  size: 479, 239
+  orig: 506, 379
+  offset: 24, 24
+  index: -1
+hua0084
+  rotate: false
+  xy: 483, 775
+  size: 479, 239
+  orig: 506, 379
+  offset: 24, 24
+  index: -1
+hua0086
+  rotate: true
+  xy: 2, 294
+  size: 479, 239
+  orig: 506, 379
+  offset: 24, 24
+  index: -1
+hua0088
+  rotate: false
+  xy: 139, 53
+  size: 478, 239
+  orig: 506, 379
+  offset: 24, 24
+  index: -1
+hua0090
+  rotate: true
+  xy: 723, 295
+  size: 478, 239
+  orig: 506, 379
+  offset: 24, 24
+  index: -1
+
+santonghuashun2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die0131
+  rotate: false
+  xy: 2, 2
+  size: 92, 64
+  orig: 506, 379
+  offset: 275, 174
+  index: -1
+die0137
+  rotate: false
+  xy: 576, 6
+  size: 93, 66
+  orig: 506, 379
+  offset: 272, 187
+  index: -1
+die0138
+  rotate: false
+  xy: 481, 5
+  size: 93, 67
+  orig: 506, 379
+  offset: 271, 189
+  index: -1
+hua (15)
+  rotate: false
+  xy: 96, 3
+  size: 88, 63
+  orig: 506, 379
+  offset: 86, 132
+  index: -1
+hua0060
+  rotate: true
+  xy: 708, 308
+  size: 475, 231
+  orig: 506, 379
+  offset: 24, 26
+  index: -1
+hua0064
+  rotate: true
+  xy: 474, 307
+  size: 476, 232
+  orig: 506, 379
+  offset: 24, 27
+  index: -1
+hua0066
+  rotate: false
+  xy: 481, 74
+  size: 476, 231
+  orig: 506, 379
+  offset: 24, 28
+  index: -1
+hua0068
+  rotate: true
+  xy: 239, 306
+  size: 477, 233
+  orig: 506, 379
+  offset: 24, 28
+  index: -1
+hua0070
+  rotate: false
+  xy: 2, 68
+  size: 477, 235
+  orig: 506, 379
+  offset: 24, 27
+  index: -1
+hua0072
+  rotate: true
+  xy: 2, 305
+  size: 478, 235
+  orig: 506, 379
+  offset: 24, 27
+  index: -1
+hua0074
+  rotate: false
+  xy: 2, 785
+  size: 478, 237
+  orig: 506, 379
+  offset: 24, 26
+  index: -1
+hua0076
+  rotate: false
+  xy: 482, 785
+  size: 478, 237
+  orig: 506, 379
+  offset: 24, 26
+  index: -1
+
+santonghuashun3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua (21)
+  rotate: false
+  xy: 440, 15
+  size: 424, 189
+  orig: 506, 379
+  offset: 26, 60
+  index: -1
+hua (22)
+  rotate: false
+  xy: 2, 2
+  size: 436, 202
+  orig: 506, 379
+  offset: 24, 50
+  index: -1
+hua (23)
+  rotate: false
+  xy: 2, 335
+  size: 440, 216
+  orig: 506, 379
+  offset: 24, 36
+  index: -1
+hua (24)
+  rotate: false
+  xy: 464, 332
+  size: 446, 222
+  orig: 506, 379
+  offset: 24, 30
+  index: -1
+hua (25)
+  rotate: false
+  xy: 479, 556
+  size: 478, 225
+  orig: 506, 379
+  offset: 24, 27
+  index: -1
+hua (26)
+  rotate: false
+  xy: 2, 553
+  size: 460, 227
+  orig: 506, 379
+  offset: 24, 25
+  index: -1
+hua (27)
+  rotate: false
+  xy: 479, 783
+  size: 473, 230
+  orig: 506, 379
+  offset: 24, 25
+  index: -1
+hua0062
+  rotate: false
+  xy: 2, 782
+  size: 475, 231
+  orig: 506, 379
+  offset: 24, 27
+  index: -1
+sthssantongshun
+  rotate: true
+  xy: 912, 206
+  size: 348, 92
+  orig: 348, 92
+  offset: 0, 0
+  index: -1
+
+santonghuashun4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua (19)
+  rotate: false
+  xy: 2, 2
+  size: 334, 156
+  orig: 506, 379
+  offset: 35, 86
+  index: -1

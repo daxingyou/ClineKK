@@ -1,0 +1,132 @@
+
+feiji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fj
+  rotate: false
+  xy: 2, 104
+  size: 295, 110
+  orig: 295, 110
+  offset: 0, 0
+  index: -1
+wyan5__00000
+  rotate: false
+  xy: 388, 116
+  size: 62, 43
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+wyan5__00001
+  rotate: false
+  xy: 452, 116
+  size: 62, 43
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+wyan5__00002
+  rotate: false
+  xy: 212, 58
+  size: 62, 44
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+wyan5__00003
+  rotate: false
+  xy: 92, 2
+  size: 62, 44
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+wyan5__00004
+  rotate: true
+  xy: 963, 204
+  size: 62, 42
+  orig: 62, 45
+  offset: 0, 2
+  index: -1
+wyan5__00005
+  rotate: true
+  xy: 963, 140
+  size: 62, 41
+  orig: 62, 45
+  offset: 0, 3
+  index: -1
+wyan5__00006
+  rotate: false
+  xy: 156, 3
+  size: 62, 44
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+wyan5__00007
+  rotate: false
+  xy: 220, 12
+  size: 61, 44
+  orig: 62, 45
+  offset: 0, 1
+  index: -1
+xw__00000
+  rotate: false
+  xy: 2, 15
+  size: 88, 87
+  orig: 102, 102
+  offset: 8, 6
+  index: -1
+xwb__00000
+  rotate: false
+  xy: 92, 48
+  size: 58, 54
+  orig: 102, 102
+  offset: 20, 21
+  index: -1
+xwb__00001
+  rotate: false
+  xy: 388, 161
+  size: 58, 53
+  orig: 102, 102
+  offset: 20, 22
+  index: -1
+xwb__00002
+  rotate: false
+  xy: 152, 49
+  size: 58, 53
+  orig: 102, 102
+  offset: 20, 22
+  index: -1
+xwb__00003
+  rotate: false
+  xy: 448, 161
+  size: 58, 53
+  orig: 102, 102
+  offset: 20, 22
+  index: -1
+xww_00000
+  rotate: false
+  xy: 299, 127
+  size: 87, 87
+  orig: 102, 102
+  offset: 8, 6
+  index: -1
+yun1
+  rotate: false
+  xy: 522, 268
+  size: 466, 240
+  orig: 520, 240
+  offset: 32, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 522, 23
+  size: 439, 243
+  orig: 526, 249
+  offset: 34, 3
+  index: -1
+yun3
+  rotate: false
+  xy: 2, 216
+  size: 518, 292
+  orig: 526, 301
+  offset: 4, 5
+  index: -1

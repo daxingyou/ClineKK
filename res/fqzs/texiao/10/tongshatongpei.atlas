@@ -1,0 +1,363 @@
+
+tongshatongpei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gezi
+  rotate: true
+  xy: 2, 171
+  size: 474, 108
+  orig: 474, 108
+  offset: 0, 0
+  index: -1
+guangban
+  rotate: false
+  xy: 2, 647
+  size: 354, 352
+  orig: 354, 352
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 80, 2
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+pei
+  rotate: false
+  xy: 522, 827
+  size: 150, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+pei-1_00000
+  rotate: false
+  xy: 112, 288
+  size: 150, 172
+  orig: 150, 172
+  offset: 0, 0
+  index: -1
+pei_00001
+  rotate: false
+  xy: 2, 87
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00003
+  rotate: false
+  xy: 358, 732
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00005
+  rotate: false
+  xy: 276, 563
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00007
+  rotate: false
+  xy: 112, 204
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00009
+  rotate: false
+  xy: 2, 3
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00011
+  rotate: false
+  xy: 358, 648
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00013
+  rotate: false
+  xy: 436, 732
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00015
+  rotate: false
+  xy: 276, 479
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00017
+  rotate: false
+  xy: 436, 648
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00019
+  rotate: false
+  xy: 190, 204
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00021
+  rotate: true
+  xy: 112, 126
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00023
+  rotate: false
+  xy: 196, 120
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00025
+  rotate: false
+  xy: 80, 42
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+pei_00027
+  rotate: true
+  xy: 158, 42
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha
+  rotate: false
+  xy: 358, 816
+  size: 162, 183
+  orig: 162, 183
+  offset: 0, 0
+  index: -1
+sha-1_00000
+  rotate: false
+  xy: 112, 462
+  size: 162, 183
+  orig: 162, 183
+  offset: 0, 0
+  index: -1
+sha_00001
+  rotate: true
+  xy: 674, 777
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00003
+  rotate: true
+  xy: 758, 777
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00005
+  rotate: true
+  xy: 842, 777
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00007
+  rotate: true
+  xy: 926, 777
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00009
+  rotate: false
+  xy: 242, 36
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00011
+  rotate: false
+  xy: 264, 378
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00013
+  rotate: false
+  xy: 264, 294
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00015
+  rotate: false
+  xy: 268, 210
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00017
+  rotate: false
+  xy: 274, 126
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00019
+  rotate: false
+  xy: 320, 42
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00021
+  rotate: true
+  xy: 522, 749
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00023
+  rotate: false
+  xy: 514, 665
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00025
+  rotate: false
+  xy: 592, 665
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+sha_00027
+  rotate: false
+  xy: 670, 693
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 674, 855
+  size: 173, 144
+  orig: 173, 144
+  offset: 0, 0
+  index: -1
+tong-1_00000
+  rotate: false
+  xy: 849, 855
+  size: 173, 144
+  orig: 173, 144
+  offset: 0, 0
+  index: -1
+tong_00001
+  rotate: false
+  xy: 748, 693
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00003
+  rotate: false
+  xy: 826, 693
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00005
+  rotate: false
+  xy: 904, 693
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00007
+  rotate: true
+  xy: 670, 615
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00009
+  rotate: true
+  xy: 754, 615
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00011
+  rotate: true
+  xy: 838, 615
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00013
+  rotate: false
+  xy: 922, 609
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00015
+  rotate: true
+  xy: 514, 587
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00017
+  rotate: false
+  xy: 354, 563
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00019
+  rotate: false
+  xy: 354, 479
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00021
+  rotate: false
+  xy: 432, 564
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00023
+  rotate: false
+  xy: 432, 480
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00025
+  rotate: false
+  xy: 510, 503
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+tong_00027
+  rotate: false
+  xy: 342, 395
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1

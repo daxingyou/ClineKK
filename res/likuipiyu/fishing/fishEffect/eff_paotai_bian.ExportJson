@@ -1,0 +1,592 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "eff_paotai_bian",
+      "bone_data": [
+        {
+          "name": "xg",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_ptbian_xg.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "sg",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_ptbian_sg.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hg2",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_ptbian_hg.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hg",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_ptbian_hg.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "eff_paotai_bian",
+      "mov_data": [
+        {
+          "name": "eff_paotai_bian",
+          "dr": 32,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.416666657,
+          "mov_bone_data": [
+            {
+              "name": "xg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.30000007,
+                  "cY": 1.30000007,
+                  "kX": 0.5235988,
+                  "kY": -0.523599267,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.3,
+                  "cY": 1.3,
+                  "kX": 0.87266463,
+                  "kY": -0.872665,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.22173047,
+                  "kY": -1.22173011,
+                  "fi": 13,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 1.74532926,
+                  "kY": -1.74532938,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "sg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.5,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 11,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "hg2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 50,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.5,
+                  "cY": 1.57142854,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 50,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "hg",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 3,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.5,
+                  "cY": 1.57142854,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "eff_ptbian_sg",
+      "width": 128.0,
+      "height": 128.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "eff_ptbian_xg",
+      "width": 128.0,
+      "height": 128.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "eff_ptbian_hg",
+      "width": 305.0,
+      "height": 107.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "eff_paotai_bian0.plist"
+  ],
+  "config_png_path": [
+    "eff_paotai_bian0.png"
+  ]
+}

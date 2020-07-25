@@ -1,0 +1,111 @@
+
+tishizi.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dai
+  rotate: false
+  xy: 313, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 353, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 833, 39
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+jia
+  rotate: false
+  xy: 393, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+pai
+  rotate: false
+  xy: 433, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 473, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 513, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+qing
+  rotate: false
+  xy: 553, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+ta
+  rotate: false
+  xy: 593, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tan
+  rotate: false
+  xy: 633, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 673, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+wan
+  rotate: false
+  xy: 713, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 753, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zhuang
+  rotate: false
+  xy: 793, 13
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zidi2
+  rotate: false
+  xy: 2, 2
+  size: 309, 49
+  orig: 309, 49
+  offset: 0, 0
+  index: -1

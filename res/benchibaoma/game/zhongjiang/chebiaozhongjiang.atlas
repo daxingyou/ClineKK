@@ -1,0 +1,286 @@
+
+chebiaozhongjiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chebiaozhongjiang_00002
+  rotate: false
+  xy: 733, 37
+  size: 70, 72
+  orig: 106, 106
+  offset: 17, 14
+  index: -1
+chebiaozhongjiang_00003
+  rotate: true
+  xy: 2, 3
+  size: 78, 80
+  orig: 106, 106
+  offset: 13, 11
+  index: -1
+chebiaozhongjiang_00004
+  rotate: false
+  xy: 712, 111
+  size: 90, 92
+  orig: 106, 106
+  offset: 6, 5
+  index: -1
+chebiaozhongjiang_00005
+  rotate: true
+  xy: 324, 408
+  size: 102, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00006
+  rotate: false
+  xy: 107, 102
+  size: 100, 104
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00007
+  rotate: true
+  xy: 426, 205
+  size: 99, 103
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00008
+  rotate: false
+  xy: 209, 102
+  size: 99, 102
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00009
+  rotate: true
+  xy: 425, 2
+  size: 98, 101
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00010
+  rotate: true
+  xy: 531, 205
+  size: 99, 103
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00011
+  rotate: false
+  xy: 310, 102
+  size: 99, 102
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00012
+  rotate: true
+  xy: 321, 206
+  size: 100, 103
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00013
+  rotate: true
+  xy: 535, 306
+  size: 100, 103
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00014
+  rotate: true
+  xy: 640, 306
+  size: 100, 103
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00015
+  rotate: true
+  xy: 107, 2
+  size: 98, 104
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00016
+  rotate: true
+  xy: 109, 308
+  size: 97, 105
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00017
+  rotate: true
+  xy: 216, 308
+  size: 97, 105
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00018
+  rotate: true
+  xy: 108, 208
+  size: 98, 105
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00019
+  rotate: true
+  xy: 859, 410
+  size: 100, 105
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00020
+  rotate: true
+  xy: 431, 408
+  size: 102, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00021
+  rotate: false
+  xy: 2, 405
+  size: 105, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00022
+  rotate: false
+  xy: 2, 298
+  size: 104, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00023
+  rotate: true
+  xy: 538, 408
+  size: 102, 105
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00024
+  rotate: true
+  xy: 645, 409
+  size: 101, 105
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00025
+  rotate: true
+  xy: 215, 206
+  size: 100, 104
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00026
+  rotate: true
+  xy: 213, 2
+  size: 98, 104
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00027
+  rotate: true
+  xy: 319, 2
+  size: 98, 104
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00028
+  rotate: true
+  xy: 636, 205
+  size: 99, 102
+  orig: 106, 106
+  offset: 3, 1
+  index: -1
+chebiaozhongjiang_00029
+  rotate: false
+  xy: 411, 102
+  size: 99, 101
+  orig: 106, 106
+  offset: 3, 1
+  index: -1
+chebiaozhongjiang_00030
+  rotate: true
+  xy: 631, 2
+  size: 98, 100
+  orig: 106, 106
+  offset: 3, 1
+  index: -1
+chebiaozhongjiang_00031
+  rotate: false
+  xy: 512, 102
+  size: 98, 101
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00032
+  rotate: true
+  xy: 528, 2
+  size: 98, 101
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00033
+  rotate: false
+  xy: 612, 102
+  size: 98, 101
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00034
+  rotate: true
+  xy: 324, 308
+  size: 98, 103
+  orig: 106, 106
+  offset: 3, 0
+  index: -1
+chebiaozhongjiang_00035
+  rotate: true
+  xy: 745, 308
+  size: 99, 103
+  orig: 106, 106
+  offset: 2, 0
+  index: -1
+chebiaozhongjiang_00036
+  rotate: true
+  xy: 429, 306
+  size: 100, 104
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+chebiaozhongjiang_00037
+  rotate: true
+  xy: 752, 409
+  size: 101, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00038
+  rotate: true
+  xy: 217, 407
+  size: 103, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00039
+  rotate: false
+  xy: 2, 83
+  size: 103, 105
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00040
+  rotate: true
+  xy: 109, 407
+  size: 103, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+chebiaozhongjiang_00041
+  rotate: false
+  xy: 2, 190
+  size: 103, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,530 @@
+
+longhudou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire 075 Impact Right MIX_00002
+  rotate: false
+  xy: 679, 771
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Fire 075 Impact Right MIX_00004
+  rotate: false
+  xy: 679, 519
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Fire 075 Impact Right MIX_00006
+  rotate: false
+  xy: 706, 267
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Fire 075 Impact Right MIX_00008
+  rotate: false
+  xy: 706, 15
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+dian2_00000
+  rotate: false
+  xy: 931, 526
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian_00006
+  rotate: true
+  xy: 931, 738
+  size: 283, 87
+  orig: 283, 87
+  offset: 0, 0
+  index: -1
+fire_00000
+  rotate: false
+  xy: 958, 460
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_00001
+  rotate: false
+  xy: 958, 394
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_00002
+  rotate: false
+  xy: 958, 328
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_00003
+  rotate: false
+  xy: 958, 262
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_00004
+  rotate: false
+  xy: 958, 196
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_00005
+  rotate: false
+  xy: 958, 130
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fire_00006
+  rotate: false
+  xy: 958, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+h_00005
+  rotate: true
+  xy: 931, 608
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+h_00006
+  rotate: false
+  xy: 2, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+hu_00000
+  rotate: true
+  xy: 404, 76
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+huo_00000
+  rotate: true
+  xy: 132, 14
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00001
+  rotate: true
+  xy: 244, 14
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00002
+  rotate: true
+  xy: 356, 14
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00003
+  rotate: true
+  xy: 468, 14
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00004
+  rotate: true
+  xy: 580, 14
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huying_00000
+  rotate: false
+  xy: 958, 22
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+long_00000
+  rotate: false
+  xy: 2, 76
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 2, 478
+  size: 664, 268
+  orig: 664, 268
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 2, 748
+  size: 675, 273
+  orig: 675, 273
+  offset: 0, 0
+  index: -1
+
+longhudou2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electricity 036 Explosion Right MIX_00002
+  rotate: false
+  xy: 254, 582
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00003
+  rotate: false
+  xy: 506, 834
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00005
+  rotate: false
+  xy: 2, 154
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00007
+  rotate: false
+  xy: 688, 834
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00009
+  rotate: false
+  xy: 254, 400
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00011
+  rotate: false
+  xy: 436, 582
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00013
+  rotate: false
+  xy: 436, 400
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00015
+  rotate: false
+  xy: 618, 652
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Electricity 036 Explosion Right MIX_00017
+  rotate: false
+  xy: 618, 470
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+Fire 075 Impact Right MIX_00010
+  rotate: false
+  xy: 2, 764
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Fire 075 Impact Right MIX_00012
+  rotate: false
+  xy: 2, 512
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Fire 075 Impact Right MIX_00014
+  rotate: false
+  xy: 254, 764
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+baodian_00000
+  rotate: false
+  xy: 488, 270
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+baodian_00001
+  rotate: false
+  xy: 336, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dian2_00001
+  rotate: false
+  xy: 926, 670
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00002
+  rotate: false
+  xy: 528, 188
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00003
+  rotate: true
+  xy: 590, 194
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00004
+  rotate: false
+  xy: 672, 174
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00005
+  rotate: false
+  xy: 528, 106
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00006
+  rotate: true
+  xy: 590, 132
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00007
+  rotate: false
+  xy: 492, 24
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00008
+  rotate: false
+  xy: 554, 24
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00009
+  rotate: false
+  xy: 616, 50
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00011
+  rotate: true
+  xy: 730, 256
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00012
+  rotate: false
+  xy: 734, 174
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00013
+  rotate: false
+  xy: 678, 92
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dian2_00014
+  rotate: false
+  xy: 740, 92
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+dianqiu_00000
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00002
+  rotate: false
+  xy: 870, 864
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00004
+  rotate: false
+  xy: 800, 512
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00006
+  rotate: false
+  xy: 618, 318
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00008
+  rotate: false
+  xy: 800, 360
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00010
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00012
+  rotate: false
+  xy: 184, 184
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dianqiu_00014
+  rotate: false
+  xy: 336, 248
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fire_00007
+  rotate: false
+  xy: 678, 26
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+huo_00005
+  rotate: true
+  xy: 506, 772
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00006
+  rotate: true
+  xy: 618, 256
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00007
+  rotate: false
+  xy: 926, 752
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00008
+  rotate: false
+  xy: 306, 6
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00009
+  rotate: false
+  xy: 368, 6
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00010
+  rotate: false
+  xy: 430, 6
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00011
+  rotate: false
+  xy: 952, 558
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00012
+  rotate: false
+  xy: 952, 446
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00013
+  rotate: false
+  xy: 952, 334
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+huo_00014
+  rotate: false
+  xy: 466, 136
+  size: 60, 110
+  orig: 60, 110
+  offset: 0, 0
+  index: -1
+longying_00000
+  rotate: false
+  xy: 770, 318
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 2, 336
+  size: 199, 174
+  orig: 199, 174
+  offset: 0, 0
+  index: -1
+v
+  rotate: false
+  xy: 800, 664
+  size: 124, 168
+  orig: 124, 168
+  offset: 0, 0
+  index: -1

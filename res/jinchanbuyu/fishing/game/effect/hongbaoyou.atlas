@@ -1,0 +1,34 @@
+
+hongbaoyou.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: true
+  xy: 2, 2
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+ce
+  rotate: true
+  xy: 156, 41
+  size: 18, 74
+  orig: 18, 74
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 156, 19
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+zheng
+  rotate: true
+  xy: 79, 2
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1

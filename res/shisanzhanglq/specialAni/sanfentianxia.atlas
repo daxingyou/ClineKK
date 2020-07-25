@@ -1,0 +1,205 @@
+
+sanfentianxia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+keng
+  rotate: false
+  xy: 477, 2
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: false
+  xy: 489, 149
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: false
+  xy: 489, 59
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+qizi3
+  rotate: false
+  xy: 369, 51
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+txtxt_00005
+  rotate: true
+  xy: 369, 141
+  size: 96, 118
+  orig: 1011, 569
+  offset: 463, 234
+  index: -1
+txtxt_00007
+  rotate: true
+  xy: 369, 239
+  size: 264, 238
+  orig: 1011, 569
+  offset: 348, 184
+  index: -1
+txtxt_00037
+  rotate: true
+  xy: 609, 9
+  size: 493, 365
+  orig: 1011, 569
+  offset: 241, 85
+  index: -1
+txtxt_00039
+  rotate: true
+  xy: 2, 2
+  size: 501, 365
+  orig: 1011, 569
+  offset: 231, 85
+  index: -1
+txtxt_00041
+  rotate: true
+  xy: 628, 504
+  size: 512, 365
+  orig: 1011, 569
+  offset: 220, 85
+  index: -1
+txtxt_00043
+  rotate: false
+  xy: 2, 505
+  size: 624, 511
+  orig: 1011, 569
+  offset: 197, 9
+  index: -1
+
+sanfentianxia2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanfengtianxia
+  rotate: false
+  xy: 2, 2
+  size: 347, 91
+  orig: 347, 91
+  offset: 0, 0
+  index: -1
+txtxt_00021
+  rotate: false
+  xy: 484, 97
+  size: 449, 365
+  orig: 1011, 569
+  offset: 284, 85
+  index: -1
+txtxt_00031
+  rotate: false
+  xy: 484, 464
+  size: 458, 363
+  orig: 1011, 569
+  offset: 273, 85
+  index: -1
+txtxt_00033
+  rotate: false
+  xy: 2, 95
+  size: 469, 365
+  orig: 1011, 569
+  offset: 263, 85
+  index: -1
+txtxt_00035
+  rotate: false
+  xy: 2, 462
+  size: 480, 365
+  orig: 1011, 569
+  offset: 252, 85
+  index: -1
+
+sanfentianxia3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+txtxt_00019
+  rotate: false
+  xy: 451, 2
+  size: 445, 365
+  orig: 1011, 569
+  offset: 286, 85
+  index: -1
+txtxt_00025
+  rotate: false
+  xy: 2, 3
+  size: 447, 364
+  orig: 1011, 569
+  offset: 284, 85
+  index: -1
+txtxt_00027
+  rotate: false
+  xy: 452, 369
+  size: 446, 364
+  orig: 1011, 569
+  offset: 285, 85
+  index: -1
+txtxt_00029
+  rotate: false
+  xy: 2, 369
+  size: 448, 364
+  orig: 1011, 569
+  offset: 283, 85
+  index: -1
+
+sanfentianxia4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+txtxt_00011
+  rotate: false
+  xy: 448, 2
+  size: 435, 360
+  orig: 1011, 569
+  offset: 290, 88
+  index: -1
+txtxt_00015
+  rotate: false
+  xy: 2, 2
+  size: 444, 361
+  orig: 1011, 569
+  offset: 285, 89
+  index: -1
+txtxt_00017
+  rotate: false
+  xy: 449, 364
+  size: 443, 365
+  orig: 1011, 569
+  offset: 284, 85
+  index: -1
+txtxt_00023
+  rotate: false
+  xy: 2, 365
+  size: 445, 364
+  orig: 1011, 569
+  offset: 286, 85
+  index: -1
+
+sanfentianxia5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+txtxt_00009
+  rotate: false
+  xy: 447, 17
+  size: 412, 337
+  orig: 1011, 569
+  offset: 307, 106
+  index: -1
+txtxt_00013
+  rotate: false
+  xy: 2, 2
+  size: 443, 352
+  orig: 1011, 569
+  offset: 285, 98
+  index: -1

@@ -1,0 +1,83 @@
+
+yidaboyu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: false
+  xy: 75, 28
+  size: 71, 71
+  orig: 85, 72
+  offset: 0, 1
+  index: -1
+da
+  rotate: false
+  xy: 221, 28
+  size: 70, 71
+  orig: 85, 72
+  offset: 0, 1
+  index: -1
+fuhao
+  rotate: false
+  xy: 645, 73
+  size: 83, 26
+  orig: 85, 72
+  offset: 2, 17
+  index: -1
+lai
+  rotate: false
+  xy: 293, 28
+  size: 70, 71
+  orig: 85, 72
+  offset: 0, 1
+  index: -1
+ni
+  rotate: false
+  xy: 148, 28
+  size: 71, 71
+  orig: 85, 72
+  offset: 2, 1
+  index: -1
+qun
+  rotate: false
+  xy: 365, 28
+  size: 70, 71
+  orig: 85, 72
+  offset: 1, 1
+  index: -1
+xi
+  rotate: false
+  xy: 2, 27
+  size: 71, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+xiang
+  rotate: false
+  xy: 437, 28
+  size: 66, 71
+  orig: 85, 72
+  offset: 3, 1
+  index: -1
+yi
+  rotate: false
+  xy: 2, 2
+  size: 64, 23
+  orig: 85, 72
+  offset: 4, 25
+  index: -1
+yu
+  rotate: false
+  xy: 505, 30
+  size: 66, 69
+  orig: 85, 72
+  offset: 0, 3
+  index: -1
+zheng
+  rotate: false
+  xy: 573, 35
+  size: 70, 64
+  orig: 85, 72
+  offset: 1, 4
+  index: -1

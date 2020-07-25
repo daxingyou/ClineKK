@@ -1,0 +1,83 @@
+
+xinshouyucun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 104
+  size: 308, 399
+  orig: 310, 401
+  offset: 1, 1
+  index: -1
+paopao
+  rotate: false
+  xy: 265, 73
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+shuicao1
+  rotate: true
+  xy: 723, 330
+  size: 49, 159
+  orig: 51, 161
+  offset: 1, 1
+  index: -1
+shuicao2
+  rotate: true
+  xy: 2, 2
+  size: 40, 77
+  orig: 42, 79
+  offset: 1, 1
+  index: -1
+xinshouyucun
+  rotate: false
+  xy: 2, 44
+  size: 261, 58
+  orig: 263, 60
+  offset: 1, 1
+  index: -1
+yudi
+  rotate: false
+  xy: 723, 381
+  size: 184, 122
+  orig: 186, 124
+  offset: 1, 1
+  index: -1
+yue
+  rotate: false
+  xy: 312, 120
+  size: 174, 207
+  orig: 176, 209
+  offset: 1, 1
+  index: -1
+yueqiL
+  rotate: false
+  xy: 909, 437
+  size: 72, 66
+  orig: 74, 68
+  offset: 1, 1
+  index: -1
+yueqiR
+  rotate: false
+  xy: 568, 270
+  size: 75, 57
+  orig: 77, 59
+  offset: 1, 1
+  index: -1
+zhuzi
+  rotate: false
+  xy: 488, 147
+  size: 78, 180
+  orig: 80, 182
+  offset: 1, 1
+  index: -1
+zidi
+  rotate: false
+  xy: 312, 329
+  size: 409, 174
+  orig: 411, 176
+  offset: 1, 1
+  index: -1

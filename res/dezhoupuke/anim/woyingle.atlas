@@ -1,0 +1,55 @@
+
+woyingle.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiguang
+  rotate: false
+  xy: 2, 70
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+niyingle
+  rotate: false
+  xy: 389, 180
+  size: 119, 44
+  orig: 119, 44
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 159, 158
+  size: 228, 66
+  orig: 228, 66
+  offset: 0, 0
+  index: -1
+quan_00000
+  rotate: false
+  xy: 159, 28
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 47, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 2, 2
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 289, 96
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1

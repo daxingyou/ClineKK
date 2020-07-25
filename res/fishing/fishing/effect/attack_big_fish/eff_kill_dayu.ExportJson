@@ -1,0 +1,4363 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "eff_kill_dayu",
+      "bone_data": [
+        {
+          "name": "Layer3",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 40,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "plist": "lizi_baojinbi_1.plist",
+              "displayType": 2
+            }
+          ]
+        },
+        {
+          "name": "xian18_Copy41",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 39,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.96705961,
+          "kY": -2.96705961,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian18",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 38,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.96705961,
+          "kY": -2.96705961,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian17_Copy40",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 37,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.79252672,
+          "kY": -2.79252672,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian17",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 36,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.79252672,
+          "kY": -2.79252672,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian16_Copy39",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 35,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.61799383,
+          "kY": -2.61799383,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian16",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 34,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.61799383,
+          "kY": -2.61799383,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian15_Copy38",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 33,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.443461,
+          "kY": -2.443461,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian15",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 32,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.443461,
+          "kY": -2.443461,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian14_Copy37",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 31,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.268928,
+          "kY": -2.268928,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian14",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 30,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.268928,
+          "kY": -2.268928,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian13_Copy36",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 29,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.09439516,
+          "kY": -2.09439516,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian13",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 28,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 2.09439516,
+          "kY": -2.09439516,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian12_Copy35",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 27,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.91986215,
+          "kY": -1.91986215,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian12",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 26,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.91986215,
+          "kY": -1.91986215,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian11_Copy34",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 25,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.74532926,
+          "kY": -1.74532926,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian11",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 24,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.74532926,
+          "kY": -1.74532926,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian10_Copy33",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 23,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.57079637,
+          "kY": -1.57079649,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian10",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 22,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.57079637,
+          "kY": -1.57079649,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian9_Copy32",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 21,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.39626336,
+          "kY": -1.39626336,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian9",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 20,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.39626336,
+          "kY": -1.39626336,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian8_Copy31",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 19,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.22173047,
+          "kY": -1.22173047,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian8",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 18,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.22173047,
+          "kY": -1.22173047,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian7_Copy30",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 17,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.04719758,
+          "kY": -1.04719758,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian7",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 16,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 1.04719758,
+          "kY": -1.04719758,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian6_Copy29",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 15,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.87266463,
+          "kY": -0.87266463,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian6",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 14,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.87266463,
+          "kY": -0.87266463,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian5_Copy28",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 13,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.6981317,
+          "kY": -0.6981317,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian5",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 12,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.6981317,
+          "kY": -0.6981317,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian4_Copy27",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 11,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.5235988,
+          "kY": -0.5235988,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian4",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 10,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.5235988,
+          "kY": -0.5235988,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian3_Copy26",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 9,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.34906584,
+          "kY": -0.34906584,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian3",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.34906584,
+          "kY": -0.34906584,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian2_Copy25",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.17453292,
+          "kY": -0.17453292,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian2",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.17453292,
+          "kY": -0.17453292,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian1_Copy24",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "xian1",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "eff_killdayu_xian.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dian",
+          "parent": "",
+          "dI": -1000,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "plist": "lizi_killdayu_dian.plist",
+              "displayType": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "eff_kill_dayu",
+      "mov_data": [
+        {
+          "name": "eff_kill_dayu",
+          "dr": 26,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.416666657,
+          "mov_bone_data": [
+            {
+              "name": "Layer3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian18_Copy41",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -35.360000610351562,
+                  "y": 244.91999816894531,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -68.0,
+                  "y": 471.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -68.0,
+                  "y": 471.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian18",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 35.842861175537109,
+                  "y": -245.32862854003906,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 68.928581237792969,
+                  "y": -471.78582763671875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 68.928581237792969,
+                  "y": -471.78582763671875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian17_Copy40",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -75.919998168945312,
+                  "y": 230.87998962402344,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -146.0,
+                  "y": 444.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -146.0,
+                  "y": 444.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian17",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 76.328582763671875,
+                  "y": -231.02861022949219,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 146.78573608398438,
+                  "y": -444.28579711914062,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 146.78573608398438,
+                  "y": -444.28579711914062,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian16_Copy39",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -118.55999755859375,
+                  "y": 208.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -228.0,
+                  "y": 400.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -228.0,
+                  "y": 400.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian16",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 118.85714721679688,
+                  "y": -208.18574523925781,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 228.57144165039063,
+                  "y": -400.35720825195312,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 228.57144165039063,
+                  "y": -400.35720825195312,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian15_Copy38",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -153.39999389648438,
+                  "y": 180.43998718261719,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -295.0,
+                  "y": 347.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -295.0,
+                  "y": 347.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian15",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 153.4000244140625,
+                  "y": -180.69999694824219,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 295.00006103515625,
+                  "y": -347.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 295.00006103515625,
+                  "y": -347.5,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian14_Copy37",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -184.59999084472656,
+                  "y": 153.39999389648438,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -355.0,
+                  "y": 295.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -355.0,
+                  "y": 295.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian14",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 184.78573608398438,
+                  "y": -153.58570861816406,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 355.35720825195312,
+                  "y": -295.35714721679688,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 355.35720825195312,
+                  "y": -295.35714721679688,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian13_Copy36",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -208.51998901367188,
+                  "y": 120.63999938964844,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -401.0,
+                  "y": 232.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -401.0,
+                  "y": 232.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian13",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 208.74287414550781,
+                  "y": -121.08571624755859,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 401.42861938476562,
+                  "y": -232.85716247558594,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 401.42861938476562,
+                  "y": -232.85716247558594,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian12_Copy35",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -235.55999755859375,
+                  "y": 87.879997253417969,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -453.0,
+                  "y": 169.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -453.0,
+                  "y": 169.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian12",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 235.857177734375,
+                  "y": -88.214302062988281,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 453.57150268554688,
+                  "y": -169.64289855957031,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 453.57150268554688,
+                  "y": -169.64289855957031,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian11_Copy34",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -257.91998291015625,
+                  "y": 48.879997253417969,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -496.0,
+                  "y": 94.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -496.0,
+                  "y": 94.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian11",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 257.95721435546875,
+                  "y": -49.0285758972168,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 496.07156372070312,
+                  "y": -94.285728454589844,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 496.07156372070312,
+                  "y": -94.285728454589844,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian10_Copy33",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -260.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -500.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -500.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian10",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 260.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 500.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 500.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian9_Copy32",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -261.55999755859375,
+                  "y": -39.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -503.0,
+                  "y": -75.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -503.0,
+                  "y": -75.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian9",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 261.67144775390625,
+                  "y": 39.371437072753906,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 503.21435546875,
+                  "y": 75.714302062988281,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 503.21435546875,
+                  "y": 75.714302062988281,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian8_Copy31",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -0.52631378173828125,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -249.07998657226563,
+                  "y": -71.492630004882812,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -479.0,
+                  "y": -137.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -479.0,
+                  "y": -137.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian8",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -0.52631378173828125,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 249.22859191894531,
+                  "y": 71.3451156616211,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 479.2857666015625,
+                  "y": 137.68797302246094,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 479.2857666015625,
+                  "y": 137.68797302246094,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian7_Copy30",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -232.95999145507813,
+                  "y": -112.31999206542969,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -448.0,
+                  "y": -216.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -448.0,
+                  "y": -216.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian7",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 233.07148742675781,
+                  "y": 112.54286193847656,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 448.21441650390625,
+                  "y": 216.4285888671875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 448.21441650390625,
+                  "y": 216.4285888671875,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian6_Copy29",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -205.39999389648438,
+                  "y": -150.27999877929688,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -395.0,
+                  "y": -289.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -395.0,
+                  "y": -289.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian6",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 205.40003967285156,
+                  "y": 150.42857360839844,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 395.00009155273438,
+                  "y": 289.28573608398438,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 395.00009155273438,
+                  "y": 289.28573608398438,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian5_Copy28",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -181.47999572753906,
+                  "y": -191.87998962402344,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -349.0,
+                  "y": -369.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -349.0,
+                  "y": -369.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian5",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 182.49525451660156,
+                  "y": 192.02859497070313,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 350.95242309570312,
+                  "y": 369.2857666015625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 349.2857666015625,
+                  "y": 369.2857666015625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian4_Copy27",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -141.44000244140625,
+                  "y": -218.39999389648438,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -272.0,
+                  "y": -420.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -272.0,
+                  "y": -420.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian4",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 141.70002746582031,
+                  "y": 218.58572387695313,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 272.50006103515625,
+                  "y": 420.357177734375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 272.50006103515625,
+                  "y": 420.357177734375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian3_Copy26",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -94.639999389648438,
+                  "y": -239.71998596191406,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -182.0,
+                  "y": -461.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -182.0,
+                  "y": -461.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 95.085723876953125,
+                  "y": 239.75717163085938,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 182.85716247558594,
+                  "y": 461.07150268554688,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 182.85716247558594,
+                  "y": 461.07150268554688,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian2_Copy25",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -47.319999694824219,
+                  "y": -250.63998413085938,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -91.0,
+                  "y": -482.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": -91.0,
+                  "y": -482.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 47.542861938476562,
+                  "y": 250.90003967285156,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 91.428581237792969,
+                  "y": 482.50009155273438,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 91.428581237792969,
+                  "y": 482.50009155273438,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian1_Copy24",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -260.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": -0.864,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -500.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": -1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": -500.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "xian1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 260.0,
+                  "z": 1,
+                  "cX": 1.0,
+                  "cY": 0.863999963,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 500.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.2,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 500.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "dian",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 255,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1000,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "eff_killdayu_xian",
+      "width": 32.0,
+      "height": 247.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "lizi_baojinbi_1.plist",
+    "lizi_killdayu_dian.plist",
+    "eff_kill_dayu0.plist"
+  ],
+  "config_png_path": [
+    "lizi_baojinbi_1.png",
+    "lizi_killdayu_dian.png",
+    "eff_kill_dayu0.png"
+  ]
+}

@@ -1,0 +1,181 @@
+
+tonghuashun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin
+  rotate: true
+  xy: 866, 861
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+baofa1_00000
+  rotate: false
+  xy: 2, 586
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00001
+  rotate: false
+  xy: 260, 842
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00002
+  rotate: false
+  xy: 2, 404
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00003
+  rotate: false
+  xy: 462, 842
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00004
+  rotate: false
+  xy: 2, 222
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00005
+  rotate: false
+  xy: 664, 842
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00006
+  rotate: false
+  xy: 406, 478
+  size: 190, 180
+  orig: 200, 180
+  offset: 10, 0
+  index: -1
+baofa1_00007
+  rotate: false
+  xy: 866, 732
+  size: 108, 127
+  orig: 200, 180
+  offset: 55, 27
+  index: -1
+baofa1_00008
+  rotate: false
+  xy: 406, 364
+  size: 91, 112
+  orig: 200, 180
+  offset: 64, 38
+  index: -1
+baofa1_00009
+  rotate: false
+  xy: 598, 547
+  size: 92, 111
+  orig: 200, 180
+  offset: 63, 39
+  index: -1
+baofa1_00010
+  rotate: false
+  xy: 499, 370
+  size: 93, 106
+  orig: 200, 180
+  offset: 63, 39
+  index: -1
+baofa1_00011
+  rotate: false
+  xy: 692, 552
+  size: 93, 106
+  orig: 200, 180
+  offset: 63, 39
+  index: -1
+baofa1_00012
+  rotate: false
+  xy: 2, 40
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00013
+  rotate: false
+  xy: 260, 660
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00014
+  rotate: false
+  xy: 462, 660
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00015
+  rotate: false
+  xy: 664, 660
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00016
+  rotate: false
+  xy: 204, 478
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00017
+  rotate: false
+  xy: 204, 296
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+baofa1_00018
+  rotate: false
+  xy: 204, 134
+  size: 171, 160
+  orig: 200, 180
+  offset: 12, 0
+  index: -1
+gaoguang0007
+  rotate: false
+  xy: 204, 739
+  size: 28, 27
+  orig: 40, 40
+  offset: 6, 6
+  index: -1
+guangxiao
+  rotate: false
+  xy: 2, 768
+  size: 256, 254
+  orig: 256, 254
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 204, 68
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+shun
+  rotate: false
+  xy: 204, 2
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 866, 666
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1

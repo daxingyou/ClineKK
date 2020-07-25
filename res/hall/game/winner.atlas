@@ -1,0 +1,188 @@
+
+winner.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di-ying
+  rotate: false
+  xy: 2, 159
+  size: 302, 92
+  orig: 302, 92
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 963, 216
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+diying00
+  rotate: false
+  xy: 2, 58
+  size: 78, 27
+  orig: 90, 35
+  offset: 6, 4
+  index: -1
+diying02
+  rotate: false
+  xy: 82, 58
+  size: 74, 27
+  orig: 90, 35
+  offset: 8, 4
+  index: -1
+diying04
+  rotate: false
+  xy: 494, 147
+  size: 74, 27
+  orig: 90, 35
+  offset: 8, 4
+  index: -1
+diying06
+  rotate: false
+  xy: 729, 226
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying08
+  rotate: false
+  xy: 494, 176
+  size: 78, 25
+  orig: 90, 35
+  offset: 6, 5
+  index: -1
+diying10
+  rotate: false
+  xy: 650, 226
+  size: 77, 25
+  orig: 90, 35
+  offset: 6, 5
+  index: -1
+diying12
+  rotate: false
+  xy: 2, 29
+  size: 75, 27
+  orig: 90, 35
+  offset: 7, 4
+  index: -1
+diying14
+  rotate: false
+  xy: 574, 176
+  size: 74, 25
+  orig: 90, 35
+  offset: 8, 5
+  index: -1
+diying16
+  rotate: false
+  xy: 79, 31
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying18
+  rotate: false
+  xy: 158, 60
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying20
+  rotate: true
+  xy: 494, 69
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying22
+  rotate: false
+  xy: 807, 226
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying24
+  rotate: true
+  xy: 521, 69
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying26
+  rotate: false
+  xy: 885, 226
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying28
+  rotate: false
+  xy: 2, 2
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying30
+  rotate: false
+  xy: 650, 199
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying32
+  rotate: false
+  xy: 570, 149
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying34
+  rotate: false
+  xy: 728, 199
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying36
+  rotate: false
+  xy: 806, 199
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+diying38
+  rotate: false
+  xy: 884, 199
+  size: 76, 25
+  orig: 90, 35
+  offset: 7, 5
+  index: -1
+guang
+  rotate: false
+  xy: 306, 66
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 272, 135
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+yingdi
+  rotate: false
+  xy: 2, 87
+  size: 268, 70
+  orig: 268, 70
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 494, 203
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1

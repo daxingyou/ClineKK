@@ -1,0 +1,97 @@
+
+dianzijingcai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 679, 168
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+A1
+  rotate: false
+  xy: 497, 71
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 375, 80
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 2, 59
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+dd2
+  rotate: false
+  xy: 208, 95
+  size: 165, 153
+  orig: 165, 153
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 208, 63
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: true
+  xy: 614, 111
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+ningmeng
+  rotate: false
+  xy: 679, 111
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 860, 185
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+yaogan
+  rotate: true
+  xy: 2, 2
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+yaoganb_00
+  rotate: true
+  xy: 770, 171
+  size: 77, 88
+  orig: 100, 100
+  offset: 12, 12
+  index: -1
+yingtao
+  rotate: true
+  xy: 609, 177
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 375, 177
+  size: 232, 71
+  orig: 232, 71
+  offset: 0, 0
+  index: -1

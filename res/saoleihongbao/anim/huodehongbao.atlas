@@ -1,0 +1,104 @@
+
+huodehongbao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 918, 743
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 994, 947
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+bao
+  rotate: false
+  xy: 204, 218
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+baodian_00
+  rotate: false
+  xy: 544, 586
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+bggg1_00000
+  rotate: true
+  xy: 354, 239
+  size: 320, 50
+  orig: 320, 50
+  offset: 0, 0
+  index: -1
+de
+  rotate: true
+  xy: 746, 586
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 561
+  size: 540, 225
+  orig: 540, 225
+  offset: 0, 0
+  index: -1
+guangyun2_00_1
+  rotate: false
+  xy: 2, 132
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guangyun_00
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 406, 336
+  size: 101, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 406, 446
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 746, 690
+  size: 170, 96
+  orig: 170, 96
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: false
+  xy: 2, 788
+  size: 990, 179
+  orig: 990, 179
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 2, 334
+  size: 350, 225
+  orig: 350, 225
+  offset: 0, 0
+  index: -1

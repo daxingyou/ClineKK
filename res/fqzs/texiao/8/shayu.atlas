@@ -1,0 +1,146 @@
+
+shayu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 834, 417
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2, 2
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 984, 460
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 755, 349
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 101, 48
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 677, 230
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 358, 157
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 785, 350
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 156, 105
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 725, 286
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+bs-1
+  rotate: false
+  xy: 834, 447
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+bs-2
+  rotate: false
+  xy: 677, 282
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+bs-body
+  rotate: false
+  xy: 358, 185
+  size: 317, 214
+  orig: 317, 214
+  offset: 0, 0
+  index: -1
+bs-mouth
+  rotate: false
+  xy: 677, 338
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+bs-tail
+  rotate: false
+  xy: 2, 22
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+guangban
+  rotate: false
+  xy: 2, 157
+  size: 354, 352
+  orig: 354, 352
+  offset: 0, 0
+  index: -1
+sha
+  rotate: false
+  xy: 101, 99
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+shayu
+  rotate: false
+  xy: 358, 401
+  size: 474, 108
+  orig: 474, 108
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 186, 116
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 929, 453
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+fire.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_pao0_00000
+  rotate: false
+  xy: 480, 117
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao0_00001
+  rotate: false
+  xy: 557, 117
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao0_00002
+  rotate: false
+  xy: 612, 363
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao0_00003
+  rotate: false
+  xy: 689, 363
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao0_00004
+  rotate: false
+  xy: 766, 363
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao0_00005
+  rotate: false
+  xy: 843, 363
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao0_00006
+  rotate: false
+  xy: 602, 286
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+fire_pao2_00002
+  rotate: false
+  xy: 246, 2
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00003
+  rotate: false
+  xy: 323, 2
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00004
+  rotate: true
+  xy: 948, 435
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00005
+  rotate: false
+  xy: 400, 10
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00006
+  rotate: false
+  xy: 679, 301
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00007
+  rotate: false
+  xy: 756, 301
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00008
+  rotate: false
+  xy: 833, 301
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00009
+  rotate: false
+  xy: 920, 373
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao2_00010
+  rotate: false
+  xy: 602, 224
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+fire_pao3_00000
+  rotate: false
+  xy: 2, 390
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+fire_pao3_00001
+  rotate: false
+  xy: 2, 268
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+fire_pao3_00002
+  rotate: false
+  xy: 124, 390
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+fire_pao3_00003
+  rotate: false
+  xy: 2, 146
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+fire_pao3_00004
+  rotate: false
+  xy: 124, 268
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pao1huo_00002
+  rotate: false
+  xy: 368, 216
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00003
+  rotate: false
+  xy: 490, 338
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00004
+  rotate: false
+  xy: 612, 440
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00005
+  rotate: false
+  xy: 724, 440
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00006
+  rotate: false
+  xy: 836, 440
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00007
+  rotate: false
+  xy: 490, 266
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00008
+  rotate: false
+  xy: 368, 144
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00009
+  rotate: false
+  xy: 480, 194
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao1huo_00010
+  rotate: false
+  xy: 348, 72
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+pao4_fire_00000
+  rotate: false
+  xy: 246, 390
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pao4_fire_00001
+  rotate: false
+  xy: 2, 24
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pao4_fire_00002
+  rotate: false
+  xy: 124, 146
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pao4_fire_00003
+  rotate: false
+  xy: 246, 268
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pao4_fire_00004
+  rotate: false
+  xy: 368, 390
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pao5_fire_00001
+  rotate: false
+  xy: 246, 64
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pao6_fire_00000
+  rotate: false
+  xy: 124, 44
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+pao6_fire_00001
+  rotate: false
+  xy: 246, 166
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+pao6_fire_00002
+  rotate: false
+  xy: 368, 288
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+pao6_fire_00003
+  rotate: false
+  xy: 490, 410
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1

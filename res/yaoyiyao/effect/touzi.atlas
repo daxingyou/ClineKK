@@ -1,0 +1,188 @@
+
+touzi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: true
+  xy: 891, 355
+  size: 64, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+1-2
+  rotate: true
+  xy: 822, 421
+  size: 66, 68
+  orig: 74, 69
+  offset: 4, 1
+  index: -1
+1-3
+  rotate: false
+  xy: 2, 144
+  size: 74, 66
+  orig: 74, 69
+  offset: 0, 1
+  index: -1
+1-4
+  rotate: true
+  xy: 2, 2
+  size: 70, 64
+  orig: 74, 69
+  offset: 2, 3
+  index: -1
+2-1
+  rotate: true
+  xy: 464, 178
+  size: 65, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+2-2
+  rotate: true
+  xy: 744, 158
+  size: 63, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+2-3
+  rotate: false
+  xy: 78, 145
+  size: 71, 65
+  orig: 74, 69
+  offset: 1, 2
+  index: -1
+2-4
+  rotate: false
+  xy: 223, 147
+  size: 70, 63
+  orig: 74, 69
+  offset: 2, 4
+  index: -1
+3-1
+  rotate: true
+  xy: 534, 178
+  size: 65, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+3-2
+  rotate: true
+  xy: 367, 115
+  size: 63, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+3-3
+  rotate: false
+  xy: 151, 146
+  size: 70, 64
+  orig: 74, 69
+  offset: 2, 3
+  index: -1
+3-4
+  rotate: false
+  xy: 746, 288
+  size: 70, 64
+  orig: 74, 69
+  offset: 2, 3
+  index: -1
+4-1
+  rotate: true
+  xy: 437, 112
+  size: 64, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+4-2
+  rotate: true
+  xy: 507, 113
+  size: 63, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+4-3
+  rotate: false
+  xy: 746, 421
+  size: 74, 66
+  orig: 74, 69
+  offset: 0, 1
+  index: -1
+4-4
+  rotate: false
+  xy: 295, 147
+  size: 70, 63
+  orig: 74, 69
+  offset: 2, 4
+  index: -1
+5-1
+  rotate: true
+  xy: 604, 178
+  size: 65, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+5-2
+  rotate: true
+  xy: 892, 421
+  size: 66, 68
+  orig: 74, 69
+  offset: 4, 1
+  index: -1
+5-3
+  rotate: false
+  xy: 746, 354
+  size: 71, 65
+  orig: 74, 69
+  offset: 1, 2
+  index: -1
+5-4
+  rotate: false
+  xy: 746, 223
+  size: 70, 63
+  orig: 74, 69
+  offset: 2, 4
+  index: -1
+6-1
+  rotate: true
+  xy: 674, 178
+  size: 65, 68
+  orig: 74, 69
+  offset: 5, 1
+  index: -1
+6-2
+  rotate: false
+  xy: 2, 74
+  size: 69, 68
+  orig: 74, 69
+  offset: 3, 1
+  index: -1
+6-3
+  rotate: false
+  xy: 819, 355
+  size: 70, 64
+  orig: 74, 69
+  offset: 2, 3
+  index: -1
+6-4
+  rotate: false
+  xy: 392, 180
+  size: 70, 63
+  orig: 74, 69
+  offset: 2, 4
+  index: -1
+touzhongdi
+  rotate: false
+  xy: 2, 212
+  size: 388, 275
+  orig: 388, 275
+  offset: 0, 0
+  index: -1
+zhaozi
+  rotate: true
+  xy: 392, 245
+  size: 242, 352
+  orig: 242, 352
+  offset: 0, 0
+  index: -1

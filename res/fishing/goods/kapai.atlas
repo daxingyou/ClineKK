@@ -1,0 +1,27 @@
+
+kapai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingdongka
+  rotate: false
+  xy: 2, 2
+  size: 147, 244
+  orig: 147, 244
+  offset: 0, 0
+  index: -1
+kuangbaoka
+  rotate: false
+  xy: 151, 2
+  size: 147, 244
+  orig: 147, 244
+  offset: 0, 0
+  index: -1
+zhaohuanka
+  rotate: false
+  xy: 300, 2
+  size: 147, 244
+  orig: 147, 244
+  offset: 0, 0
+  index: -1

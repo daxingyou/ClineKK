@@ -1,0 +1,153 @@
+
+wublackjack.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg_00001
+  rotate: false
+  xy: 2, 160
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00002
+  rotate: false
+  xy: 343, 210
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00003
+  rotate: false
+  xy: 2, 118
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00004
+  rotate: false
+  xy: 525, 210
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00005
+  rotate: false
+  xy: 2, 76
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00006
+  rotate: false
+  xy: 707, 210
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00007
+  rotate: false
+  xy: 2, 34
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00008
+  rotate: true
+  xy: 184, 20
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00009
+  rotate: true
+  xy: 226, 20
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00010
+  rotate: true
+  xy: 268, 20
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00011
+  rotate: true
+  xy: 310, 20
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00012
+  rotate: false
+  xy: 352, 168
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00013
+  rotate: false
+  xy: 352, 126
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00014
+  rotate: false
+  xy: 534, 168
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00015
+  rotate: false
+  xy: 352, 84
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00016
+  rotate: false
+  xy: 534, 126
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00017
+  rotate: false
+  xy: 352, 42
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00018
+  rotate: false
+  xy: 534, 84
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+sg_00019
+  rotate: false
+  xy: 534, 42
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+wu-1
+  rotate: false
+  xy: 2, 2
+  size: 175, 30
+  orig: 175, 30
+  offset: 0, 0
+  index: -1
+wu-2
+  rotate: false
+  xy: 2, 202
+  size: 339, 48
+  orig: 339, 48
+  offset: 0, 0
+  index: -1

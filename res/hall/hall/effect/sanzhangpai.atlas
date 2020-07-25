@@ -1,0 +1,62 @@
+
+sanzhangpai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 850, 190
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 761, 166
+  size: 87, 78
+  orig: 87, 78
+  offset: 0, 0
+  index: -1
+fa
+  rotate: true
+  xy: 406, 85
+  size: 86, 175
+  orig: 86, 175
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 55
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+quan+
+  rotate: false
+  xy: 406, 173
+  size: 214, 71
+  orig: 214, 71
+  offset: 0, 0
+  index: -1
+rem
+  rotate: true
+  xy: 208, 98
+  size: 146, 196
+  orig: 146, 196
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 622, 194
+  size: 50, 137
+  orig: 50, 137
+  offset: 0, 0
+  index: -1
+zhajinhua
+  rotate: false
+  xy: 2, 2
+  size: 157, 51
+  orig: 157, 51
+  offset: 0, 0
+  index: -1

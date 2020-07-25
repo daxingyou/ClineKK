@@ -1,0 +1,153 @@
+
+shunzi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 2, 2
+  size: 218, 179
+  orig: 220, 200
+  offset: 0, 14
+  index: -1
+002
+  rotate: false
+  xy: 790, 841
+  size: 220, 181
+  orig: 220, 200
+  offset: 0, 13
+  index: -1
+003
+  rotate: true
+  xy: 183, 6
+  size: 214, 180
+  orig: 220, 200
+  offset: 0, 15
+  index: -1
+004
+  rotate: true
+  xy: 548, 74
+  size: 219, 180
+  orig: 220, 200
+  offset: 0, 15
+  index: -1
+007
+  rotate: true
+  xy: 548, 74
+  size: 219, 180
+  orig: 220, 200
+  offset: 0, 15
+  index: -1
+005
+  rotate: false
+  xy: 269, 478
+  size: 220, 181
+  orig: 220, 200
+  offset: 0, 15
+  index: -1
+006
+  rotate: false
+  xy: 583, 328
+  size: 214, 180
+  orig: 220, 200
+  offset: 0, 16
+  index: -1
+008
+  rotate: false
+  xy: 254, 295
+  size: 220, 181
+  orig: 220, 200
+  offset: 0, 14
+  index: -1
+009
+  rotate: true
+  xy: 730, 112
+  size: 214, 179
+  orig: 220, 200
+  offset: 0, 15
+  index: -1
+010
+  rotate: false
+  xy: 549, 655
+  size: 219, 180
+  orig: 220, 200
+  offset: 0, 14
+  index: -1
+011
+  rotate: true
+  xy: 365, 73
+  size: 220, 181
+  orig: 220, 200
+  offset: 0, 13
+  index: -1
+012
+  rotate: false
+  xy: 790, 659
+  size: 214, 180
+  orig: 220, 200
+  offset: 0, 14
+  index: -1
+shunzi18
+  rotate: true
+  xy: 476, 295
+  size: 181, 105
+  orig: 402, 216
+  offset: 113, 54
+  index: -1
+xguang__00007
+  rotate: false
+  xy: 491, 510
+  size: 193, 143
+  orig: 400, 400
+  offset: 103, 131
+  index: -1
+xguang__00008
+  rotate: false
+  xy: 277, 661
+  size: 228, 164
+  orig: 400, 400
+  offset: 89, 123
+  index: -1
+xguang__00009
+  rotate: false
+  xy: 549, 837
+  size: 239, 185
+  orig: 400, 400
+  offset: 74, 117
+  index: -1
+xguang__00010
+  rotate: false
+  xy: 2, 418
+  size: 250, 183
+  orig: 400, 400
+  offset: 71, 121
+  index: -1
+xguang__00011
+  rotate: false
+  xy: 2, 603
+  size: 265, 203
+  orig: 400, 400
+  offset: 64, 104
+  index: -1
+xguang__00012
+  rotate: false
+  xy: 277, 827
+  size: 270, 195
+  orig: 400, 400
+  offset: 60, 116
+  index: -1
+xguang__00013
+  rotate: false
+  xy: 2, 808
+  size: 273, 214
+  orig: 400, 400
+  offset: 59, 102
+  index: -1
+xguang__00014
+  rotate: false
+  xy: 2, 222
+  size: 226, 194
+  orig: 400, 400
+  offset: 60, 116
+  index: -1

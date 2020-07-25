@@ -1,0 +1,286 @@
+
+gongxihuosheng.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00002
+  rotate: false
+  xy: 480, 390
+  size: 19, 19
+  orig: 160, 120
+  offset: 63, 59
+  index: -1
+00003
+  rotate: false
+  xy: 628, 406
+  size: 23, 23
+  orig: 160, 120
+  offset: 61, 57
+  index: -1
+00004
+  rotate: false
+  xy: 367, 239
+  size: 95, 85
+  orig: 160, 120
+  offset: 24, 21
+  index: -1
+00005
+  rotate: false
+  xy: 369, 326
+  size: 109, 83
+  orig: 160, 120
+  offset: 20, 20
+  index: -1
+00006
+  rotate: false
+  xy: 252, 258
+  size: 113, 81
+  orig: 160, 120
+  offset: 18, 18
+  index: -1
+00007
+  rotate: false
+  xy: 750, 431
+  size: 116, 79
+  orig: 160, 120
+  offset: 16, 17
+  index: -1
+00008
+  rotate: false
+  xy: 868, 433
+  size: 118, 77
+  orig: 160, 120
+  offset: 15, 16
+  index: -1
+00009
+  rotate: false
+  xy: 628, 431
+  size: 120, 79
+  orig: 160, 120
+  offset: 14, 15
+  index: -1
+00010
+  rotate: false
+  xy: 504, 427
+  size: 122, 83
+  orig: 160, 120
+  offset: 13, 14
+  index: -1
+00011
+  rotate: true
+  xy: 66, 186
+  size: 123, 88
+  orig: 160, 120
+  offset: 12, 13
+  index: -1
+00012
+  rotate: true
+  xy: 2, 10
+  size: 123, 90
+  orig: 160, 120
+  offset: 12, 13
+  index: -1
+00013
+  rotate: true
+  xy: 156, 213
+  size: 123, 94
+  orig: 160, 120
+  offset: 12, 12
+  index: -1
+00014
+  rotate: false
+  xy: 255, 413
+  size: 123, 97
+  orig: 160, 120
+  offset: 12, 11
+  index: -1
+00015
+  rotate: true
+  xy: 151, 338
+  size: 123, 98
+  orig: 160, 120
+  offset: 12, 11
+  index: -1
+00016
+  rotate: false
+  xy: 380, 411
+  size: 122, 99
+  orig: 160, 120
+  offset: 13, 11
+  index: -1
+00017
+  rotate: false
+  xy: 384, 169
+  size: 62, 68
+  orig: 160, 120
+  offset: 72, 42
+  index: -1
+gongxihuosheng
+  rotate: true
+  xy: 2, 135
+  size: 174, 62
+  orig: 174, 62
+  offset: 0, 0
+  index: -1
+gongxizi_00000
+  rotate: true
+  xy: 140, 32
+  size: 106, 39
+  orig: 120, 40
+  offset: 7, 1
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 311
+  size: 147, 150
+  orig: 147, 150
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 251, 341
+  size: 116, 70
+  orig: 116, 70
+  offset: 0, 0
+  index: -1
+saoguang_00000
+  rotate: false
+  xy: 611, 394
+  size: 15, 31
+  orig: 120, 50
+  offset: 9, 9
+  index: -1
+saoguang_00002
+  rotate: true
+  xy: 94, 2
+  size: 30, 33
+  orig: 120, 50
+  offset: 9, 7
+  index: -1
+saoguang_00004
+  rotate: true
+  xy: 587, 336
+  size: 45, 33
+  orig: 120, 50
+  offset: 9, 7
+  index: -1
+saoguang_00006
+  rotate: true
+  xy: 988, 451
+  size: 59, 34
+  orig: 120, 50
+  offset: 9, 6
+  index: -1
+saoguang_00008
+  rotate: false
+  xy: 181, 50
+  size: 74, 35
+  orig: 120, 50
+  offset: 9, 5
+  index: -1
+saoguang_00010
+  rotate: false
+  xy: 181, 87
+  size: 89, 37
+  orig: 120, 50
+  offset: 9, 5
+  index: -1
+saoguang_00012
+  rotate: false
+  xy: 279, 169
+  size: 103, 42
+  orig: 120, 50
+  offset: 9, 5
+  index: -1
+saoguang_00014
+  rotate: false
+  xy: 252, 213
+  size: 104, 43
+  orig: 120, 50
+  offset: 9, 5
+  index: -1
+saoguang_00016
+  rotate: false
+  xy: 66, 140
+  size: 104, 44
+  orig: 120, 50
+  offset: 9, 5
+  index: -1
+saoguang_00018
+  rotate: true
+  xy: 94, 34
+  size: 104, 44
+  orig: 120, 50
+  offset: 9, 5
+  index: -1
+saoguang_00020
+  rotate: false
+  xy: 172, 169
+  size: 105, 42
+  orig: 120, 50
+  offset: 9, 7
+  index: -1
+saoguang_00022
+  rotate: false
+  xy: 504, 383
+  size: 105, 42
+  orig: 120, 50
+  offset: 9, 7
+  index: -1
+saoguang_00024
+  rotate: false
+  xy: 480, 339
+  size: 105, 42
+  orig: 120, 50
+  offset: 9, 7
+  index: -1
+saoguang_00026
+  rotate: false
+  xy: 181, 126
+  size: 91, 41
+  orig: 120, 50
+  offset: 23, 7
+  index: -1
+saoguang_00028
+  rotate: false
+  xy: 274, 128
+  size: 76, 39
+  orig: 120, 50
+  offset: 38, 7
+  index: -1
+saoguang_00030
+  rotate: false
+  xy: 352, 134
+  size: 61, 33
+  orig: 120, 50
+  offset: 53, 7
+  index: -1
+saoguang_00032
+  rotate: false
+  xy: 415, 134
+  size: 45, 33
+  orig: 120, 50
+  offset: 68, 7
+  index: -1
+saoguang_00034
+  rotate: true
+  xy: 988, 418
+  size: 31, 32
+  orig: 120, 50
+  offset: 82, 8
+  index: -1
+saoguang_00036
+  rotate: true
+  xy: 181, 32
+  size: 16, 31
+  orig: 120, 50
+  offset: 97, 9
+  index: -1
+zisetiao
+  rotate: false
+  xy: 2, 463
+  size: 251, 47
+  orig: 251, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+shizi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 701, 199
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 508, 26
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 885, 406
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 472, 76
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 834, 405
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 805, 200
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 452, 23
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 547, 140
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 753, 199
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 480, 24
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+guangban
+  rotate: false
+  xy: 2, 150
+  size: 354, 352
+  orig: 354, 352
+  offset: 0, 0
+  index: -1
+lion-body
+  rotate: false
+  xy: 358, 191
+  size: 204, 201
+  orig: 204, 201
+  offset: 0, 0
+  index: -1
+lion-hair1
+  rotate: false
+  xy: 396, 75
+  size: 74, 114
+  orig: 74, 114
+  offset: 0, 0
+  index: -1
+lion-hair2
+  rotate: true
+  xy: 834, 436
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+lion-head
+  rotate: true
+  xy: 2, 6
+  size: 142, 260
+  orig: 142, 260
+  offset: 0, 0
+  index: -1
+lion-leg1
+  rotate: false
+  xy: 564, 197
+  size: 135, 195
+  orig: 135, 195
+  offset: 0, 0
+  index: -1
+lion-leg2
+  rotate: false
+  xy: 701, 229
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+lion-leg3
+  rotate: false
+  xy: 472, 106
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+lion-tail
+  rotate: false
+  xy: 264, 2
+  size: 130, 146
+  orig: 130, 146
+  offset: 0, 0
+  index: -1
+lion-tooth1
+  rotate: false
+  xy: 936, 417
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+lion-zui
+  rotate: false
+  xy: 396, 3
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+shi
+  rotate: true
+  xy: 966, 449
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+shizi
+  rotate: false
+  xy: 358, 394
+  size: 474, 108
+  orig: 474, 108
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 358, 150
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 966, 394
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1

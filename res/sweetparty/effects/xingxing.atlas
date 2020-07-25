@@ -1,0 +1,293 @@
+
+xingxing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiguang1_00000
+  rotate: false
+  xy: 312, 752
+  size: 196, 260
+  orig: 200, 260
+  offset: 2, 0
+  index: -1
+deng_00000
+  rotate: false
+  xy: 188, 585
+  size: 60, 427
+  orig: 60, 460
+  offset: 0, 15
+  index: -1
+deng_00001
+  rotate: false
+  xy: 188, 156
+  size: 60, 427
+  orig: 60, 460
+  offset: 0, 15
+  index: -1
+deng_00002
+  rotate: false
+  xy: 250, 585
+  size: 60, 427
+  orig: 60, 460
+  offset: 0, 15
+  index: -1
+deng_00003
+  rotate: false
+  xy: 2, 552
+  size: 60, 460
+  orig: 60, 460
+  offset: 0, 0
+  index: -1
+deng_00004
+  rotate: false
+  xy: 2, 90
+  size: 60, 460
+  orig: 60, 460
+  offset: 0, 0
+  index: -1
+deng_00005
+  rotate: false
+  xy: 64, 552
+  size: 60, 460
+  orig: 60, 460
+  offset: 0, 0
+  index: -1
+deng_00006
+  rotate: false
+  xy: 64, 90
+  size: 60, 460
+  orig: 60, 460
+  offset: 0, 0
+  index: -1
+deng_00007
+  rotate: false
+  xy: 126, 552
+  size: 60, 460
+  orig: 60, 460
+  offset: 0, 0
+  index: -1
+deng_00008
+  rotate: false
+  xy: 126, 90
+  size: 60, 460
+  orig: 60, 460
+  offset: 0, 0
+  index: -1
+deng_00009
+  rotate: false
+  xy: 250, 156
+  size: 60, 427
+  orig: 60, 460
+  offset: 0, 15
+  index: -1
+nei_00000
+  rotate: true
+  xy: 312, 153
+  size: 83, 222
+  orig: 90, 260
+  offset: 5, 2
+  index: -1
+nei_00001
+  rotate: true
+  xy: 462, 68
+  size: 83, 223
+  orig: 90, 260
+  offset: 4, 0
+  index: -1
+nei_00002
+  rotate: false
+  xy: 687, 34
+  size: 81, 222
+  orig: 90, 260
+  offset: 5, 0
+  index: -1
+nei_00003
+  rotate: false
+  xy: 851, 50
+  size: 80, 221
+  orig: 90, 260
+  offset: 5, 0
+  index: -1
+nei_00004
+  rotate: false
+  xy: 933, 59
+  size: 78, 220
+  orig: 90, 260
+  offset: 6, 0
+  index: -1
+nei_00005
+  rotate: false
+  xy: 770, 37
+  size: 79, 227
+  orig: 90, 260
+  offset: 5, 1
+  index: -1
+nei_00006
+  rotate: false
+  xy: 918, 281
+  size: 81, 229
+  orig: 90, 260
+  offset: 4, 2
+  index: -1
+nei_00007
+  rotate: false
+  xy: 940, 529
+  size: 82, 230
+  orig: 90, 260
+  offset: 3, 0
+  index: -1
+nei_00008
+  rotate: true
+  xy: 231, 66
+  size: 85, 229
+  orig: 90, 260
+  offset: 1, 0
+  index: -1
+nei_00009
+  rotate: true
+  xy: 2, 2
+  size: 86, 227
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00010
+  rotate: false
+  xy: 830, 273
+  size: 86, 235
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00011
+  rotate: false
+  xy: 742, 266
+  size: 86, 241
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00012
+  rotate: false
+  xy: 657, 509
+  size: 86, 246
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00013
+  rotate: false
+  xy: 745, 510
+  size: 85, 245
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00014
+  rotate: false
+  xy: 655, 258
+  size: 85, 245
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00015
+  rotate: false
+  xy: 854, 512
+  size: 84, 246
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00016
+  rotate: false
+  xy: 569, 250
+  size: 84, 247
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00017
+  rotate: false
+  xy: 484, 245
+  size: 83, 248
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00018
+  rotate: false
+  xy: 572, 505
+  size: 83, 250
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00019
+  rotate: false
+  xy: 854, 760
+  size: 84, 252
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00020
+  rotate: false
+  xy: 510, 757
+  size: 85, 255
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00021
+  rotate: false
+  xy: 312, 238
+  size: 85, 255
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00022
+  rotate: false
+  xy: 400, 495
+  size: 85, 255
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00023
+  rotate: false
+  xy: 597, 757
+  size: 85, 255
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00024
+  rotate: false
+  xy: 312, 495
+  size: 86, 255
+  orig: 90, 260
+  offset: 0, 0
+  index: -1
+nei_00025
+  rotate: false
+  xy: 399, 238
+  size: 83, 255
+  orig: 90, 260
+  offset: 4, 0
+  index: -1
+nei_00026
+  rotate: false
+  xy: 684, 757
+  size: 83, 255
+  orig: 90, 260
+  offset: 5, 0
+  index: -1
+nei_00027
+  rotate: false
+  xy: 769, 757
+  size: 83, 255
+  orig: 90, 260
+  offset: 5, 0
+  index: -1
+nei_00028
+  rotate: false
+  xy: 487, 499
+  size: 83, 251
+  orig: 90, 260
+  offset: 5, 0
+  index: -1
+nei_00029
+  rotate: false
+  xy: 940, 761
+  size: 82, 251
+  orig: 90, 260
+  offset: 6, 1
+  index: -1

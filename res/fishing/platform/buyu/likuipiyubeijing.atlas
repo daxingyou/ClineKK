@@ -1,0 +1,13 @@
+
+likuipiyubeijing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgdong
+  rotate: false
+  xy: 2, 2
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1

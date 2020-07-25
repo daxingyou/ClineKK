@@ -1,0 +1,62 @@
+
+tonghua.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian1
+  rotate: true
+  xy: 584, 78
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+bian2
+  rotate: true
+  xy: 651, 80
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 360, 5
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 456, 65
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 520, 65
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 204, 2
+  size: 154, 112
+  orig: 154, 112
+  offset: 0, 0
+  index: -1
+tonghua_00000
+  rotate: false
+  xy: 2, 14
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+tonghuazi
+  rotate: false
+  xy: 360, 63
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1

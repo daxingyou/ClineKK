@@ -1,0 +1,286 @@
+
+bairenpinshi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma1
+  rotate: true
+  xy: 939, 361
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+chouma2
+  rotate: false
+  xy: 541, 133
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 321
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+guang_00
+  rotate: false
+  xy: 631, 437
+  size: 182, 73
+  orig: 256, 256
+  offset: 39, 141
+  index: -1
+guang_15
+  rotate: false
+  xy: 631, 437
+  size: 182, 73
+  orig: 256, 256
+  offset: 39, 141
+  index: -1
+guang_01
+  rotate: false
+  xy: 540, 210
+  size: 181, 72
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_16
+  rotate: false
+  xy: 540, 210
+  size: 181, 72
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_02
+  rotate: false
+  xy: 723, 209
+  size: 181, 72
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_17
+  rotate: false
+  xy: 723, 209
+  size: 181, 72
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_03
+  rotate: false
+  xy: 815, 437
+  size: 182, 73
+  orig: 256, 256
+  offset: 38, 142
+  index: -1
+guang_18
+  rotate: false
+  xy: 815, 437
+  size: 182, 73
+  orig: 256, 256
+  offset: 38, 142
+  index: -1
+guang_04
+  rotate: true
+  xy: 279, 2
+  size: 181, 73
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_19
+  rotate: true
+  xy: 279, 2
+  size: 181, 73
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_05
+  rotate: false
+  xy: 387, 364
+  size: 182, 73
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_06
+  rotate: false
+  xy: 571, 361
+  size: 182, 74
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_21
+  rotate: false
+  xy: 571, 361
+  size: 182, 74
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_07
+  rotate: true
+  xy: 204, 137
+  size: 182, 73
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_08
+  rotate: false
+  xy: 655, 135
+  size: 181, 72
+  orig: 256, 256
+  offset: 40, 142
+  index: -1
+guang_23
+  rotate: false
+  xy: 655, 135
+  size: 181, 72
+  orig: 256, 256
+  offset: 40, 142
+  index: -1
+guang_09
+  rotate: false
+  xy: 538, 59
+  size: 181, 72
+  orig: 256, 256
+  offset: 40, 142
+  index: -1
+guang_24
+  rotate: false
+  xy: 538, 59
+  size: 181, 72
+  orig: 256, 256
+  offset: 40, 142
+  index: -1
+guang_10
+  rotate: false
+  xy: 357, 287
+  size: 181, 75
+  orig: 256, 256
+  offset: 40, 139
+  index: -1
+guang_11
+  rotate: true
+  xy: 279, 185
+  size: 181, 76
+  orig: 256, 256
+  offset: 39, 138
+  index: -1
+guang_26
+  rotate: true
+  xy: 279, 185
+  size: 181, 76
+  orig: 256, 256
+  offset: 39, 138
+  index: -1
+guang_12
+  rotate: false
+  xy: 357, 210
+  size: 181, 75
+  orig: 256, 256
+  offset: 39, 139
+  index: -1
+guang_27
+  rotate: false
+  xy: 357, 210
+  size: 181, 75
+  orig: 256, 256
+  offset: 39, 139
+  index: -1
+guang_13
+  rotate: false
+  xy: 540, 284
+  size: 181, 75
+  orig: 256, 256
+  offset: 39, 139
+  index: -1
+guang_28
+  rotate: false
+  xy: 540, 284
+  size: 181, 75
+  orig: 256, 256
+  offset: 39, 139
+  index: -1
+guang_14
+  rotate: false
+  xy: 755, 360
+  size: 182, 75
+  orig: 256, 256
+  offset: 39, 139
+  index: -1
+guang_29
+  rotate: false
+  xy: 755, 360
+  size: 182, 75
+  orig: 256, 256
+  offset: 39, 139
+  index: -1
+guang_20
+  rotate: false
+  xy: 357, 135
+  size: 182, 73
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_22
+  rotate: false
+  xy: 354, 60
+  size: 182, 73
+  orig: 256, 256
+  offset: 39, 142
+  index: -1
+guang_25
+  rotate: false
+  xy: 723, 283
+  size: 181, 75
+  orig: 256, 256
+  offset: 40, 139
+  index: -1
+niutou_00
+  rotate: false
+  xy: 2, 127
+  size: 200, 192
+  orig: 256, 256
+  offset: 28, 32
+  index: -1
+puke
+  rotate: false
+  xy: 208, 368
+  size: 177, 142
+  orig: 177, 142
+  offset: 0, 0
+  index: -1
+xiaojinbi
+  rotate: false
+  xy: 208, 340
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 838, 144
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+xxjinbi
+  rotate: false
+  xy: 906, 333
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+yanjing_00
+  rotate: false
+  xy: 2, 43
+  size: 179, 82
+  orig: 256, 256
+  offset: 39, 80
+  index: -1
+zi
+  rotate: false
+  xy: 387, 439
+  size: 242, 71
+  orig: 242, 71
+  offset: 0, 0
+  index: -1

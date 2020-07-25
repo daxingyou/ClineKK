@@ -1,0 +1,76 @@
+
+haiyangshenhua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bejing
+  rotate: false
+  xy: 2, 98
+  size: 308, 399
+  orig: 308, 399
+  offset: 0, 0
+  index: -1
+haiyangshenhua
+  rotate: false
+  xy: 2, 38
+  size: 259, 58
+  orig: 261, 60
+  offset: 1, 1
+  index: -1
+suolian
+  rotate: false
+  xy: 717, 2
+  size: 165, 160
+  orig: 167, 162
+  offset: 1, 1
+  index: -1
+suolianying
+  rotate: true
+  xy: 554, 147
+  size: 174, 161
+  orig: 176, 163
+  offset: 1, 1
+  index: -1
+yudi
+  rotate: false
+  xy: 312, 150
+  size: 240, 171
+  orig: 242, 173
+  offset: 1, 1
+  index: -1
+yue
+  rotate: true
+  xy: 723, 164
+  size: 161, 228
+  orig: 163, 230
+  offset: 1, 1
+  index: -1
+yueying
+  rotate: true
+  xy: 723, 327
+  size: 170, 237
+  orig: 172, 239
+  offset: 1, 1
+  index: -1
+yushou
+  rotate: false
+  xy: 312, 100
+  size: 32, 48
+  orig: 34, 50
+  offset: 1, 1
+  index: -1
+yushouying
+  rotate: false
+  xy: 962, 441
+  size: 40, 56
+  orig: 42, 58
+  offset: 1, 1
+  index: -1
+zidi
+  rotate: false
+  xy: 312, 323
+  size: 409, 174
+  orig: 411, 176
+  offset: 1, 1
+  index: -1

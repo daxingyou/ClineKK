@@ -1,0 +1,677 @@
+
+dezhoupukekaishi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card_burn_00002
+  rotate: false
+  xy: 2, 2
+  size: 91, 81
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00006
+  rotate: true
+  xy: 907, 471
+  size: 119, 109
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00008
+  rotate: true
+  xy: 766, 470
+  size: 120, 139
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00010
+  rotate: false
+  xy: 159, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00012
+  rotate: false
+  xy: 2, 389
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00014
+  rotate: false
+  xy: 281, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00016
+  rotate: false
+  xy: 2, 237
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00018
+  rotate: false
+  xy: 403, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00020
+  rotate: false
+  xy: 2, 85
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00022
+  rotate: false
+  xy: 525, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00024
+  rotate: false
+  xy: 647, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00026
+  rotate: false
+  xy: 769, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00028
+  rotate: false
+  xy: 891, 866
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00030
+  rotate: true
+  xy: 159, 744
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00032
+  rotate: true
+  xy: 311, 744
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00034
+  rotate: true
+  xy: 463, 744
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00036
+  rotate: true
+  xy: 615, 744
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00038
+  rotate: true
+  xy: 767, 744
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00040
+  rotate: false
+  xy: 158, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00042
+  rotate: false
+  xy: 280, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00044
+  rotate: false
+  xy: 402, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00046
+  rotate: false
+  xy: 524, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00048
+  rotate: false
+  xy: 646, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00050
+  rotate: false
+  xy: 768, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00052
+  rotate: true
+  xy: 158, 470
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00054
+  rotate: true
+  xy: 310, 470
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00056
+  rotate: true
+  xy: 462, 470
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00058
+  rotate: true
+  xy: 614, 470
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200008
+  rotate: true
+  xy: 732, 44
+  size: 120, 140
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200010
+  rotate: false
+  xy: 124, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200012
+  rotate: false
+  xy: 124, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200014
+  rotate: false
+  xy: 246, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200016
+  rotate: false
+  xy: 246, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200018
+  rotate: false
+  xy: 368, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200020
+  rotate: false
+  xy: 368, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200022
+  rotate: false
+  xy: 490, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200024
+  rotate: false
+  xy: 490, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200026
+  rotate: false
+  xy: 612, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200028
+  rotate: false
+  xy: 612, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200030
+  rotate: false
+  xy: 734, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200032
+  rotate: false
+  xy: 734, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200034
+  rotate: true
+  xy: 124, 44
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200036
+  rotate: true
+  xy: 276, 44
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200038
+  rotate: true
+  xy: 428, 44
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200040
+  rotate: true
+  xy: 580, 44
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200042
+  rotate: false
+  xy: 856, 318
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200044
+  rotate: false
+  xy: 856, 166
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200046
+  rotate: false
+  xy: 874, 14
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200048
+  rotate: false
+  xy: 890, 592
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+SS_00000
+  rotate: false
+  xy: 919, 754
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+card1
+  rotate: false
+  xy: 2, 780
+  size: 155, 236
+  orig: 157, 238
+  offset: 1, 1
+  index: -1
+card2
+  rotate: false
+  xy: 2, 541
+  size: 154, 237
+  orig: 156, 239
+  offset: 1, 1
+  index: -1
+
+dezhoupukekaishi2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card_burn_00000
+  rotate: true
+  xy: 710, 660
+  size: 80, 69
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_00004
+  rotate: false
+  xy: 122, 3
+  size: 99, 97
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200000
+  rotate: true
+  xy: 710, 578
+  size: 80, 69
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200002
+  rotate: false
+  xy: 336, 102
+  size: 91, 81
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200004
+  rotate: false
+  xy: 347, 185
+  size: 99, 97
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200006
+  rotate: false
+  xy: 608, 742
+  size: 119, 110
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200050
+  rotate: false
+  xy: 2, 834
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200052
+  rotate: false
+  xy: 2, 682
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200054
+  rotate: false
+  xy: 124, 834
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200056
+  rotate: false
+  xy: 2, 530
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+Card_burn_200058
+  rotate: false
+  xy: 124, 682
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+SS_00002
+  rotate: false
+  xy: 853, 874
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00004
+  rotate: false
+  xy: 608, 630
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00006
+  rotate: true
+  xy: 245, 414
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00008
+  rotate: true
+  xy: 376, 488
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00010
+  rotate: true
+  xy: 488, 496
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00012
+  rotate: true
+  xy: 357, 386
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00014
+  rotate: false
+  xy: 608, 518
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00016
+  rotate: true
+  xy: 124, 316
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00018
+  rotate: true
+  xy: 236, 312
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00020
+  rotate: true
+  xy: 348, 284
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00022
+  rotate: true
+  xy: 123, 214
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00024
+  rotate: false
+  xy: 122, 102
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00026
+  rotate: true
+  xy: 235, 210
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SS_00028
+  rotate: true
+  xy: 224, 108
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+VV_00000
+  rotate: false
+  xy: 246, 722
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+VV_00002
+  rotate: false
+  xy: 246, 854
+  size: 120, 130
+  orig: 120, 130
+  offset: 0, 0
+  index: -1
+VV_00004
+  rotate: false
+  xy: 2, 398
+  size: 120, 130
+  orig: 120, 130
+  offset: 0, 0
+  index: -1
+VV_00006
+  rotate: false
+  xy: 2, 134
+  size: 118, 130
+  orig: 120, 130
+  offset: 2, 0
+  index: -1
+VV_00008
+  rotate: false
+  xy: 367, 590
+  size: 118, 130
+  orig: 120, 130
+  offset: 2, 0
+  index: -1
+VV_00010
+  rotate: false
+  xy: 488, 722
+  size: 118, 130
+  orig: 120, 130
+  offset: 2, 0
+  index: -1
+VV_00012
+  rotate: false
+  xy: 610, 854
+  size: 118, 130
+  orig: 120, 130
+  offset: 2, 0
+  index: -1
+VV_00014
+  rotate: false
+  xy: 368, 854
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+VV_00016
+  rotate: false
+  xy: 2, 266
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+VV_00018
+  rotate: false
+  xy: 124, 418
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+VV_00020
+  rotate: false
+  xy: 2, 2
+  size: 118, 130
+  orig: 120, 130
+  offset: 2, 0
+  index: -1
+VV_00022
+  rotate: false
+  xy: 246, 590
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+VV_00024
+  rotate: false
+  xy: 124, 550
+  size: 120, 130
+  orig: 120, 130
+  offset: 0, 0
+  index: -1
+VV_00026
+  rotate: false
+  xy: 367, 722
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+VV_00028
+  rotate: false
+  xy: 489, 854
+  size: 119, 130
+  orig: 120, 130
+  offset: 1, 0
+  index: -1
+baodian_00000
+  rotate: false
+  xy: 487, 598
+  size: 119, 122
+  orig: 128, 128
+  offset: 5, 1
+  index: -1
+fx_nova_00000
+  rotate: false
+  xy: 730, 863
+  size: 121, 121
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+h_00005
+  rotate: false
+  xy: 246, 516
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1

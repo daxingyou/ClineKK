@@ -1,0 +1,97 @@
+
+longhudou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diquan
+  rotate: true
+  xy: 523, 50
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+diquan+
+  rotate: true
+  xy: 190, 22
+  size: 232, 71
+  orig: 232, 71
+  offset: 0, 0
+  index: -1
+guang_00
+  rotate: false
+  xy: 2, 12
+  size: 186, 242
+  orig: 200, 300
+  offset: 7, 29
+  index: -1
+hu
+  rotate: true
+  xy: 768, 3
+  size: 88, 160
+  orig: 90, 162
+  offset: 1, 1
+  index: -1
+huhuo
+  rotate: false
+  xy: 605, 4
+  size: 77, 44
+  orig: 79, 46
+  offset: 1, 1
+  index: -1
+jj
+  rotate: true
+  xy: 714, 29
+  size: 56, 52
+  orig: 58, 54
+  offset: 1, 1
+  index: -1
+longhuo
+  rotate: false
+  xy: 523, 2
+  size: 80, 46
+  orig: 82, 48
+  offset: 1, 1
+  index: -1
+longtou
+  rotate: true
+  xy: 856, 123
+  size: 131, 116
+  orig: 133, 118
+  offset: 1, 1
+  index: -1
+longwei
+  rotate: false
+  xy: 765, 93
+  size: 89, 161
+  orig: 91, 163
+  offset: 1, 1
+  index: -1
+qq
+  rotate: false
+  xy: 974, 204
+  size: 47, 50
+  orig: 49, 52
+  offset: 1, 1
+  index: -1
+wenzi
+  rotate: true
+  xy: 714, 87
+  size: 167, 49
+  orig: 167, 49
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 367, 36
+  size: 218, 154
+  orig: 220, 156
+  offset: 1, 1
+  index: -1
+zuo
+  rotate: true
+  xy: 263, 28
+  size: 226, 102
+  orig: 228, 104
+  offset: 1, 1
+  index: -1

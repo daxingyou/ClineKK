@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>1</key>
+			<array>	
+				<string>{ 46.00000,-13.50000 }</string>	
+				<string>{ 13.00000,-14.50000 }</string>	
+				<string>{ -17.00000,2.50000 }</string>	
+				<string>{ -12.00000,13.50000 }</string>	
+				<string>{ 27.00000,25.50000 }</string>	
+				<string>{ 60.00000,6.50000 }</string>
+			</array>
+	</dict>
+</plist>
+
+
+
+

@@ -1,0 +1,160 @@
+
+ganggaotexiao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_00
+  rotate: true
+  xy: 793, 289
+  size: 698, 84
+  orig: 710, 85
+  offset: 9, 0
+  index: -1
+a_02
+  rotate: true
+  xy: 708, 290
+  size: 697, 83
+  orig: 710, 85
+  offset: 10, 0
+  index: -1
+a_04
+  rotate: true
+  xy: 879, 286
+  size: 701, 81
+  orig: 710, 85
+  offset: 8, 0
+  index: -1
+a_06
+  rotate: false
+  xy: 2, 2
+  size: 702, 81
+  orig: 710, 85
+  offset: 8, 0
+  index: -1
+a_08
+  rotate: false
+  xy: 2, 85
+  size: 703, 80
+  orig: 710, 85
+  offset: 7, 0
+  index: -1
+a_10
+  rotate: false
+  xy: 2, 237
+  size: 704, 79
+  orig: 710, 85
+  offset: 6, 0
+  index: -1
+a_12
+  rotate: false
+  xy: 2, 167
+  size: 710, 68
+  orig: 710, 85
+  offset: 0, 9
+  index: -1
+a_14
+  rotate: true
+  xy: 962, 281
+  size: 706, 60
+  orig: 710, 85
+  offset: 4, 15
+  index: -1
+a_16
+  rotate: false
+  xy: 2, 318
+  size: 704, 56
+  orig: 710, 85
+  offset: 6, 17
+  index: -1
+a_18
+  rotate: false
+  xy: 2, 376
+  size: 704, 49
+  orig: 710, 85
+  offset: 6, 22
+  index: -1
+a_20
+  rotate: false
+  xy: 2, 943
+  size: 703, 44
+  orig: 710, 85
+  offset: 7, 23
+  index: -1
+a_22
+  rotate: false
+  xy: 2, 523
+  size: 704, 46
+  orig: 710, 85
+  offset: 6, 22
+  index: -1
+a_24
+  rotate: false
+  xy: 2, 897
+  size: 703, 44
+  orig: 710, 85
+  offset: 7, 23
+  index: -1
+a_26
+  rotate: false
+  xy: 2, 851
+  size: 703, 44
+  orig: 710, 85
+  offset: 7, 23
+  index: -1
+a_28
+  rotate: false
+  xy: 2, 475
+  size: 704, 46
+  orig: 710, 85
+  offset: 6, 22
+  index: -1
+a_30
+  rotate: false
+  xy: 2, 427
+  size: 704, 46
+  orig: 710, 85
+  offset: 6, 22
+  index: -1
+a_32
+  rotate: false
+  xy: 2, 712
+  size: 702, 45
+  orig: 710, 85
+  offset: 7, 23
+  index: -1
+a_34
+  rotate: false
+  xy: 2, 665
+  size: 703, 45
+  orig: 710, 85
+  offset: 6, 22
+  index: -1
+a_36
+  rotate: false
+  xy: 2, 618
+  size: 704, 45
+  orig: 710, 85
+  offset: 6, 23
+  index: -1
+a_38
+  rotate: false
+  xy: 2, 571
+  size: 703, 45
+  orig: 710, 85
+  offset: 7, 22
+  index: -1
+a_40
+  rotate: false
+  xy: 2, 805
+  size: 702, 44
+  orig: 710, 85
+  offset: 7, 23
+  index: -1
+a_42
+  rotate: false
+  xy: 2, 759
+  size: 702, 44
+  orig: 710, 85
+  offset: 7, 23
+  index: -1

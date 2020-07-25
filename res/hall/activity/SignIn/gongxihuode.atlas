@@ -1,0 +1,286 @@
+
+gongxihuode.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 510, 588
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 562, 835
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 630, 841
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 510, 521
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 874
+  size: 436, 126
+  orig: 436, 126
+  offset: 0, 0
+  index: -1
+guangdai1_00000
+  rotate: false
+  xy: 101, 728
+  size: 256, 144
+  orig: 256, 144
+  offset: 0, 0
+  index: -1
+guangxiao_00000
+  rotate: true
+  xy: 2, 273
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00002
+  rotate: false
+  xy: 101, 636
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00004
+  rotate: false
+  xy: 602, 910
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00006
+  rotate: true
+  xy: 2, 139
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00008
+  rotate: false
+  xy: 101, 544
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00010
+  rotate: true
+  xy: 235, 594
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00012
+  rotate: false
+  xy: 736, 910
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00014
+  rotate: true
+  xy: 2, 5
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00016
+  rotate: false
+  xy: 101, 452
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00018
+  rotate: true
+  xy: 235, 460
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00020
+  rotate: false
+  xy: 870, 910
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00022
+  rotate: false
+  xy: 101, 360
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00024
+  rotate: false
+  xy: 94, 268
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00026
+  rotate: false
+  xy: 94, 176
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+guangxiao_00028
+  rotate: false
+  xy: 94, 84
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+huang_00018
+  rotate: false
+  xy: 440, 904
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+jinbifei
+  rotate: false
+  xy: 94, 2
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 359, 736
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+lizi_00000
+  rotate: true
+  xy: 235, 338
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00002
+  rotate: true
+  xy: 228, 216
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00004
+  rotate: true
+  xy: 228, 94
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00006
+  rotate: true
+  xy: 327, 606
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00008
+  rotate: true
+  xy: 327, 484
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00010
+  rotate: true
+  xy: 388, 614
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00012
+  rotate: true
+  xy: 388, 492
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00014
+  rotate: true
+  xy: 296, 338
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00016
+  rotate: true
+  xy: 289, 216
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00018
+  rotate: true
+  xy: 289, 94
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00020
+  rotate: false
+  xy: 440, 843
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00022
+  rotate: false
+  xy: 438, 782
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00024
+  rotate: true
+  xy: 449, 660
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00026
+  rotate: true
+  xy: 449, 538
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+lizi_00028
+  rotate: true
+  xy: 510, 660
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+tiaofu
+  rotate: true
+  xy: 2, 407
+  size: 465, 97
+  orig: 465, 97
+  offset: 0, 0
+  index: -1

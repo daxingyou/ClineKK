@@ -1,0 +1,223 @@
+
+mianfeitexiao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgg_00
+  rotate: false
+  xy: 2, 965
+  size: 780, 26
+  orig: 780, 40
+  offset: 0, 0
+  index: -1
+lizi_00
+  rotate: false
+  xy: 406, 853
+  size: 199, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_01
+  rotate: false
+  xy: 2, 853
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_02
+  rotate: false
+  xy: 2, 517
+  size: 199, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_03
+  rotate: true
+  xy: 113, 316
+  size: 199, 108
+  orig: 200, 110
+  offset: 1, 2
+  index: -1
+lizi_04
+  rotate: false
+  xy: 204, 629
+  size: 199, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_05
+  rotate: false
+  xy: 406, 741
+  size: 199, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_06
+  rotate: true
+  xy: 225, 119
+  size: 197, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_07
+  rotate: true
+  xy: 719, 766
+  size: 197, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_08
+  rotate: true
+  xy: 607, 764
+  size: 199, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_09
+  rotate: true
+  xy: 2, 315
+  size: 200, 109
+  orig: 200, 110
+  offset: 0, 1
+  index: -1
+lizi_10
+  rotate: false
+  xy: 203, 518
+  size: 200, 109
+  orig: 200, 110
+  offset: 0, 1
+  index: -1
+lizi_11
+  rotate: false
+  xy: 2, 741
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_12
+  rotate: false
+  xy: 204, 853
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_13
+  rotate: false
+  xy: 2, 629
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_14
+  rotate: true
+  xy: 831, 794
+  size: 197, 110
+  orig: 200, 110
+  offset: 3, 0
+  index: -1
+lizi_15
+  rotate: true
+  xy: 223, 318
+  size: 198, 110
+  orig: 200, 110
+  offset: 2, 0
+  index: -1
+lizi_16
+  rotate: true
+  xy: 113, 116
+  size: 198, 110
+  orig: 200, 110
+  offset: 2, 0
+  index: -1
+lizi_17
+  rotate: true
+  xy: 447, 319
+  size: 196, 110
+  orig: 200, 110
+  offset: 2, 0
+  index: -1
+lizi_18
+  rotate: false
+  xy: 2, 2
+  size: 192, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_19
+  rotate: true
+  xy: 671, 350
+  size: 193, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_20
+  rotate: true
+  xy: 561, 124
+  size: 194, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_21
+  rotate: true
+  xy: 606, 545
+  size: 194, 110
+  orig: 200, 110
+  offset: 1, 0
+  index: -1
+lizi_22
+  rotate: true
+  xy: 559, 320
+  size: 195, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_23
+  rotate: true
+  xy: 337, 120
+  size: 196, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_24
+  rotate: true
+  xy: 449, 121
+  size: 196, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_25
+  rotate: true
+  xy: 335, 318
+  size: 197, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_26
+  rotate: false
+  xy: 204, 741
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_27
+  rotate: true
+  xy: 2, 114
+  size: 199, 109
+  orig: 200, 110
+  offset: 0, 1
+  index: -1
+lizi_28
+  rotate: false
+  xy: 405, 629
+  size: 199, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+lizi_29
+  rotate: false
+  xy: 405, 517
+  size: 199, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1

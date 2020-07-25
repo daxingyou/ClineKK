@@ -1,0 +1,132 @@
+
+ying.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choudai1
+  rotate: false
+  xy: 1311, 164
+  size: 233, 77
+  orig: 233, 77
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 54
+  size: 199, 187
+  orig: 199, 187
+  offset: 0, 0
+  index: -1
+kuo_00000
+  rotate: true
+  xy: 2, 2
+  size: 50, 67
+  orig: 200, 200
+  offset: 76, 56
+  index: -1
+kuo_00002
+  rotate: false
+  xy: 1965, 73
+  size: 65, 87
+  orig: 200, 200
+  offset: 68, 48
+  index: -1
+kuo_00004
+  rotate: true
+  xy: 1937, 162
+  size: 79, 104
+  orig: 200, 200
+  offset: 61, 40
+  index: -1
+kuo_00006
+  rotate: false
+  xy: 1868, 30
+  size: 95, 120
+  orig: 200, 200
+  offset: 54, 33
+  index: -1
+kuo_00008
+  rotate: false
+  xy: 1758, 17
+  size: 108, 133
+  orig: 200, 200
+  offset: 49, 28
+  index: -1
+kuo_00010
+  rotate: false
+  xy: 1633, 10
+  size: 123, 147
+  orig: 200, 200
+  offset: 42, 20
+  index: -1
+kuo_00012
+  rotate: true
+  xy: 1311, 24
+  size: 138, 161
+  orig: 200, 200
+  offset: 35, 12
+  index: -1
+kuo_00014
+  rotate: true
+  xy: 962, 90
+  size: 151, 173
+  orig: 200, 200
+  offset: 28, 6
+  index: -1
+kuo_00016
+  rotate: true
+  xy: 1137, 101
+  size: 140, 172
+  orig: 200, 200
+  offset: 32, 11
+  index: -1
+kuo_00018
+  rotate: true
+  xy: 780, 92
+  size: 149, 180
+  orig: 200, 200
+  offset: 29, 7
+  index: -1
+kuo_00020
+  rotate: true
+  xy: 592, 94
+  size: 147, 186
+  orig: 200, 200
+  offset: 26, 5
+  index: -1
+kuo_00022
+  rotate: true
+  xy: 399, 89
+  size: 152, 191
+  orig: 200, 200
+  offset: 24, 3
+  index: -1
+kuo_00024
+  rotate: true
+  xy: 203, 85
+  size: 156, 194
+  orig: 200, 200
+  offset: 22, 1
+  index: -1
+kuo_00026
+  rotate: false
+  xy: 1474, 6
+  size: 157, 151
+  orig: 200, 200
+  offset: 23, 12
+  index: -1
+woyingle
+  rotate: false
+  xy: 1762, 152
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1546, 159
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1

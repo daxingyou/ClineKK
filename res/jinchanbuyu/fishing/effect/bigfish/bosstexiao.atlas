@@ -1,0 +1,258 @@
+
+bosstexiao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 455, 113
+  size: 164, 164
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+1
+  rotate: false
+  xy: 1526, 454
+  size: 164, 164
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 1692, 456
+  size: 165, 164
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+11
+  rotate: false
+  xy: 1858, 639
+  size: 165, 165
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 491, 368
+  size: 166, 165
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 621, 200
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 621, 34
+  size: 166, 164
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+15
+  rotate: true
+  xy: 789, 200
+  size: 166, 165
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 691, 597
+  size: 166, 165
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 858, 618
+  size: 165, 166
+  orig: 166, 166
+  offset: 1, 0
+  index: -1
+18
+  rotate: true
+  xy: 1025, 618
+  size: 166, 165
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+19
+  rotate: true
+  xy: 1527, 620
+  size: 166, 163
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 659, 368
+  size: 165, 165
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+20
+  rotate: false
+  xy: 1192, 620
+  size: 166, 165
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 789, 34
+  size: 165, 164
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+4
+  rotate: false
+  xy: 1360, 620
+  size: 165, 165
+  orig: 166, 166
+  offset: 1, 0
+  index: -1
+5
+  rotate: false
+  xy: 1692, 623
+  size: 164, 165
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 287, 113
+  size: 166, 164
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+7
+  rotate: true
+  xy: 858, 452
+  size: 164, 165
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 1025, 452
+  size: 165, 164
+  orig: 166, 166
+  offset: 0, 1
+  index: -1
+9
+  rotate: false
+  xy: 1359, 454
+  size: 165, 164
+  orig: 166, 166
+  offset: 1, 1
+  index: -1
+b1_00
+  rotate: false
+  xy: 2, 224
+  size: 283, 283
+  orig: 325, 325
+  offset: 21, 21
+  index: -1
+b2_00
+  rotate: false
+  xy: 2, 509
+  size: 487, 476
+  orig: 490, 486
+  offset: 0, 5
+  index: -1
+choudai
+  rotate: true
+  xy: 226, 36
+  size: 186, 58
+  orig: 186, 58
+  offset: 0, 0
+  index: -1
+jinchan_00
+  rotate: false
+  xy: 1630, 790
+  size: 225, 195
+  orig: 243, 243
+  offset: 9, 24
+  index: -1
+jinchan_01
+  rotate: true
+  xy: 287, 279
+  size: 228, 200
+  orig: 243, 243
+  offset: 8, 21
+  index: -1
+jinchan_02
+  rotate: true
+  xy: 491, 535
+  size: 228, 198
+  orig: 243, 243
+  offset: 8, 21
+  index: -1
+jinchan_03
+  rotate: false
+  xy: 1401, 788
+  size: 227, 197
+  orig: 243, 243
+  offset: 9, 21
+  index: -1
+jinchan_04
+  rotate: false
+  xy: 944, 786
+  size: 226, 199
+  orig: 243, 243
+  offset: 9, 21
+  index: -1
+jinchan_05
+  rotate: false
+  xy: 1172, 787
+  size: 227, 198
+  orig: 243, 243
+  offset: 9, 21
+  index: -1
+jinchan_06
+  rotate: false
+  xy: 715, 786
+  size: 227, 199
+  orig: 243, 243
+  offset: 9, 21
+  index: -1
+lunpan
+  rotate: false
+  xy: 1857, 806
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+lunpan8_00
+  rotate: false
+  xy: 1192, 453
+  size: 165, 165
+  orig: 179, 179
+  offset: 7, 7
+  index: -1
+quan1_00
+  rotate: false
+  xy: 491, 765
+  size: 222, 220
+  orig: 228, 226
+  offset: 3, 3
+  index: -1
+quan4_00
+  rotate: false
+  xy: 2, 2
+  size: 222, 220
+  orig: 228, 226
+  offset: 3, 3
+  index: -1
+xx
+  rotate: false
+  xy: 1858, 549
+  size: 93, 88
+  orig: 100, 95
+  offset: 3, 3
+  index: -1

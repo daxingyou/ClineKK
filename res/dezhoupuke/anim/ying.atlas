@@ -1,0 +1,181 @@
+
+ying.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingtx_00001
+  rotate: false
+  xy: 504, 3
+  size: 89, 116
+  orig: 130, 150
+  offset: 19, 17
+  index: -1
+yingtx_00003
+  rotate: true
+  xy: 534, 127
+  size: 93, 114
+  orig: 130, 150
+  offset: 17, 18
+  index: -1
+yingtx_00005
+  rotate: true
+  xy: 793, 151
+  size: 97, 117
+  orig: 130, 150
+  offset: 15, 16
+  index: -1
+yingtx_00007
+  rotate: false
+  xy: 699, 8
+  size: 99, 119
+  orig: 130, 150
+  offset: 14, 15
+  index: -1
+yingtx_00009
+  rotate: false
+  xy: 595, 2
+  size: 102, 123
+  orig: 130, 150
+  offset: 13, 13
+  index: -1
+yingtx_00011
+  rotate: true
+  xy: 376, 14
+  size: 105, 126
+  orig: 130, 150
+  offset: 12, 11
+  index: -1
+yingtx_00013
+  rotate: false
+  xy: 540, 222
+  size: 108, 128
+  orig: 130, 150
+  offset: 11, 10
+  index: -1
+yingtx_00015
+  rotate: true
+  xy: 401, 121
+  size: 111, 131
+  orig: 130, 150
+  offset: 10, 8
+  index: -1
+yingtx_00017
+  rotate: true
+  xy: 650, 129
+  size: 114, 135
+  orig: 130, 150
+  offset: 9, 6
+  index: -1
+yingtx_00019
+  rotate: true
+  xy: 401, 234
+  size: 116, 137
+  orig: 130, 150
+  offset: 8, 5
+  index: -1
+yingtx_00021
+  rotate: false
+  xy: 254, 63
+  size: 120, 139
+  orig: 130, 150
+  offset: 6, 4
+  index: -1
+yingtx_00023
+  rotate: true
+  xy: 796, 372
+  size: 123, 141
+  orig: 130, 150
+  offset: 4, 2
+  index: -1
+yingtx_00025
+  rotate: false
+  xy: 2, 57
+  size: 125, 144
+  orig: 130, 150
+  offset: 3, 1
+  index: -1
+yingtx_00027
+  rotate: false
+  xy: 2, 350
+  size: 127, 145
+  orig: 130, 150
+  offset: 2, 0
+  index: -1
+yingtx_00029
+  rotate: false
+  xy: 260, 352
+  size: 128, 143
+  orig: 130, 150
+  offset: 1, 2
+  index: -1
+yingtx_00031
+  rotate: true
+  xy: 796, 250
+  size: 120, 139
+  orig: 130, 150
+  offset: 6, 4
+  index: -1
+yingtx_00033
+  rotate: true
+  xy: 650, 245
+  size: 123, 141
+  orig: 130, 150
+  offset: 4, 2
+  index: -1
+yingtx_00035
+  rotate: false
+  xy: 131, 204
+  size: 125, 144
+  orig: 130, 150
+  offset: 3, 1
+  index: -1
+yingtx_00037
+  rotate: false
+  xy: 2, 203
+  size: 127, 145
+  orig: 130, 150
+  offset: 2, 0
+  index: -1
+yingtx_00039
+  rotate: false
+  xy: 390, 352
+  size: 128, 143
+  orig: 130, 150
+  offset: 1, 2
+  index: -1
+yingtx_00041
+  rotate: true
+  xy: 260, 230
+  size: 120, 139
+  orig: 130, 150
+  offset: 6, 4
+  index: -1
+yingtx_00043
+  rotate: false
+  xy: 129, 60
+  size: 123, 141
+  orig: 130, 150
+  offset: 4, 2
+  index: -1
+yingtx_00045
+  rotate: true
+  xy: 650, 370
+  size: 125, 144
+  orig: 130, 150
+  offset: 3, 1
+  index: -1
+yingtx_00047
+  rotate: false
+  xy: 131, 350
+  size: 127, 145
+  orig: 130, 150
+  offset: 2, 0
+  index: -1
+yingtx_00049
+  rotate: false
+  xy: 520, 352
+  size: 128, 143
+  orig: 130, 150
+  offset: 1, 2
+  index: -1

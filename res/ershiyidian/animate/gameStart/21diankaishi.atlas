@@ -1,0 +1,174 @@
+
+21diankaishi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 440, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 2, 367
+  size: 310, 139
+  orig: 310, 139
+  offset: 0, 0
+  index: -1
+beiban
+  rotate: false
+  xy: 2, 115
+  size: 197, 105
+  orig: 197, 105
+  offset: 0, 0
+  index: -1
+bu1
+  rotate: false
+  xy: 314, 367
+  size: 177, 139
+  orig: 177, 139
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: true
+  xy: 2, 2
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+bu3
+  rotate: true
+  xy: 89, 2
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+chouma
+  rotate: true
+  xy: 440, 35
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+kaishi2_00001
+  rotate: false
+  xy: 2, 43
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00002
+  rotate: false
+  xy: 665, 436
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00003
+  rotate: false
+  xy: 832, 436
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00004
+  rotate: false
+  xy: 254, 213
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00005
+  rotate: false
+  xy: 493, 342
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00006
+  rotate: false
+  xy: 468, 270
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00007
+  rotate: false
+  xy: 665, 364
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00008
+  rotate: false
+  xy: 832, 364
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00009
+  rotate: false
+  xy: 201, 141
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00010
+  rotate: false
+  xy: 201, 69
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00011
+  rotate: true
+  xy: 368, 46
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00012
+  rotate: false
+  xy: 660, 292
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+kaishi2_00013
+  rotate: false
+  xy: 827, 292
+  size: 165, 70
+  orig: 165, 70
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 570, 124
+  size: 144, 50
+  orig: 144, 50
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 254, 285
+  size: 212, 80
+  orig: 212, 80
+  offset: 0, 0
+  index: -1
+wing3
+  rotate: false
+  xy: 2, 222
+  size: 250, 143
+  orig: 250, 143
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 493, 414
+  size: 170, 92
+  orig: 170, 92
+  offset: 0, 0
+  index: -1

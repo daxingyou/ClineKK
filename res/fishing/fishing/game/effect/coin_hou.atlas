@@ -1,0 +1,20 @@
+
+coin_hou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c
+  rotate: false
+  xy: 81, 24
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 2
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1

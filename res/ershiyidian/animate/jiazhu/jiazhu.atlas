@@ -1,0 +1,118 @@
+
+jiazhu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma_00000
+  rotate: false
+  xy: 146, 149
+  size: 141, 96
+  orig: 160, 360
+  offset: 9, 252
+  index: -1
+chouma_00001
+  rotate: false
+  xy: 2, 41
+  size: 142, 100
+  orig: 160, 360
+  offset: 9, 154
+  index: -1
+chouma_00002
+  rotate: false
+  xy: 2, 143
+  size: 142, 102
+  orig: 160, 360
+  offset: 9, 57
+  index: -1
+chouma_00003
+  rotate: false
+  xy: 146, 51
+  size: 141, 96
+  orig: 160, 360
+  offset: 9, 21
+  index: -1
+chouma_00004
+  rotate: false
+  xy: 866, 9
+  size: 139, 76
+  orig: 160, 360
+  offset: 10, 51
+  index: -1
+chouma_00005
+  rotate: false
+  xy: 722, 2
+  size: 141, 73
+  orig: 160, 360
+  offset: 10, 46
+  index: -1
+chouma_00006
+  rotate: false
+  xy: 289, 151
+  size: 143, 94
+  orig: 160, 360
+  offset: 10, 14
+  index: -1
+chouma_00007
+  rotate: false
+  xy: 434, 57
+  size: 142, 93
+  orig: 160, 360
+  offset: 9, 16
+  index: -1
+chouma_00008
+  rotate: false
+  xy: 722, 77
+  size: 142, 76
+  orig: 160, 360
+  offset: 9, 36
+  index: -1
+chouma_00009
+  rotate: false
+  xy: 866, 87
+  size: 142, 74
+  orig: 160, 360
+  offset: 9, 36
+  index: -1
+chouma_00010
+  rotate: false
+  xy: 722, 155
+  size: 142, 90
+  orig: 160, 360
+  offset: 10, 16
+  index: -1
+chouma_00011
+  rotate: false
+  xy: 289, 55
+  size: 143, 94
+  orig: 160, 360
+  offset: 9, 12
+  index: -1
+chouma_00012
+  rotate: false
+  xy: 866, 163
+  size: 143, 82
+  orig: 160, 360
+  offset: 9, 22
+  index: -1
+chouma_00013
+  rotate: false
+  xy: 578, 66
+  size: 142, 83
+  orig: 160, 360
+  offset: 9, 20
+  index: -1
+chouma_00014
+  rotate: false
+  xy: 434, 152
+  size: 143, 93
+  orig: 160, 360
+  offset: 10, 11
+  index: -1
+chouma_00015
+  rotate: false
+  xy: 579, 151
+  size: 141, 94
+  orig: 160, 360
+  offset: 10, 8
+  index: -1

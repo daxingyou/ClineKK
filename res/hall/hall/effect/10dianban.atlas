@@ -1,0 +1,286 @@
+
+10dianban.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: false
+  xy: 160, 39
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+A2
+  rotate: true
+  xy: 799, 260
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+didi
+  rotate: false
+  xy: 2, 840
+  size: 194, 180
+  orig: 194, 180
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 162, 142
+  size: 158, 145
+  orig: 158, 145
+  offset: 0, 0
+  index: -1
+jin1
+  rotate: false
+  xy: 231, 483
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+jin2
+  rotate: false
+  xy: 319, 675
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+jin3
+  rotate: false
+  xy: 2, 2
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 2, 675
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1
+saoguang_00
+  rotate: false
+  xy: 162, 289
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_01
+  rotate: false
+  xy: 843, 544
+  size: 153, 159
+  orig: 179, 179
+  offset: 6, 17
+  index: -1
+saoguang_02
+  rotate: false
+  xy: 384, 372
+  size: 156, 156
+  orig: 179, 179
+  offset: 3, 17
+  index: -1
+saoguang_03
+  rotate: false
+  xy: 483, 214
+  size: 157, 156
+  orig: 179, 179
+  offset: 2, 17
+  index: -1
+saoguang_04
+  rotate: false
+  xy: 322, 56
+  size: 158, 156
+  orig: 179, 179
+  offset: 1, 17
+  index: -1
+saoguang_05
+  rotate: false
+  xy: 482, 56
+  size: 158, 156
+  orig: 179, 179
+  offset: 1, 17
+  index: -1
+saoguang_06
+  rotate: true
+  xy: 2, 29
+  size: 159, 156
+  orig: 179, 179
+  offset: 0, 17
+  index: -1
+saoguang_07
+  rotate: true
+  xy: 542, 375
+  size: 159, 155
+  orig: 179, 179
+  offset: 0, 17
+  index: -1
+saoguang_08
+  rotate: false
+  xy: 2, 190
+  size: 158, 158
+  orig: 179, 179
+  offset: 1, 14
+  index: -1
+saoguang_09
+  rotate: false
+  xy: 198, 858
+  size: 158, 162
+  orig: 179, 179
+  offset: 1, 10
+  index: -1
+saoguang_10
+  rotate: true
+  xy: 358, 864
+  size: 156, 163
+  orig: 179, 179
+  offset: 3, 9
+  index: -1
+saoguang_11
+  rotate: true
+  xy: 687, 868
+  size: 152, 164
+  orig: 179, 179
+  offset: 7, 8
+  index: -1
+saoguang_12
+  rotate: true
+  xy: 853, 869
+  size: 151, 164
+  orig: 179, 179
+  offset: 8, 8
+  index: -1
+saoguang_13
+  rotate: false
+  xy: 231, 509
+  size: 151, 164
+  orig: 179, 179
+  offset: 8, 8
+  index: -1
+saoguang_14
+  rotate: false
+  xy: 166, 675
+  size: 151, 163
+  orig: 179, 179
+  offset: 8, 9
+  index: -1
+saoguang_15
+  rotate: false
+  xy: 319, 694
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 10
+  index: -1
+saoguang_16
+  rotate: false
+  xy: 778, 705
+  size: 153, 161
+  orig: 179, 179
+  offset: 8, 11
+  index: -1
+saoguang_17
+  rotate: true
+  xy: 642, 56
+  size: 157, 155
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_18
+  rotate: true
+  xy: 642, 215
+  size: 158, 155
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_19
+  rotate: true
+  xy: 699, 376
+  size: 159, 156
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_20
+  rotate: true
+  xy: 857, 383
+  size: 159, 156
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_21
+  rotate: false
+  xy: 322, 214
+  size: 159, 156
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_22
+  rotate: false
+  xy: 2, 350
+  size: 158, 159
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_23
+  rotate: false
+  xy: 2, 511
+  size: 158, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_24
+  rotate: true
+  xy: 523, 865
+  size: 155, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_25
+  rotate: false
+  xy: 384, 530
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_26
+  rotate: false
+  xy: 472, 700
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_27
+  rotate: false
+  xy: 537, 536
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_28
+  rotate: false
+  xy: 625, 701
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+saoguang_29
+  rotate: false
+  xy: 690, 537
+  size: 151, 162
+  orig: 179, 179
+  offset: 8, 17
+  index: -1
+xx1
+  rotate: false
+  xy: 799, 198
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+zz
+  rotate: true
+  xy: 162, 453
+  size: 220, 67
+  orig: 220, 67
+  offset: 0, 0
+  index: -1

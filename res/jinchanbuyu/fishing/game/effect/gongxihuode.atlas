@@ -1,0 +1,278 @@
+
+gongxihuode.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beigg_00010
+  rotate: false
+  xy: 506, 86
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00011
+  rotate: false
+  xy: 758, 590
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00012
+  rotate: false
+  xy: 758, 408
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00013
+  rotate: false
+  xy: 758, 226
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00014
+  rotate: false
+  xy: 688, 44
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+hy_00005
+  rotate: false
+  xy: 844, 869
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 870, 54
+  size: 170, 96
+  orig: 170, 96
+  offset: 0, 0
+  index: -1
+shang
+  rotate: false
+  xy: 2, 772
+  size: 840, 247
+  orig: 840, 247
+  offset: 0, 0
+  index: -1
+xing_00002
+  rotate: false
+  xy: 2, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00004
+  rotate: false
+  xy: 2, 268
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00006
+  rotate: false
+  xy: 254, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00008
+  rotate: false
+  xy: 2, 16
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00010
+  rotate: false
+  xy: 254, 268
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00012
+  rotate: false
+  xy: 506, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00014
+  rotate: false
+  xy: 254, 16
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xing_00016
+  rotate: false
+  xy: 506, 268
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+zi_00001
+  rotate: false
+  xy: 844, 827
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00003
+  rotate: false
+  xy: 506, 44
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00005
+  rotate: false
+  xy: 844, 785
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00007
+  rotate: true
+  xy: 940, 643
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00009
+  rotate: true
+  xy: 982, 643
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00011
+  rotate: true
+  xy: 940, 501
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00013
+  rotate: true
+  xy: 982, 501
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00015
+  rotate: true
+  xy: 940, 359
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00017
+  rotate: true
+  xy: 982, 359
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00019
+  rotate: false
+  xy: 506, 2
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00021
+  rotate: false
+  xy: 648, 2
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00023
+  rotate: false
+  xy: 790, 2
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00025
+  rotate: true
+  xy: 968, 217
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+zi_00027
+  rotate: true
+  xy: 968, 75
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1
+
+gongxihuode2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beigg_00015
+  rotate: false
+  xy: 2, 314
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00016
+  rotate: false
+  xy: 2, 132
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00017
+  rotate: false
+  xy: 184, 314
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00018
+  rotate: false
+  xy: 184, 132
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+beigg_00019
+  rotate: false
+  xy: 366, 314
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 2, 2
+  size: 128, 157
+  orig: 128, 157
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 366, 155
+  size: 128, 157
+  orig: 128, 157
+  offset: 0, 0
+  index: -1
+zi_00029
+  rotate: false
+  xy: 548, 454
+  size: 140, 40
+  orig: 140, 40
+  offset: 0, 0
+  index: -1

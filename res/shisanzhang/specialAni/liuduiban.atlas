@@ -1,0 +1,229 @@
+
+liuduiban.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K1
+  rotate: true
+  xy: 645, 817
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+K2
+  rotate: false
+  xy: 728, 829
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+liuduiban
+  rotate: true
+  xy: 789, 548
+  size: 279, 112
+  orig: 279, 112
+  offset: 0, 0
+  index: -1
+wu_00014
+  rotate: false
+  xy: 431, 810
+  size: 212, 212
+  orig: 379, 228
+  offset: 79, 10
+  index: -1
+you
+  rotate: true
+  xy: 607, 13
+  size: 190, 112
+  orig: 190, 112
+  offset: 0, 0
+  index: -1
+ziguang_00008
+  rotate: false
+  xy: 283, 3
+  size: 267, 91
+  orig: 427, 166
+  offset: 81, 44
+  index: -1
+ziguang_00010
+  rotate: true
+  xy: 928, 284
+  size: 275, 94
+  orig: 427, 166
+  offset: 73, 42
+  index: -1
+ziguang_00012
+  rotate: false
+  xy: 721, 2
+  size: 293, 97
+  orig: 427, 166
+  offset: 55, 41
+  index: -1
+ziguang_00016
+  rotate: false
+  xy: 283, 260
+  size: 326, 106
+  orig: 427, 166
+  offset: 22, 36
+  index: -1
+ziguang_00018
+  rotate: true
+  xy: 693, 205
+  size: 340, 112
+  orig: 427, 166
+  offset: 8, 33
+  index: -1
+ziguang_00020
+  rotate: true
+  xy: 311, 512
+  size: 348, 118
+  orig: 427, 166
+  offset: 0, 30
+  index: -1
+ziguang_00022
+  rotate: false
+  xy: 645, 896
+  size: 348, 126
+  orig: 427, 166
+  offset: 0, 26
+  index: -1
+ziguang_00024
+  rotate: true
+  xy: 147, 81
+  size: 363, 134
+  orig: 427, 166
+  offset: 0, 22
+  index: -1
+ziguang_00026
+  rotate: true
+  xy: 2, 64
+  size: 384, 143
+  orig: 427, 166
+  offset: 0, 17
+  index: -1
+ziguang_00028
+  rotate: true
+  xy: 157, 446
+  size: 414, 152
+  orig: 427, 166
+  offset: 0, 13
+  index: -1
+ziguang_00030
+  rotate: false
+  xy: 2, 862
+  size: 427, 160
+  orig: 427, 166
+  offset: 0, 6
+  index: -1
+ziguang_00032
+  rotate: true
+  xy: 2, 450
+  size: 410, 153
+  orig: 427, 166
+  offset: 17, 13
+  index: -1
+ziguang_00034
+  rotate: false
+  xy: 311, 368
+  size: 380, 142
+  orig: 427, 166
+  offset: 47, 18
+  index: -1
+ziguang_00036
+  rotate: false
+  xy: 431, 674
+  size: 356, 134
+  orig: 427, 166
+  offset: 71, 22
+  index: -1
+ziguang_00038
+  rotate: false
+  xy: 431, 547
+  size: 339, 125
+  orig: 427, 166
+  offset: 88, 27
+  index: -1
+ziguang_00040
+  rotate: true
+  xy: 807, 213
+  size: 333, 119
+  orig: 427, 166
+  offset: 94, 30
+  index: -1
+ziguang_00042
+  rotate: true
+  xy: 903, 561
+  size: 333, 112
+  orig: 427, 166
+  offset: 94, 33
+  index: -1
+ziguang_00044
+  rotate: false
+  xy: 283, 96
+  size: 322, 107
+  orig: 427, 166
+  offset: 94, 36
+  index: -1
+zuo
+  rotate: false
+  xy: 807, 101
+  size: 207, 110
+  orig: 207, 110
+  offset: 0, 0
+  index: -1
+
+liuduiban2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ziguang_00006
+  rotate: true
+  xy: 314, 237
+  size: 258, 89
+  orig: 427, 166
+  offset: 90, 45
+  index: -1
+ziguang_00014
+  rotate: false
+  xy: 2, 393
+  size: 310, 102
+  orig: 427, 166
+  offset: 38, 38
+  index: -1
+ziguang_00046
+  rotate: false
+  xy: 2, 289
+  size: 308, 102
+  orig: 427, 166
+  offset: 94, 38
+  index: -1
+ziguang_00048
+  rotate: false
+  xy: 2, 190
+  size: 291, 97
+  orig: 427, 166
+  offset: 94, 41
+  index: -1
+ziguang_00050
+  rotate: false
+  xy: 2, 95
+  size: 274, 93
+  orig: 427, 166
+  offset: 94, 43
+  index: -1
+ziguang_00052
+  rotate: false
+  xy: 2, 2
+  size: 266, 91
+  orig: 427, 166
+  offset: 94, 44
+  index: -1
+ziguang_00054
+  rotate: true
+  xy: 405, 238
+  size: 257, 89
+  orig: 427, 166
+  offset: 94, 45
+  index: -1

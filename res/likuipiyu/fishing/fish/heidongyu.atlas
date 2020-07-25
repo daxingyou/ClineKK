@@ -1,0 +1,537 @@
+
+heidongyu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackhole_00000
+  rotate: false
+  xy: 284, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00001
+  rotate: false
+  xy: 2, 724
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00002
+  rotate: false
+  xy: 506, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00003
+  rotate: false
+  xy: 728, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00004
+  rotate: false
+  xy: 284, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00005
+  rotate: false
+  xy: 2, 502
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00006
+  rotate: false
+  xy: 2, 280
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00007
+  rotate: false
+  xy: 2, 58
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00008
+  rotate: false
+  xy: 506, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00009
+  rotate: false
+  xy: 728, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00010
+  rotate: false
+  xy: 224, 259
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00011
+  rotate: false
+  xy: 224, 37
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00012
+  rotate: false
+  xy: 557, 358
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00013
+  rotate: false
+  xy: 552, 136
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00014
+  rotate: false
+  xy: 774, 42
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+dian_00001
+  rotate: false
+  xy: 620, 2
+  size: 150, 60
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00002
+  rotate: true
+  xy: 224, 794
+  size: 150, 58
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00004
+  rotate: true
+  xy: 950, 568
+  size: 150, 70
+  orig: 150, 80
+  offset: 0, 8
+  index: -1
+dian_00017
+  rotate: false
+  xy: 405, 490
+  size: 150, 76
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00018
+  rotate: true
+  xy: 939, 416
+  size: 150, 76
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00019
+  rotate: false
+  xy: 779, 342
+  size: 150, 76
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00020
+  rotate: true
+  xy: 950, 720
+  size: 150, 71
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00025
+  rotate: false
+  xy: 620, 64
+  size: 150, 70
+  orig: 150, 80
+  offset: 0, 8
+  index: -1
+dian_00027
+  rotate: true
+  xy: 931, 264
+  size: 150, 76
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00028
+  rotate: false
+  xy: 774, 264
+  size: 150, 76
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00029
+  rotate: true
+  xy: 950, 872
+  size: 150, 72
+  orig: 150, 80
+  offset: 0, 6
+  index: -1
+dianqiu_00000
+  rotate: false
+  xy: 2, 10
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+fish1_01
+  rotate: false
+  xy: 446, 121
+  size: 101, 67
+  orig: 138, 72
+  offset: 19, 3
+  index: -1
+fish1_02
+  rotate: false
+  xy: 446, 366
+  size: 104, 61
+  orig: 138, 72
+  offset: 16, 8
+  index: -1
+fish1_03
+  rotate: true
+  xy: 224, 481
+  size: 103, 56
+  orig: 138, 72
+  offset: 15, 14
+  index: -1
+fish1_04
+  rotate: true
+  xy: 224, 586
+  size: 104, 56
+  orig: 138, 72
+  offset: 14, 12
+  index: -1
+fish1_05
+  rotate: false
+  xy: 446, 429
+  size: 105, 59
+  orig: 138, 72
+  offset: 14, 10
+  index: -1
+fish1_06
+  rotate: false
+  xy: 446, 248
+  size: 103, 59
+  orig: 138, 72
+  offset: 16, 9
+  index: -1
+fish1_07
+  rotate: true
+  xy: 344, 484
+  size: 94, 59
+  orig: 138, 72
+  offset: 25, 9
+  index: -1
+fish1_08
+  rotate: true
+  xy: 282, 481
+  size: 97, 60
+  orig: 138, 72
+  offset: 22, 8
+  index: -1
+fish1_09
+  rotate: true
+  xy: 224, 692
+  size: 100, 57
+  orig: 138, 72
+  offset: 18, 11
+  index: -1
+fish1_10
+  rotate: false
+  xy: 446, 309
+  size: 104, 55
+  orig: 138, 72
+  offset: 14, 13
+  index: -1
+fish1_11
+  rotate: false
+  xy: 446, 190
+  size: 103, 56
+  orig: 138, 72
+  offset: 15, 13
+  index: -1
+fish1_12
+  rotate: true
+  xy: 549, 16
+  size: 118, 69
+  orig: 138, 72
+  offset: 0, 0
+  index: -1
+gg_00000
+  rotate: false
+  xy: 2, 946
+  size: 280, 76
+  orig: 300, 120
+  offset: 10, 22
+  index: -1
+yg_00000
+  rotate: false
+  xy: 779, 420
+  size: 158, 158
+  orig: 200, 200
+  offset: 21, 21
+  index: -1
+
+heidongyu2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackhole_00015
+  rotate: false
+  xy: 2, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00016
+  rotate: false
+  xy: 2, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00017
+  rotate: false
+  xy: 224, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00018
+  rotate: false
+  xy: 2, 358
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00019
+  rotate: false
+  xy: 224, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00020
+  rotate: false
+  xy: 446, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00021
+  rotate: false
+  xy: 2, 136
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00022
+  rotate: false
+  xy: 224, 358
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00023
+  rotate: false
+  xy: 446, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00024
+  rotate: false
+  xy: 668, 802
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00025
+  rotate: false
+  xy: 224, 136
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00026
+  rotate: false
+  xy: 446, 358
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00027
+  rotate: false
+  xy: 668, 580
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00028
+  rotate: false
+  xy: 446, 136
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+blackhole_00029
+  rotate: false
+  xy: 668, 358
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+dian_00000
+  rotate: true
+  xy: 890, 568
+  size: 150, 67
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00003
+  rotate: false
+  xy: 458, 2
+  size: 150, 64
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00005
+  rotate: false
+  xy: 2, 65
+  size: 150, 69
+  orig: 150, 80
+  offset: 0, 5
+  index: -1
+dian_00006
+  rotate: true
+  xy: 958, 416
+  size: 150, 64
+  orig: 150, 80
+  offset: 0, 8
+  index: -1
+dian_00007
+  rotate: false
+  xy: 668, 147
+  size: 150, 67
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00008
+  rotate: false
+  xy: 668, 81
+  size: 150, 64
+  orig: 150, 80
+  offset: 0, 3
+  index: -1
+dian_00009
+  rotate: false
+  xy: 610, 14
+  size: 150, 65
+  orig: 150, 80
+  offset: 0, 3
+  index: -1
+dian_00010
+  rotate: true
+  xy: 890, 872
+  size: 150, 69
+  orig: 150, 80
+  offset: 0, 4
+  index: -1
+dian_00011
+  rotate: false
+  xy: 668, 287
+  size: 150, 69
+  orig: 150, 80
+  offset: 0, 4
+  index: -1
+dian_00012
+  rotate: false
+  xy: 306, 66
+  size: 150, 68
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00013
+  rotate: false
+  xy: 458, 68
+  size: 150, 66
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00014
+  rotate: true
+  xy: 890, 416
+  size: 150, 66
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00015
+  rotate: true
+  xy: 889, 206
+  size: 150, 64
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00016
+  rotate: false
+  xy: 154, 65
+  size: 150, 69
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00021
+  rotate: true
+  xy: 888, 54
+  size: 150, 64
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00022
+  rotate: true
+  xy: 890, 720
+  size: 150, 69
+  orig: 150, 80
+  offset: 0, 2
+  index: -1
+dian_00023
+  rotate: false
+  xy: 668, 216
+  size: 150, 69
+  orig: 150, 80
+  offset: 0, 9
+  index: -1
+dian_00024
+  rotate: true
+  xy: 820, 206
+  size: 150, 67
+  orig: 150, 80
+  offset: 0, 11
+  index: -1
+dian_00026
+  rotate: true
+  xy: 820, 54
+  size: 150, 66
+  orig: 150, 80
+  offset: 0, 10
+  index: -1

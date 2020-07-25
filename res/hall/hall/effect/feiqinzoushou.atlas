@@ -1,0 +1,62 @@
+
+feiqinzoushou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiqinzoushou
+  rotate: false
+  xy: 424, 154
+  size: 167, 49
+  orig: 167, 49
+  offset: 0, 0
+  index: -1
+gezi
+  rotate: true
+  xy: 858, 104
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+kongyue
+  rotate: true
+  xy: 593, 109
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 14
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+quan+
+  rotate: false
+  xy: 208, 132
+  size: 214, 71
+  orig: 214, 71
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 208, 13
+  size: 117, 161
+  orig: 117, 161
+  offset: 0, 0
+  index: -1
+shizitou
+  rotate: true
+  xy: 730, 88
+  size: 115, 126
+  orig: 115, 126
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 2, 2
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1

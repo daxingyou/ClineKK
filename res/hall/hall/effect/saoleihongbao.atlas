@@ -1,0 +1,216 @@
+
+saoleihongbao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dislhb
+  rotate: false
+  xy: 2, 56
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+fangkuai
+  rotate: false
+  xy: 404, 38
+  size: 31, 36
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+hbao
+  rotate: false
+  xy: 208, 35
+  size: 160, 137
+  orig: 160, 137
+  offset: 0, 0
+  index: -1
+heitao
+  rotate: false
+  xy: 581, 203
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+hongtao
+  rotate: false
+  xy: 2, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 96, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 442, 112
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 967, 227
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 874, 220
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+j5
+  rotate: false
+  xy: 581, 131
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+j6
+  rotate: false
+  xy: 944, 222
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+j7
+  rotate: false
+  xy: 405, 142
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+j8
+  rotate: false
+  xy: 800, 219
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+qianm
+  rotate: false
+  xy: 208, 174
+  size: 232, 71
+  orig: 232, 71
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: true
+  xy: 442, 127
+  size: 118, 137
+  orig: 118, 137
+  offset: 0, 0
+  index: -1
+zhadan_00001
+  rotate: true
+  xy: 405, 110
+  size: 30, 35
+  orig: 75, 75
+  offset: 15, 25
+  index: -1
+zhadan_00003
+  rotate: true
+  xy: 909, 220
+  size: 25, 33
+  orig: 75, 75
+  offset: 23, 30
+  index: -1
+zhadan_00005
+  rotate: true
+  xy: 627, 216
+  size: 29, 45
+  orig: 75, 75
+  offset: 21, 20
+  index: -1
+zhadan_00007
+  rotate: false
+  xy: 370, 76
+  size: 29, 45
+  orig: 75, 75
+  offset: 24, 22
+  index: -1
+zhadan_00009
+  rotate: false
+  xy: 581, 156
+  size: 30, 45
+  orig: 75, 75
+  offset: 18, 16
+  index: -1
+zhadan_00011
+  rotate: false
+  xy: 758, 222
+  size: 40, 23
+  orig: 75, 75
+  offset: 12, 39
+  index: -1
+zhadan_00013
+  rotate: true
+  xy: 370, 35
+  size: 39, 32
+  orig: 75, 75
+  offset: 16, 31
+  index: -1
+zhadan_00015
+  rotate: false
+  xy: 58, 10
+  size: 36, 44
+  orig: 75, 75
+  offset: 11, 21
+  index: -1
+zhadan_00017
+  rotate: true
+  xy: 718, 216
+  size: 29, 38
+  orig: 75, 75
+  offset: 19, 30
+  index: -1
+zhadan_00019
+  rotate: true
+  xy: 150, 32
+  size: 22, 44
+  orig: 75, 75
+  offset: 26, 26
+  index: -1
+zhadan_00021
+  rotate: true
+  xy: 838, 220
+  size: 25, 34
+  orig: 75, 75
+  offset: 22, 35
+  index: -1
+zhadan_00023
+  rotate: true
+  xy: 674, 218
+  size: 27, 42
+  orig: 75, 75
+  offset: 19, 24
+  index: -1
+zhadan_00025
+  rotate: true
+  xy: 96, 32
+  size: 22, 52
+  orig: 75, 75
+  offset: 27, 11
+  index: -1
+zhadan_00027
+  rotate: false
+  xy: 370, 123
+  size: 33, 49
+  orig: 75, 75
+  offset: 22, 13
+  index: -1
+zhadan_00029
+  rotate: false
+  xy: 401, 76
+  size: 40, 32
+  orig: 75, 75
+  offset: 20, 30
+  index: -1

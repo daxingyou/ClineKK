@@ -1,0 +1,97 @@
+
+shenhailieshou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang
+  rotate: false
+  xy: 687, 221
+  size: 118, 96
+  orig: 120, 98
+  offset: 1, 1
+  index: -1
+baoxiangdeep_00
+  rotate: false
+  xy: 262, 29
+  size: 148, 80
+  orig: 220, 100
+  offset: 26, 11
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 111
+  size: 308, 399
+  orig: 310, 401
+  offset: 1, 1
+  index: -1
+jinbi1
+  rotate: true
+  xy: 50, 2
+  size: 46, 41
+  orig: 48, 43
+  offset: 1, 1
+  index: -1
+jinbi2
+  rotate: false
+  xy: 888, 400
+  size: 38, 32
+  orig: 40, 34
+  offset: 1, 1
+  index: -1
+jinbi3
+  rotate: false
+  xy: 931, 468
+  size: 33, 42
+  orig: 35, 44
+  offset: 1, 1
+  index: -1
+shanhu
+  rotate: true
+  xy: 507, 119
+  size: 215, 178
+  orig: 217, 180
+  offset: 1, 1
+  index: -1
+shenhailieshou
+  rotate: false
+  xy: 2, 50
+  size: 258, 59
+  orig: 260, 61
+  offset: 1, 1
+  index: -1
+xiangliandep_00
+  rotate: false
+  xy: 723, 319
+  size: 163, 113
+  orig: 220, 150
+  offset: 29, 15
+  index: -1
+yanhuo_00
+  rotate: false
+  xy: 2, 2
+  size: 46, 46
+  orig: 75, 75
+  offset: 16, 13
+  index: -1
+yudi
+  rotate: false
+  xy: 723, 434
+  size: 206, 76
+  orig: 208, 78
+  offset: 1, 1
+  index: -1
+yue
+  rotate: false
+  xy: 312, 111
+  size: 193, 223
+  orig: 195, 225
+  offset: 1, 1
+  index: -1
+zidi
+  rotate: false
+  xy: 312, 336
+  size: 409, 174
+  orig: 411, 176
+  offset: 1, 1
+  index: -1

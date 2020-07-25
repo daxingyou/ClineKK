@@ -1,0 +1,265 @@
+
+hulu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hulu
+  rotate: true
+  xy: 369, 518
+  size: 140, 63
+  orig: 140, 63
+  offset: 0, 0
+  index: -1
+hulu1
+  rotate: false
+  xy: 406, 691
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+hulufx_00011
+  rotate: true
+  xy: 899, 943
+  size: 79, 114
+  orig: 200, 180
+  offset: 65, 34
+  index: -1
+hulufx_00012
+  rotate: false
+  xy: 406, 842
+  size: 197, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+hulufx_00013
+  rotate: false
+  xy: 2, 842
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+hulufx_00014
+  rotate: false
+  xy: 2, 660
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+hulufx_00015
+  rotate: false
+  xy: 204, 842
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+hulufx_00016
+  rotate: false
+  xy: 2, 478
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+hulufx_00017
+  rotate: false
+  xy: 204, 660
+  size: 200, 180
+  orig: 200, 180
+  offset: 0, 0
+  index: -1
+hulufx_00018
+  rotate: false
+  xy: 204, 501
+  size: 163, 157
+  orig: 200, 180
+  offset: 17, 0
+  index: -1
+liuguang1_00000
+  rotate: true
+  xy: 302, 343
+  size: 77, 60
+  orig: 80, 130
+  offset: 3, 0
+  index: -1
+liuguang1_00001
+  rotate: false
+  xy: 190, 172
+  size: 78, 62
+  orig: 80, 130
+  offset: 2, 0
+  index: -1
+liuguang1_00002
+  rotate: false
+  xy: 270, 171
+  size: 79, 67
+  orig: 80, 130
+  offset: 1, 0
+  index: -1
+liuguang1_00003
+  rotate: false
+  xy: 320, 423
+  size: 79, 76
+  orig: 80, 130
+  offset: 1, 1
+  index: -1
+liuguang1_00004
+  rotate: false
+  xy: 254, 80
+  size: 78, 89
+  orig: 80, 130
+  offset: 2, 1
+  index: -1
+liuguang1_00005
+  rotate: false
+  xy: 268, 240
+  size: 78, 101
+  orig: 80, 130
+  offset: 2, 2
+  index: -1
+liuguang1_00006
+  rotate: true
+  xy: 903, 864
+  size: 77, 110
+  orig: 80, 130
+  offset: 3, 4
+  index: -1
+liuguang1_00007
+  rotate: true
+  xy: 204, 422
+  size: 77, 114
+  orig: 80, 130
+  offset: 3, 7
+  index: -1
+liuguang1_00008
+  rotate: true
+  xy: 189, 343
+  size: 77, 111
+  orig: 80, 130
+  offset: 3, 11
+  index: -1
+liuguang1_00009
+  rotate: false
+  xy: 190, 236
+  size: 76, 105
+  orig: 80, 130
+  offset: 4, 19
+  index: -1
+liuguang1_00010
+  rotate: false
+  xy: 176, 75
+  size: 76, 95
+  orig: 80, 130
+  offset: 4, 31
+  index: -1
+liuguang1_00011
+  rotate: false
+  xy: 364, 337
+  size: 70, 84
+  orig: 80, 130
+  offset: 5, 42
+  index: -1
+liuguang1_00012
+  rotate: false
+  xy: 2, 2
+  size: 67, 72
+  orig: 80, 130
+  offset: 6, 54
+  index: -1
+liuguang1_00013
+  rotate: false
+  xy: 434, 514
+  size: 61, 33
+  orig: 80, 130
+  offset: 8, 91
+  index: -1
+liuguang1_00014
+  rotate: false
+  xy: 369, 501
+  size: 46, 15
+  orig: 80, 130
+  offset: 10, 107
+  index: -1
+tengman
+  rotate: true
+  xy: 2, 219
+  size: 257, 96
+  orig: 257, 96
+  offset: 0, 0
+  index: -1
+yezi_00001
+  rotate: true
+  xy: 511, 567
+  size: 129, 66
+  orig: 160, 120
+  offset: 17, 53
+  index: -1
+yezi_00002
+  rotate: true
+  xy: 434, 549
+  size: 140, 75
+  orig: 160, 120
+  offset: 13, 43
+  index: -1
+yezi_00003
+  rotate: true
+  xy: 96, 50
+  size: 145, 78
+  orig: 160, 120
+  offset: 10, 38
+  index: -1
+yezi_00004
+  rotate: false
+  xy: 754, 857
+  size: 147, 79
+  orig: 160, 120
+  offset: 9, 33
+  index: -1
+yezi_00005
+  rotate: false
+  xy: 605, 850
+  size: 147, 81
+  orig: 160, 120
+  offset: 9, 27
+  index: -1
+yezi_00006
+  rotate: false
+  xy: 751, 938
+  size: 146, 84
+  orig: 160, 120
+  offset: 9, 21
+  index: -1
+yezi_00007
+  rotate: true
+  xy: 100, 331
+  size: 145, 87
+  orig: 160, 120
+  offset: 10, 15
+  index: -1
+yezi_00008
+  rotate: false
+  xy: 605, 933
+  size: 144, 89
+  orig: 160, 120
+  offset: 11, 10
+  index: -1
+yezi_00009
+  rotate: true
+  xy: 500, 698
+  size: 142, 90
+  orig: 160, 120
+  offset: 12, 6
+  index: -1
+yezi_00010
+  rotate: true
+  xy: 2, 76
+  size: 141, 92
+  orig: 160, 120
+  offset: 13, 1
+  index: -1
+yezi_00011
+  rotate: true
+  xy: 100, 197
+  size: 132, 88
+  orig: 160, 120
+  offset: 18, 0
+  index: -1

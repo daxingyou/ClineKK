@@ -1,0 +1,62 @@
+
+jingbaodeng.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingbaodeng_00000
+  rotate: true
+  xy: 919, 40
+  size: 180, 96
+  orig: 202, 111
+  offset: 7, 7
+  index: -1
+jingbaodeng_00001
+  rotate: false
+  xy: 563, 119
+  size: 176, 101
+  orig: 202, 111
+  offset: 11, 7
+  index: -1
+jingbaodeng_00002
+  rotate: false
+  xy: 741, 119
+  size: 176, 101
+  orig: 202, 111
+  offset: 11, 7
+  index: -1
+jingbaodeng_00003
+  rotate: false
+  xy: 384, 118
+  size: 177, 102
+  orig: 202, 111
+  offset: 10, 6
+  index: -1
+jingbaodeng_00004
+  rotate: false
+  xy: 194, 4
+  size: 178, 106
+  orig: 202, 111
+  offset: 8, 2
+  index: -1
+jingbaodeng_00005
+  rotate: false
+  xy: 198, 112
+  size: 184, 108
+  orig: 202, 111
+  offset: 5, 0
+  index: -1
+jingbaodeng_00006
+  rotate: false
+  xy: 2, 2
+  size: 190, 108
+  orig: 202, 111
+  offset: 2, 0
+  index: -1
+jingbaodeng_00007
+  rotate: false
+  xy: 2, 112
+  size: 194, 108
+  orig: 202, 111
+  offset: 0, 0
+  index: -1

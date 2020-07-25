@@ -1,0 +1,68 @@
+
+sanshunzi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat1
+  rotate: false
+  xy: 593, 261
+  size: 199, 173
+  orig: 205, 190
+  offset: 3, 0
+  index: -1
+boat2
+  rotate: false
+  xy: 593, 87
+  size: 199, 172
+  orig: 205, 190
+  offset: 3, 1
+  index: -1
+sanshunzi
+  rotate: false
+  xy: 2, 2
+  size: 260, 91
+  orig: 260, 91
+  offset: 0, 0
+  index: -1
+wu_00014 (2)
+  rotate: false
+  xy: 714, 436
+  size: 212, 212
+  orig: 379, 228
+  offset: 79, 10
+  index: -1
+yun (1)
+  rotate: true
+  xy: 714, 650
+  size: 342, 220
+  orig: 342, 220
+  offset: 0, 0
+  index: -1
+yun (2)
+  rotate: false
+  xy: 2, 95
+  size: 589, 411
+  orig: 589, 411
+  offset: 0, 0
+  index: -1
+yun (3)
+  rotate: false
+  xy: 2, 508
+  size: 710, 484
+  orig: 710, 484
+  offset: 0, 0
+  index: -1
+
+sanshunzi2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun (4)
+  rotate: false
+  xy: 2, 2
+  size: 593, 357
+  orig: 595, 357
+  offset: 0, 0
+  index: -1

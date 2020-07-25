@@ -1,0 +1,167 @@
+
+xiongmao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 978, 460
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 618, 204
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 679, 314
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 105, 106
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 528, 20
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 734, 350
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 57, 30
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 978, 409
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 588, 202
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 57, 2
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 588, 254
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+guangban
+  rotate: false
+  xy: 2, 158
+  size: 354, 352
+  orig: 354, 352
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 679, 344
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+panda-body
+  rotate: false
+  xy: 358, 186
+  size: 228, 214
+  orig: 228, 214
+  offset: 0, 0
+  index: -1
+panda-ear
+  rotate: false
+  xy: 588, 305
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+panda-eyes2
+  rotate: true
+  xy: 528, 71
+  size: 113, 47
+  orig: 113, 47
+  offset: 0, 0
+  index: -1
+panda-hair
+  rotate: false
+  xy: 2, 82
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+panda-head
+  rotate: true
+  xy: 358, 2
+  size: 182, 168
+  orig: 182, 168
+  offset: 0, 0
+  index: -1
+panda-leg1
+  rotate: true
+  xy: 834, 403
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+panda-zui
+  rotate: false
+  xy: 528, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 135, 117
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 2, 24
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+xiongmao
+  rotate: false
+  xy: 358, 402
+  size: 474, 108
+  orig: 474, 108
+  offset: 0, 0
+  index: -1

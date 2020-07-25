@@ -1,0 +1,237 @@
+
+baole.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 191
+  size: 179, 63
+  orig: 179, 63
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: true
+  xy: 182, 2
+  size: 35, 84
+  orig: 35, 84
+  offset: 0, 0
+  index: -1
+shandiantx_00001
+  rotate: false
+  xy: 967, 184
+  size: 55, 70
+  orig: 110, 90
+  offset: 43, 9
+  index: -1
+shandiantx_00002
+  rotate: true
+  xy: 891, 198
+  size: 56, 74
+  orig: 110, 90
+  offset: 41, 7
+  index: -1
+shandiantx_00003
+  rotate: true
+  xy: 813, 195
+  size: 59, 76
+  orig: 110, 90
+  offset: 40, 6
+  index: -1
+shandiantx_00004
+  rotate: true
+  xy: 183, 192
+  size: 62, 77
+  orig: 110, 90
+  offset: 38, 5
+  index: -1
+shandiantx_00005
+  rotate: false
+  xy: 185, 113
+  size: 81, 77
+  orig: 110, 90
+  offset: 13, 6
+  index: -1
+shandiantx_00006
+  rotate: false
+  xy: 98, 114
+  size: 85, 75
+  orig: 110, 90
+  offset: 8, 7
+  index: -1
+shandiantx_00007
+  rotate: false
+  xy: 182, 39
+  size: 82, 72
+  orig: 110, 90
+  offset: 9, 7
+  index: -1
+shandiantx_00008
+  rotate: false
+  xy: 97, 37
+  size: 83, 75
+  orig: 110, 90
+  offset: 9, 6
+  index: -1
+shandiantx_00009
+  rotate: true
+  xy: 735, 189
+  size: 65, 76
+  orig: 110, 90
+  offset: 9, 6
+  index: -1
+shandiantx_00010
+  rotate: true
+  xy: 422, 114
+  size: 71, 77
+  orig: 110, 90
+  offset: 9, 6
+  index: -1
+shandiantx_00011
+  rotate: true
+  xy: 645, 57
+  size: 49, 64
+  orig: 110, 90
+  offset: 8, 16
+  index: -1
+shandiantx_00012
+  rotate: false
+  xy: 758, 57
+  size: 41, 61
+  orig: 110, 90
+  offset: 9, 18
+  index: -1
+shandiantx_00013
+  rotate: false
+  xy: 2, 42
+  size: 93, 72
+  orig: 110, 90
+  offset: 8, 8
+  index: -1
+shandiantx_00014
+  rotate: false
+  xy: 2, 116
+  size: 94, 73
+  orig: 110, 90
+  offset: 8, 7
+  index: -1
+shandiantx_00015
+  rotate: true
+  xy: 262, 197
+  size: 57, 79
+  orig: 110, 90
+  offset: 29, 4
+  index: -1
+shandiantx_00016
+  rotate: true
+  xy: 343, 187
+  size: 67, 79
+  orig: 110, 90
+  offset: 35, 4
+  index: -1
+shandiantx_00017
+  rotate: true
+  xy: 424, 187
+  size: 67, 79
+  orig: 110, 90
+  offset: 35, 4
+  index: -1
+shandiantx_00018
+  rotate: false
+  xy: 268, 116
+  size: 71, 79
+  orig: 110, 90
+  offset: 31, 4
+  index: -1
+shandiantx_00019
+  rotate: true
+  xy: 341, 114
+  size: 71, 79
+  orig: 110, 90
+  offset: 31, 4
+  index: -1
+shandiantx_00020
+  rotate: true
+  xy: 505, 179
+  size: 75, 77
+  orig: 110, 90
+  offset: 31, 5
+  index: -1
+shandiantx_00021
+  rotate: true
+  xy: 501, 112
+  size: 65, 69
+  orig: 110, 90
+  offset: 44, 6
+  index: -1
+shandiantx_00022
+  rotate: false
+  xy: 584, 179
+  size: 73, 75
+  orig: 110, 90
+  offset: 35, 7
+  index: -1
+shandiantx_00023
+  rotate: false
+  xy: 659, 182
+  size: 74, 72
+  orig: 110, 90
+  offset: 34, 9
+  index: -1
+shandiantx_00024
+  rotate: true
+  xy: 711, 47
+  size: 62, 45
+  orig: 110, 90
+  offset: 46, 34
+  index: -1
+shandiantx_00025
+  rotate: true
+  xy: 572, 67
+  size: 51, 71
+  orig: 110, 90
+  offset: 53, 7
+  index: -1
+shandiantx_00026
+  rotate: true
+  xy: 572, 120
+  size: 57, 71
+  orig: 110, 90
+  offset: 47, 7
+  index: -1
+shandiantx_00027
+  rotate: false
+  xy: 645, 108
+  size: 51, 69
+  orig: 110, 90
+  offset: 52, 9
+  index: -1
+shandiantx_00028
+  rotate: false
+  xy: 698, 111
+  size: 55, 69
+  orig: 110, 90
+  offset: 45, 9
+  index: -1
+shandiantx_00029
+  rotate: false
+  xy: 755, 120
+  size: 47, 67
+  orig: 110, 90
+  offset: 51, 10
+  index: -1
+zibao_00000
+  rotate: false
+  xy: 804, 135
+  size: 49, 52
+  orig: 70, 70
+  offset: 10, 8
+  index: -1
+zile_00000
+  rotate: false
+  xy: 855, 145
+  size: 45, 48
+  orig: 70, 70
+  offset: 15, 10
+  index: -1

@@ -1,0 +1,90 @@
+
+shuying.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_00000
+  rotate: false
+  xy: 570, 388
+  size: 122, 122
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+di
+  rotate: false
+  xy: 174, 148
+  size: 95, 48
+  orig: 95, 48
+  offset: 0, 0
+  index: -1
+di (2)
+  rotate: false
+  xy: 2, 57
+  size: 117, 41
+  orig: 117, 41
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 2, 198
+  size: 301, 312
+  orig: 301, 312
+  offset: 0, 0
+  index: -1
+guangxiao (2)
+  rotate: false
+  xy: 305, 207
+  size: 263, 303
+  orig: 263, 303
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 100
+  size: 170, 96
+  orig: 170, 96
+  offset: 0, 0
+  index: -1
+shule
+  rotate: false
+  xy: 174, 102
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+yingle
+  rotate: true
+  xy: 570, 234
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 570, 318
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+you (2)
+  rotate: false
+  xy: 2, 2
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 694, 442
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+zuo (2)
+  rotate: false
+  xy: 59, 2
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1

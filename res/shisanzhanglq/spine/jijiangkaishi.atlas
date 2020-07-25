@@ -1,0 +1,41 @@
+
+jijiangkaishi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 385, 95
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+jijiangkaishi
+  rotate: false
+  xy: 2, 61
+  size: 381, 57
+  orig: 381, 57
+  offset: 0, 0
+  index: -1
+jijiangkaishi2
+  rotate: false
+  xy: 2, 2
+  size: 311, 57
+  orig: 381, 57
+  offset: 0, 0
+  index: -1
+jjks_mohu
+  rotate: false
+  xy: 635, 134
+  size: 381, 57
+  orig: 381, 57
+  offset: 0, 0
+  index: -1
+zidi
+  rotate: false
+  xy: 2, 120
+  size: 631, 71
+  orig: 631, 71
+  offset: 0, 0
+  index: -1

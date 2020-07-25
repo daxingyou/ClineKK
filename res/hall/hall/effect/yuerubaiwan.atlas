@@ -1,0 +1,279 @@
+
+yuerubaiwan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 2, 83
+  size: 171, 101
+  orig: 171, 101
+  offset: 0, 0
+  index: -1
+guangdian_00
+  rotate: false
+  xy: 666, 94
+  size: 300, 160
+  orig: 300, 160
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 968, 42
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 611, 2
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 943, 39
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: true
+  xy: 792, 3
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+jinbi5
+  rotate: false
+  xy: 594, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+jinbi6
+  rotate: false
+  xy: 953, 15
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+jinbi7
+  rotate: false
+  xy: 771, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+saoguang_02
+  rotate: false
+  xy: 392, 2
+  size: 129, 8
+  orig: 200, 120
+  offset: 35, 23
+  index: -1
+saoguang_03
+  rotate: false
+  xy: 627, 3
+  size: 142, 13
+  orig: 200, 120
+  offset: 29, 23
+  index: -1
+saoguang_04
+  rotate: true
+  xy: 968, 99
+  size: 155, 20
+  orig: 200, 120
+  offset: 23, 23
+  index: -1
+saoguang_05
+  rotate: true
+  xy: 608, 91
+  size: 163, 27
+  orig: 200, 120
+  offset: 19, 23
+  index: -1
+saoguang_06
+  rotate: true
+  xy: 533, 87
+  size: 167, 37
+  orig: 200, 120
+  offset: 17, 23
+  index: -1
+saoguang_07
+  rotate: true
+  xy: 438, 85
+  size: 169, 47
+  orig: 200, 120
+  offset: 16, 23
+  index: -1
+saoguang_08
+  rotate: true
+  xy: 323, 85
+  size: 169, 57
+  orig: 200, 120
+  offset: 16, 23
+  index: -1
+saoguang_09
+  rotate: true
+  xy: 187, 85
+  size: 169, 68
+  orig: 200, 120
+  offset: 16, 23
+  index: -1
+saoguang_10
+  rotate: true
+  xy: 105, 85
+  size: 169, 80
+  orig: 200, 120
+  offset: 16, 23
+  index: -1
+saoguang_11
+  rotate: false
+  xy: 2, 6
+  size: 169, 75
+  orig: 200, 120
+  offset: 16, 35
+  index: -1
+saoguang_12
+  rotate: true
+  xy: 257, 85
+  size: 169, 64
+  orig: 200, 120
+  offset: 16, 46
+  index: -1
+saoguang_13
+  rotate: true
+  xy: 382, 85
+  size: 169, 54
+  orig: 200, 120
+  offset: 16, 56
+  index: -1
+saoguang_14
+  rotate: true
+  xy: 487, 85
+  size: 169, 44
+  orig: 200, 120
+  offset: 16, 66
+  index: -1
+saoguang_15
+  rotate: true
+  xy: 572, 88
+  size: 166, 34
+  orig: 200, 120
+  offset: 17, 76
+  index: -1
+saoguang_16
+  rotate: true
+  xy: 637, 92
+  size: 162, 27
+  orig: 200, 120
+  offset: 19, 83
+  index: -1
+saoguang_17
+  rotate: true
+  xy: 990, 100
+  size: 154, 20
+  orig: 200, 120
+  offset: 23, 90
+  index: -1
+saoguang_18
+  rotate: false
+  xy: 805, 5
+  size: 146, 15
+  orig: 200, 120
+  offset: 27, 95
+  index: -1
+zi
+  rotate: false
+  xy: 811, 26
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+ziliuguang_00
+  rotate: true
+  xy: 560, 2
+  size: 10, 32
+  orig: 300, 160
+  offset: 85, 81
+  index: -1
+ziliuguang_01
+  rotate: false
+  xy: 780, 22
+  size: 29, 70
+  orig: 300, 160
+  offset: 82, 47
+  index: -1
+ziliuguang_02
+  rotate: false
+  xy: 686, 21
+  size: 45, 71
+  orig: 300, 160
+  offset: 82, 47
+  index: -1
+ziliuguang_03
+  rotate: false
+  xy: 560, 14
+  size: 61, 71
+  orig: 300, 160
+  offset: 82, 47
+  index: -1
+ziliuguang_04
+  rotate: true
+  xy: 246, 9
+  size: 74, 71
+  orig: 300, 160
+  offset: 85, 47
+  index: -1
+ziliuguang_05
+  rotate: false
+  xy: 392, 12
+  size: 82, 71
+  orig: 300, 160
+  offset: 93, 47
+  index: -1
+ziliuguang_06
+  rotate: false
+  xy: 476, 12
+  size: 82, 71
+  orig: 300, 160
+  offset: 109, 47
+  index: -1
+ziliuguang_07
+  rotate: true
+  xy: 173, 2
+  size: 81, 71
+  orig: 300, 160
+  offset: 125, 47
+  index: -1
+ziliuguang_08
+  rotate: true
+  xy: 319, 11
+  size: 72, 71
+  orig: 300, 160
+  offset: 142, 47
+  index: -1
+ziliuguang_09
+  rotate: false
+  xy: 623, 18
+  size: 61, 71
+  orig: 300, 160
+  offset: 157, 47
+  index: -1
+ziliuguang_10
+  rotate: false
+  xy: 733, 22
+  size: 45, 70
+  orig: 300, 160
+  offset: 173, 47
+  index: -1
+ziliuguang_11
+  rotate: true
+  xy: 953, 65
+  size: 27, 66
+  orig: 300, 160
+  offset: 190, 47
+  index: -1

@@ -1,0 +1,146 @@
+
+quanjubipai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_00008
+  rotate: false
+  xy: 2, 401
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00009
+  rotate: false
+  xy: 2, 269
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00010
+  rotate: false
+  xy: 234, 401
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00011
+  rotate: false
+  xy: 2, 137
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00012
+  rotate: false
+  xy: 234, 269
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00013
+  rotate: true
+  xy: 466, 301
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00014
+  rotate: false
+  xy: 2, 5
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00015
+  rotate: false
+  xy: 234, 137
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00016
+  rotate: false
+  xy: 234, 5
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00017
+  rotate: true
+  xy: 466, 69
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00018
+  rotate: false
+  xy: 612, 732
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00019
+  rotate: false
+  xy: 602, 600
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bao_00020
+  rotate: false
+  xy: 602, 468
+  size: 230, 130
+  orig: 230, 130
+  offset: 0, 0
+  index: -1
+bi
+  rotate: false
+  xy: 612, 864
+  size: 233, 158
+  orig: 233, 158
+  offset: 0, 0
+  index: -1
+dian_00006
+  rotate: true
+  xy: 598, 80
+  size: 255, 78
+  orig: 255, 78
+  offset: 0, 0
+  index: -1
+h_00005
+  rotate: false
+  xy: 466, 2
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+h_00006
+  rotate: false
+  xy: 583, 2
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 598, 337
+  size: 225, 129
+  orig: 225, 129
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 2, 533
+  size: 598, 241
+  orig: 598, 241
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 2, 776
+  size: 608, 246
+  orig: 608, 246
+  offset: 0, 0
+  index: -1

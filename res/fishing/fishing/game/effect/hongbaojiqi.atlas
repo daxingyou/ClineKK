@@ -1,0 +1,118 @@
+
+hongbaojiqi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiqi_00000
+  rotate: true
+  xy: 264, 537
+  size: 254, 138
+  orig: 300, 180
+  offset: 18, 24
+  index: -1
+jiqi_00001
+  rotate: false
+  xy: 735, 416
+  size: 242, 144
+  orig: 300, 180
+  offset: 30, 20
+  index: -1
+jiqi_00002
+  rotate: true
+  xy: 162, 34
+  size: 255, 152
+  orig: 300, 180
+  offset: 18, 16
+  index: -1
+jiqi_00003
+  rotate: true
+  xy: 2, 31
+  size: 258, 158
+  orig: 300, 180
+  offset: 18, 13
+  index: -1
+jiqi_00004
+  rotate: false
+  xy: 2, 459
+  size: 260, 162
+  orig: 300, 180
+  offset: 18, 11
+  index: -1
+jiqi_00005
+  rotate: false
+  xy: 532, 798
+  size: 258, 163
+  orig: 300, 180
+  offset: 18, 12
+  index: -1
+jiqi_00006
+  rotate: true
+  xy: 792, 715
+  size: 246, 165
+  orig: 300, 180
+  offset: 26, 10
+  index: -1
+jiqi_00007
+  rotate: false
+  xy: 2, 291
+  size: 252, 166
+  orig: 300, 180
+  offset: 23, 10
+  index: -1
+jiqi_00008
+  rotate: false
+  xy: 2, 623
+  size: 260, 168
+  orig: 300, 180
+  offset: 19, 10
+  index: -1
+jiqi_00009
+  rotate: false
+  xy: 2, 793
+  size: 265, 168
+  orig: 300, 180
+  offset: 17, 10
+  index: -1
+jiqi_00010
+  rotate: false
+  xy: 269, 795
+  size: 261, 166
+  orig: 300, 180
+  offset: 18, 11
+  index: -1
+jiqi_00011
+  rotate: true
+  xy: 568, 552
+  size: 244, 165
+  orig: 300, 180
+  offset: 27, 11
+  index: -1
+jiqi_00012
+  rotate: true
+  xy: 404, 545
+  size: 248, 162
+  orig: 300, 180
+  offset: 26, 12
+  index: -1
+jiqi_00013
+  rotate: false
+  xy: 735, 562
+  size: 247, 151
+  orig: 300, 180
+  offset: 26, 17
+  index: -1
+jiqi_00014
+  rotate: false
+  xy: 264, 397
+  size: 242, 138
+  orig: 300, 180
+  offset: 30, 24
+  index: -1
+zi
+  rotate: false
+  xy: 2, 2
+  size: 108, 27
+  orig: 108, 27
+  offset: 0, 0
+  index: -1

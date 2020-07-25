@@ -1,0 +1,83 @@
+
+dizhuchuxian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizhu2
+  rotate: false
+  xy: 561, 564
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+dizhu_00
+  rotate: false
+  xy: 561, 623
+  size: 159, 153
+  orig: 500, 300
+  offset: 171, 74
+  index: -1
+dizhu_01
+  rotate: true
+  xy: 386, 551
+  size: 201, 173
+  orig: 500, 300
+  offset: 150, 64
+  index: -1
+dizhu_02
+  rotate: false
+  xy: 2, 28
+  size: 310, 214
+  orig: 500, 300
+  offset: 95, 38
+  index: -1
+dizhu_03
+  rotate: false
+  xy: 410, 778
+  size: 356, 234
+  orig: 500, 300
+  offset: 72, 30
+  index: -1
+dizhu_04
+  rotate: false
+  xy: 2, 503
+  size: 382, 249
+  orig: 500, 300
+  offset: 60, 25
+  index: -1
+dizhu_05
+  rotate: false
+  xy: 2, 754
+  size: 406, 258
+  orig: 500, 300
+  offset: 47, 21
+  index: -1
+dizhu_06
+  rotate: false
+  xy: 2, 244
+  size: 330, 257
+  orig: 500, 300
+  offset: 92, 20
+  index: -1
+dizhu_07
+  rotate: true
+  xy: 768, 738
+  size: 274, 246
+  orig: 500, 300
+  offset: 117, 28
+  index: -1
+dizhu_08
+  rotate: true
+  xy: 334, 240
+  size: 261, 228
+  orig: 500, 300
+  offset: 120, 36
+  index: -1
+dizhu_09
+  rotate: false
+  xy: 314, 2
+  size: 264, 236
+  orig: 500, 300
+  offset: 118, 32
+  index: -1
